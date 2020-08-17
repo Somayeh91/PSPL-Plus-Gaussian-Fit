@@ -1,0 +1,4247 @@
+,chi_sub,is_in_matts,name
+0,"3878    29.271243
+Name: chi_sub, dtype: float64",0,cassan_0_102_85.det.lc.gz
+1,"3879    37.919193
+Name: chi_sub, dtype: float64",0,cassan_0_109_194.det.lc.gz
+2,"3880    35.653418
+Name: chi_sub, dtype: float64",0,cassan_0_109_2907.det.lc.gz
+3,"3886    16.949634
+Name: chi_sub, dtype: float64",0,cassan_0_113_302.det.lc.gz
+6,"3890    37.244694
+Name: chi_sub, dtype: float64",0,cassan_0_123_68.det.lc.gz
+7,"3891    32.927085
+Name: chi_sub, dtype: float64",0,cassan_0_124_275.det.lc.gz
+8,"3892    22.219534
+Name: chi_sub, dtype: float64",0,cassan_0_127_1018.det.lc.gz
+10,"3895    37.118052
+Name: chi_sub, dtype: float64",0,cassan_0_127_2088.det.lc.gz
+12,"3897    21.480091
+Name: chi_sub, dtype: float64",0,cassan_0_138_66.det.lc.gz
+14,"3900    17.75799
+Name: chi_sub, dtype: float64",0,cassan_0_150_495.det.lc.gz
+15,"3901    20.365591
+Name: chi_sub, dtype: float64",0,cassan_0_151_1052.det.lc.gz
+16,"3902    16.751725
+Name: chi_sub, dtype: float64",0,cassan_0_151_332.det.lc.gz
+21,"3910    9.970406
+Name: chi_sub, dtype: float64",0,cassan_0_23_1782.det.lc.gz
+22,"3911    7.588053
+Name: chi_sub, dtype: float64",0,cassan_0_24_3180.det.lc.gz
+26,"3917    38.178914
+Name: chi_sub, dtype: float64",0,cassan_0_34_2617.det.lc.gz
+30,"3926    14.028282
+Name: chi_sub, dtype: float64",0,cassan_0_46_3122.det.lc.gz
+31,"3929    33.427801
+Name: chi_sub, dtype: float64",0,cassan_0_47_1896.det.lc.gz
+34,"3933    19.998721
+Name: chi_sub, dtype: float64",0,cassan_0_56_810.det.lc.gz
+36,"3936    5.206852
+Name: chi_sub, dtype: float64",0,cassan_0_59_806.det.lc.gz
+37,"3937    5.16438
+Name: chi_sub, dtype: float64",0,cassan_0_5_2893.det.lc.gz
+38,"3942    3.485189
+Name: chi_sub, dtype: float64",0,cassan_0_61_3012.det.lc.gz
+40,"3944    23.689761
+Name: chi_sub, dtype: float64",0,cassan_0_62_2448.det.lc.gz
+41,"3948    10.214582
+Name: chi_sub, dtype: float64",0,cassan_0_6_2640.det.lc.gz
+42,"3949    38.193356
+Name: chi_sub, dtype: float64",0,cassan_0_6_3289.det.lc.gz
+44,"3956    22.502759
+Name: chi_sub, dtype: float64",0,cassan_0_76_1047.det.lc.gz
+45,"3959    14.149566
+Name: chi_sub, dtype: float64",0,cassan_0_76_3069.det.lc.gz
+46,"3961    30.776195
+Name: chi_sub, dtype: float64",0,cassan_0_7_272.det.lc.gz
+48,"3964    9.760258
+Name: chi_sub, dtype: float64",0,cassan_0_82_3033.det.lc.gz
+49,"3970    3.110009
+Name: chi_sub, dtype: float64",0,cassan_0_84_2252.det.lc.gz
+51,"3974    18.24567
+Name: chi_sub, dtype: float64",0,cassan_0_88_1441.det.lc.gz
+53,"3976    11.504837
+Name: chi_sub, dtype: float64",0,cassan_0_8_2442.det.lc.gz
+54,"3980    26.717213
+Name: chi_sub, dtype: float64",0,cassan_0_96_929.det.lc.gz
+55,"3981    18.261249
+Name: chi_sub, dtype: float64",0,cassan_0_97_2946.det.lc.gz
+56,"3989    0.000084
+Name: chi_sub, dtype: float64",0,cassan_10_109_1624.det.lc.gz
+57,"3990    11.761353
+Name: chi_sub, dtype: float64",0,cassan_10_109_2648.det.lc.gz
+60,"3995    12.63258
+Name: chi_sub, dtype: float64",0,cassan_10_110_718.det.lc.gz
+61,"3996    28.941342
+Name: chi_sub, dtype: float64",0,cassan_10_111_1848.det.lc.gz
+62,"3997    0.838938
+Name: chi_sub, dtype: float64",0,cassan_10_112_107.det.lc.gz
+65,"4001    28.383102
+Name: chi_sub, dtype: float64",0,cassan_10_124_3263.det.lc.gz
+66,"4002    34.940337
+Name: chi_sub, dtype: float64",0,cassan_10_125_1313.det.lc.gz
+67,"4003    4.195243
+Name: chi_sub, dtype: float64",0,cassan_10_125_641.det.lc.gz
+68,"4004    22.586852
+Name: chi_sub, dtype: float64",0,cassan_10_125_900.det.lc.gz
+70,"4006    15.105732
+Name: chi_sub, dtype: float64",0,cassan_10_127_1426.det.lc.gz
+71,"4007    19.825211
+Name: chi_sub, dtype: float64",0,cassan_10_127_686.det.lc.gz
+73,"4009    18.496363
+Name: chi_sub, dtype: float64",0,cassan_10_137_2090.det.lc.gz
+74,"4012    2.01214
+Name: chi_sub, dtype: float64",0,cassan_10_138_746.det.lc.gz
+76,"4014    7.248653
+Name: chi_sub, dtype: float64",0,cassan_10_150_1550.det.lc.gz
+78,"4016    23.186893
+Name: chi_sub, dtype: float64",0,cassan_10_18_189.det.lc.gz
+80,"4019    26.643259
+Name: chi_sub, dtype: float64",0,cassan_10_18_3171.det.lc.gz
+81,"4021    17.991032
+Name: chi_sub, dtype: float64",0,cassan_10_20_2116.det.lc.gz
+82,"4022    23.223479
+Name: chi_sub, dtype: float64",0,cassan_10_20_2242.det.lc.gz
+84,"4024    11.359575
+Name: chi_sub, dtype: float64",0,cassan_10_30_2620.det.lc.gz
+85,"4025    0.178142
+Name: chi_sub, dtype: float64",0,cassan_10_31_1076.det.lc.gz
+87,"4029    25.669068
+Name: chi_sub, dtype: float64",0,cassan_10_32_2796.det.lc.gz
+88,"4032    18.536243
+Name: chi_sub, dtype: float64",0,cassan_10_35_3241.det.lc.gz
+90,"4034    39.194354
+Name: chi_sub, dtype: float64",0,cassan_10_43_2914.det.lc.gz
+91,"4037    37.069869
+Name: chi_sub, dtype: float64",0,cassan_10_44_894.det.lc.gz
+92,"4038    30.502552
+Name: chi_sub, dtype: float64",0,cassan_10_45_2879.det.lc.gz
+93,"4039    27.431496
+Name: chi_sub, dtype: float64",0,cassan_10_45_2928.det.lc.gz
+94,"4040    6.373398
+Name: chi_sub, dtype: float64",0,cassan_10_45_575.det.lc.gz
+96,"4042    20.400654
+Name: chi_sub, dtype: float64",0,cassan_10_47_1866.det.lc.gz
+97,"4043    31.569486
+Name: chi_sub, dtype: float64",0,cassan_10_48_2139.det.lc.gz
+98,"4044    13.016806
+Name: chi_sub, dtype: float64",0,cassan_10_48_35.det.lc.gz
+99,"4045    36.739325
+Name: chi_sub, dtype: float64",0,cassan_10_49_1354.det.lc.gz
+100,"4047    17.509947
+Name: chi_sub, dtype: float64",0,cassan_10_56_331.det.lc.gz
+104,"4055    19.078656
+Name: chi_sub, dtype: float64",0,cassan_10_61_2158.det.lc.gz
+105,"4058    12.0023
+Name: chi_sub, dtype: float64",0,cassan_10_69_376.det.lc.gz
+106,"4059    29.652947
+Name: chi_sub, dtype: float64",0,cassan_10_69_873.det.lc.gz
+107,"4060    13.737386
+Name: chi_sub, dtype: float64",0,cassan_10_6_3193.det.lc.gz
+108,"4062    17.952955
+Name: chi_sub, dtype: float64",0,cassan_10_72_1477.det.lc.gz
+109,"4063    4.109279
+Name: chi_sub, dtype: float64",0,cassan_10_72_2091.det.lc.gz
+110,"4064    6.016803
+Name: chi_sub, dtype: float64",0,cassan_10_73_1168.det.lc.gz
+113,"4070    16.86893
+Name: chi_sub, dtype: float64",0,cassan_10_83_1554.det.lc.gz
+115,"4072    30.473292
+Name: chi_sub, dtype: float64",0,cassan_10_84_1399.det.lc.gz
+117,"4074    14.671215
+Name: chi_sub, dtype: float64",0,cassan_10_85_2014.det.lc.gz
+118,"4075    28.165767
+Name: chi_sub, dtype: float64",0,cassan_10_85_24.det.lc.gz
+120,"4078    32.361648
+Name: chi_sub, dtype: float64",0,cassan_10_88_2024.det.lc.gz
+122,"4080    29.260105
+Name: chi_sub, dtype: float64",0,cassan_10_88_3031.det.lc.gz
+124,"4083    34.459815
+Name: chi_sub, dtype: float64",0,cassan_10_8_2913.det.lc.gz
+126,"4087    33.269873
+Name: chi_sub, dtype: float64",0,cassan_10_97_2042.det.lc.gz
+127,"4089    1.096663
+Name: chi_sub, dtype: float64",0,cassan_10_99_632.det.lc.gz
+132,"4102    7.557189
+Name: chi_sub, dtype: float64",0,cassan_11_113_2090.det.lc.gz
+134,"4105    1.435803
+Name: chi_sub, dtype: float64",0,cassan_11_114_2623.det.lc.gz
+135,"4106    27.716938
+Name: chi_sub, dtype: float64",0,cassan_11_114_2648.det.lc.gz
+136,"4107    10.731628
+Name: chi_sub, dtype: float64",0,cassan_11_115_2472.det.lc.gz
+137,"4108    13.869888
+Name: chi_sub, dtype: float64",0,cassan_11_115_2628.det.lc.gz
+139,"4111    37.769589
+Name: chi_sub, dtype: float64",0,cassan_11_127_9.det.lc.gz
+141,"4117    35.789982
+Name: chi_sub, dtype: float64",0,cassan_11_137_2393.det.lc.gz
+142,"4119    6.524271
+Name: chi_sub, dtype: float64",0,cassan_11_139_208.det.lc.gz
+143,"4122    10.700126
+Name: chi_sub, dtype: float64",0,cassan_11_150_1051.det.lc.gz
+145,"4124    11.343643
+Name: chi_sub, dtype: float64",0,cassan_11_17_612.det.lc.gz
+146,"4125    7.840862
+Name: chi_sub, dtype: float64",0,cassan_11_18_547.det.lc.gz
+148,"4133    39.24185
+Name: chi_sub, dtype: float64",0,cassan_11_24_564.det.lc.gz
+149,"4134    9.589865
+Name: chi_sub, dtype: float64",0,cassan_11_32_119.det.lc.gz
+150,"4136    2.014485
+Name: chi_sub, dtype: float64",0,cassan_11_32_1982.det.lc.gz
+151,"4138    35.647712
+Name: chi_sub, dtype: float64",0,cassan_11_32_2326.det.lc.gz
+152,"4139    25.890038
+Name: chi_sub, dtype: float64",0,cassan_11_32_2986.det.lc.gz
+153,"4140    37.991881
+Name: chi_sub, dtype: float64",0,cassan_11_34_591.det.lc.gz
+154,"4141    26.175622
+Name: chi_sub, dtype: float64",0,cassan_11_35_1669.det.lc.gz
+155,"4143    17.129695
+Name: chi_sub, dtype: float64",0,cassan_11_36_1499.det.lc.gz
+157,"4145    14.223037
+Name: chi_sub, dtype: float64",0,cassan_11_43_1684.det.lc.gz
+158,"4146    20.585035
+Name: chi_sub, dtype: float64",0,cassan_11_44_3317.det.lc.gz
+162,"4153    13.300155
+Name: chi_sub, dtype: float64",0,cassan_11_50_2346.det.lc.gz
+163,"4154    2.472344
+Name: chi_sub, dtype: float64",0,cassan_11_56_3181.det.lc.gz
+164,"4155    17.140632
+Name: chi_sub, dtype: float64",0,cassan_11_58_191.det.lc.gz
+165,"4156    27.628499
+Name: chi_sub, dtype: float64",0,cassan_11_58_739.det.lc.gz
+166,"4159    26.798708
+Name: chi_sub, dtype: float64",0,cassan_11_62_1851.det.lc.gz
+167,"4160    30.078233
+Name: chi_sub, dtype: float64",0,cassan_11_69_2856.det.lc.gz
+170,"4163    0.000118
+Name: chi_sub, dtype: float64",0,cassan_11_71_1159.det.lc.gz
+171,"4164    10.870875
+Name: chi_sub, dtype: float64",0,cassan_11_71_1329.det.lc.gz
+173,"4166    23.13263
+Name: chi_sub, dtype: float64",0,cassan_11_71_1799.det.lc.gz
+174,"4167    33.651137
+Name: chi_sub, dtype: float64",0,cassan_11_71_2479.det.lc.gz
+175,"4168    20.224163
+Name: chi_sub, dtype: float64",0,cassan_11_73_1278.det.lc.gz
+176,"4171    7.702467
+Name: chi_sub, dtype: float64",0,cassan_11_74_1053.det.lc.gz
+180,"4179    18.84751
+Name: chi_sub, dtype: float64",0,cassan_11_86_1203.det.lc.gz
+181,"4181    16.454547
+Name: chi_sub, dtype: float64",0,cassan_11_97_1482.det.lc.gz
+182,"4183    8.071906
+Name: chi_sub, dtype: float64",0,cassan_11_99_1295.det.lc.gz
+184,"4187    23.525222
+Name: chi_sub, dtype: float64",0,cassan_12_100_2787.det.lc.gz
+186,"4189    5.531221
+Name: chi_sub, dtype: float64",0,cassan_12_112_156.det.lc.gz
+188,"4191    13.619822
+Name: chi_sub, dtype: float64",0,cassan_12_123_375.det.lc.gz
+190,"4193    14.248765
+Name: chi_sub, dtype: float64",0,cassan_12_124_1520.det.lc.gz
+191,"4194    7.151241
+Name: chi_sub, dtype: float64",0,cassan_12_124_2814.det.lc.gz
+192,"4196    15.021193
+Name: chi_sub, dtype: float64",0,cassan_12_126_455.det.lc.gz
+193,"4197    6.238638
+Name: chi_sub, dtype: float64",0,cassan_12_126_468.det.lc.gz
+194,"4199    15.583716
+Name: chi_sub, dtype: float64",0,cassan_12_136_1252.det.lc.gz
+195,"4202    16.289709
+Name: chi_sub, dtype: float64",0,cassan_12_137_2311.det.lc.gz
+196,"4203    11.445436
+Name: chi_sub, dtype: float64",0,cassan_12_137_767.det.lc.gz
+197,"4204    2.258067
+Name: chi_sub, dtype: float64",0,cassan_12_138_1155.det.lc.gz
+198,"4206    10.95123
+Name: chi_sub, dtype: float64",0,cassan_12_138_670.det.lc.gz
+202,"4210    36.514349
+Name: chi_sub, dtype: float64",0,cassan_12_151_740.det.lc.gz
+203,"4213    9.678469
+Name: chi_sub, dtype: float64",0,cassan_12_18_1843.det.lc.gz
+204,"4214    20.86898
+Name: chi_sub, dtype: float64",0,cassan_12_18_2544.det.lc.gz
+207,"4218    37.515136
+Name: chi_sub, dtype: float64",0,cassan_12_20_817.det.lc.gz
+208,"4219    22.221065
+Name: chi_sub, dtype: float64",0,cassan_12_23_2156.det.lc.gz
+210,"4221    3.965773
+Name: chi_sub, dtype: float64",0,cassan_12_24_2806.det.lc.gz
+211,"4224    4.832861
+Name: chi_sub, dtype: float64",0,cassan_12_30_939.det.lc.gz
+212,"4227    0.365292
+Name: chi_sub, dtype: float64",0,cassan_12_32_1872.det.lc.gz
+213,"4229    21.411364
+Name: chi_sub, dtype: float64",0,cassan_12_33_2980.det.lc.gz
+214,"4230    33.724257
+Name: chi_sub, dtype: float64",0,cassan_12_34_478.det.lc.gz
+215,"4231    24.049495
+Name: chi_sub, dtype: float64",0,cassan_12_43_690.det.lc.gz
+216,"4232    36.534741
+Name: chi_sub, dtype: float64",0,cassan_12_44_2425.det.lc.gz
+217,"4234    11.01985
+Name: chi_sub, dtype: float64",0,cassan_12_45_537.det.lc.gz
+218,"4237    34.730845
+Name: chi_sub, dtype: float64",0,cassan_12_48_2512.det.lc.gz
+219,"4242    31.05713
+Name: chi_sub, dtype: float64",0,cassan_12_57_2248.det.lc.gz
+220,"4246    19.32529
+Name: chi_sub, dtype: float64",0,cassan_12_59_1410.det.lc.gz
+222,"4253    32.480834
+Name: chi_sub, dtype: float64",0,cassan_12_63_1813.det.lc.gz
+223,"4254    21.916133
+Name: chi_sub, dtype: float64",0,cassan_12_63_2393.det.lc.gz
+224,"4256    4.026452
+Name: chi_sub, dtype: float64",0,cassan_12_6_1005.det.lc.gz
+225,"4257    31.361993
+Name: chi_sub, dtype: float64",0,cassan_12_6_2164.det.lc.gz
+226,"4258    21.57789
+Name: chi_sub, dtype: float64",0,cassan_12_70_2007.det.lc.gz
+227,"4259    5.445129
+Name: chi_sub, dtype: float64",0,cassan_12_71_251.det.lc.gz
+228,"4260    38.601456
+Name: chi_sub, dtype: float64",0,cassan_12_72_990.det.lc.gz
+229,"4261    22.762493
+Name: chi_sub, dtype: float64",0,cassan_12_73_1790.det.lc.gz
+230,"4262    14.186058
+Name: chi_sub, dtype: float64",0,cassan_12_75_2146.det.lc.gz
+231,"4264    14.428051
+Name: chi_sub, dtype: float64",0,cassan_12_76_122.det.lc.gz
+233,"4267    9.218331
+Name: chi_sub, dtype: float64",0,cassan_12_82_1830.det.lc.gz
+234,"4269    34.400511
+Name: chi_sub, dtype: float64",0,cassan_12_82_2432.det.lc.gz
+235,"4270    16.953002
+Name: chi_sub, dtype: float64",0,cassan_12_82_3131.det.lc.gz
+236,"4271    23.1516
+Name: chi_sub, dtype: float64",0,cassan_12_82_759.det.lc.gz
+237,"4273    10.751716
+Name: chi_sub, dtype: float64",0,cassan_12_83_1728.det.lc.gz
+238,"4275    11.576249
+Name: chi_sub, dtype: float64",0,cassan_12_88_698.det.lc.gz
+242,"4283    7.044783
+Name: chi_sub, dtype: float64",0,cassan_12_99_1519.det.lc.gz
+243,"4285    9.23376
+Name: chi_sub, dtype: float64",0,cassan_13_100_1357.det.lc.gz
+244,"4286    23.127091
+Name: chi_sub, dtype: float64",0,cassan_13_100_3062.det.lc.gz
+245,"4288    27.419635
+Name: chi_sub, dtype: float64",0,cassan_13_109_2850.det.lc.gz
+246,"4292    13.705923
+Name: chi_sub, dtype: float64",0,cassan_13_111_748.det.lc.gz
+248,"4294    16.617717
+Name: chi_sub, dtype: float64",0,cassan_13_115_3215.det.lc.gz
+249,"4295    0.628834
+Name: chi_sub, dtype: float64",0,cassan_13_124_871.det.lc.gz
+250,"4299    15.812276
+Name: chi_sub, dtype: float64",0,cassan_13_136_336.det.lc.gz
+252,"4301    12.781329
+Name: chi_sub, dtype: float64",0,cassan_13_138_3134.det.lc.gz
+253,"4302    32.715354
+Name: chi_sub, dtype: float64",0,cassan_13_138_919.det.lc.gz
+255,"4304    15.425643
+Name: chi_sub, dtype: float64",0,cassan_13_139_1201.det.lc.gz
+256,"4305    24.892525
+Name: chi_sub, dtype: float64",0,cassan_13_140_1000.det.lc.gz
+257,"4307    2.34686
+Name: chi_sub, dtype: float64",0,cassan_13_140_1621.det.lc.gz
+259,"4309    16.884216
+Name: chi_sub, dtype: float64",0,cassan_13_17_2994.det.lc.gz
+260,"4311    12.454165
+Name: chi_sub, dtype: float64",0,cassan_13_18_2658.det.lc.gz
+261,"4312    16.47824
+Name: chi_sub, dtype: float64",0,cassan_13_18_517.det.lc.gz
+262,"4313    13.713615
+Name: chi_sub, dtype: float64",0,cassan_13_19_1674.det.lc.gz
+263,"4316    7.100922
+Name: chi_sub, dtype: float64",0,cassan_13_20_602.det.lc.gz
+264,"4317    4.162561
+Name: chi_sub, dtype: float64",0,cassan_13_20_869.det.lc.gz
+266,"4320    22.06098
+Name: chi_sub, dtype: float64",0,cassan_13_22_1728.det.lc.gz
+267,"4322    5.130326
+Name: chi_sub, dtype: float64",0,cassan_13_23_2721.det.lc.gz
+269,"4325    19.000788
+Name: chi_sub, dtype: float64",0,cassan_13_32_992.det.lc.gz
+270,"4326    20.367877
+Name: chi_sub, dtype: float64",0,cassan_13_34_1978.det.lc.gz
+271,"4327    23.53804
+Name: chi_sub, dtype: float64",0,cassan_13_34_2351.det.lc.gz
+272,"4328    15.443666
+Name: chi_sub, dtype: float64",0,cassan_13_34_752.det.lc.gz
+273,"4329    22.530001
+Name: chi_sub, dtype: float64",0,cassan_13_35_2762.det.lc.gz
+276,"4333    5.298339
+Name: chi_sub, dtype: float64",0,cassan_13_43_1477.det.lc.gz
+277,"4334    21.554213
+Name: chi_sub, dtype: float64",0,cassan_13_44_2038.det.lc.gz
+278,"4335    21.246844
+Name: chi_sub, dtype: float64",0,cassan_13_44_2230.det.lc.gz
+279,"4337    15.273803
+Name: chi_sub, dtype: float64",0,cassan_13_44_2592.det.lc.gz
+280,"4339    11.865495
+Name: chi_sub, dtype: float64",0,cassan_13_45_187.det.lc.gz
+283,"4342    28.053522
+Name: chi_sub, dtype: float64",0,cassan_13_47_1120.det.lc.gz
+284,"4343    16.960422
+Name: chi_sub, dtype: float64",0,cassan_13_47_1213.det.lc.gz
+285,"4344    18.095301
+Name: chi_sub, dtype: float64",0,cassan_13_47_3140.det.lc.gz
+286,"4345    14.903124
+Name: chi_sub, dtype: float64",0,cassan_13_47_857.det.lc.gz
+288,"4351    30.803221
+Name: chi_sub, dtype: float64",0,cassan_13_57_3079.det.lc.gz
+289,"4352    20.428859
+Name: chi_sub, dtype: float64",0,cassan_13_58_3153.det.lc.gz
+290,"4354    11.423711
+Name: chi_sub, dtype: float64",0,cassan_13_63_1500.det.lc.gz
+291,"4355    17.466959
+Name: chi_sub, dtype: float64",0,cassan_13_69_663.det.lc.gz
+292,"4356    2.672721
+Name: chi_sub, dtype: float64",0,cassan_13_6_1194.det.lc.gz
+293,"4357    11.003702
+Name: chi_sub, dtype: float64",0,cassan_13_70_2325.det.lc.gz
+294,"4358    9.726527
+Name: chi_sub, dtype: float64",0,cassan_13_72_1706.det.lc.gz
+295,"4359    16.084898
+Name: chi_sub, dtype: float64",0,cassan_13_72_2465.det.lc.gz
+296,"4363    37.241419
+Name: chi_sub, dtype: float64",0,cassan_13_75_1037.det.lc.gz
+297,"4364    11.263935
+Name: chi_sub, dtype: float64",0,cassan_13_75_1724.det.lc.gz
+298,"4367    11.647896
+Name: chi_sub, dtype: float64",0,cassan_13_84_1259.det.lc.gz
+299,"4368    3.287573
+Name: chi_sub, dtype: float64",0,cassan_13_84_1588.det.lc.gz
+300,"4369    14.484254
+Name: chi_sub, dtype: float64",0,cassan_13_86_253.det.lc.gz
+302,"4376    29.515999
+Name: chi_sub, dtype: float64",0,cassan_13_98_670.det.lc.gz
+306,"4381    19.954494
+Name: chi_sub, dtype: float64",0,cassan_14_100_352.det.lc.gz
+311,"4386    10.047751
+Name: chi_sub, dtype: float64",0,cassan_14_109_922.det.lc.gz
+312,"4387    34.880683
+Name: chi_sub, dtype: float64",0,cassan_14_112_2453.det.lc.gz
+316,"4395    10.2353
+Name: chi_sub, dtype: float64",0,cassan_14_126_1659.det.lc.gz
+317,"4398    7.825177
+Name: chi_sub, dtype: float64",0,cassan_14_136_1694.det.lc.gz
+318,"4401    36.671224
+Name: chi_sub, dtype: float64",0,cassan_14_138_3310.det.lc.gz
+321,"4408    35.802254
+Name: chi_sub, dtype: float64",0,cassan_14_18_2415.det.lc.gz
+322,"4409    16.021521
+Name: chi_sub, dtype: float64",0,cassan_14_18_306.det.lc.gz
+323,"4411    1.676864
+Name: chi_sub, dtype: float64",0,cassan_14_19_2666.det.lc.gz
+324,"4412    19.38905
+Name: chi_sub, dtype: float64",0,cassan_14_19_2795.det.lc.gz
+325,"4414    6.363844
+Name: chi_sub, dtype: float64",0,cassan_14_21_599.det.lc.gz
+326,"4416    15.198511
+Name: chi_sub, dtype: float64",0,cassan_14_22_3296.det.lc.gz
+328,"4419    6.875017
+Name: chi_sub, dtype: float64",0,cassan_14_24_19.det.lc.gz
+329,"4420    29.615026
+Name: chi_sub, dtype: float64",0,cassan_14_24_3271.det.lc.gz
+330,"4421    4.384989
+Name: chi_sub, dtype: float64",0,cassan_14_30_2335.det.lc.gz
+331,"4422    16.246512
+Name: chi_sub, dtype: float64",0,cassan_14_30_52.det.lc.gz
+332,"4424    6.160563
+Name: chi_sub, dtype: float64",0,cassan_14_31_861.det.lc.gz
+334,"4428    35.20145
+Name: chi_sub, dtype: float64",0,cassan_14_35_1436.det.lc.gz
+335,"4429    12.694164
+Name: chi_sub, dtype: float64",0,cassan_14_35_1801.det.lc.gz
+336,"4430    20.642194
+Name: chi_sub, dtype: float64",0,cassan_14_35_3254.det.lc.gz
+337,"4431    9.154418
+Name: chi_sub, dtype: float64",0,cassan_14_36_583.det.lc.gz
+339,"4433    18.277724
+Name: chi_sub, dtype: float64",0,cassan_14_43_1943.det.lc.gz
+340,"4434    15.668136
+Name: chi_sub, dtype: float64",0,cassan_14_43_2593.det.lc.gz
+341,"4436    23.148482
+Name: chi_sub, dtype: float64",0,cassan_14_44_1454.det.lc.gz
+342,"4441    14.77236
+Name: chi_sub, dtype: float64",0,cassan_14_46_1281.det.lc.gz
+344,"4444    32.171544
+Name: chi_sub, dtype: float64",0,cassan_14_48_585.det.lc.gz
+345,"4445    19.362341
+Name: chi_sub, dtype: float64",0,cassan_14_4_2944.det.lc.gz
+348,"4453    1.883629
+Name: chi_sub, dtype: float64",0,cassan_14_59_267.det.lc.gz
+349,"4454    15.065888
+Name: chi_sub, dtype: float64",0,cassan_14_59_546.det.lc.gz
+350,"4455    6.284059
+Name: chi_sub, dtype: float64",0,cassan_14_59_658.det.lc.gz
+351,"4456    39.831846
+Name: chi_sub, dtype: float64",0,cassan_14_60_864.det.lc.gz
+353,"4459    30.343057
+Name: chi_sub, dtype: float64",0,cassan_14_6_1738.det.lc.gz
+354,"4460    11.550899
+Name: chi_sub, dtype: float64",0,cassan_14_6_2368.det.lc.gz
+355,"4462    10.375332
+Name: chi_sub, dtype: float64",0,cassan_14_71_803.det.lc.gz
+356,"4463    8.389877
+Name: chi_sub, dtype: float64",0,cassan_14_72_1452.det.lc.gz
+357,"4465    19.498827
+Name: chi_sub, dtype: float64",0,cassan_14_73_3308.det.lc.gz
+358,"4467    32.399471
+Name: chi_sub, dtype: float64",0,cassan_14_75_1139.det.lc.gz
+362,"4473    7.783871
+Name: chi_sub, dtype: float64",0,cassan_14_7_1465.det.lc.gz
+363,"4474    27.286752
+Name: chi_sub, dtype: float64",0,cassan_14_7_1686.det.lc.gz
+364,"4478    22.427107
+Name: chi_sub, dtype: float64",0,cassan_14_88_1011.det.lc.gz
+368,"4490    0.724706
+Name: chi_sub, dtype: float64",0,cassan_15_101_2965.det.lc.gz
+369,"4491    11.607414
+Name: chi_sub, dtype: float64",0,cassan_15_109_3331.det.lc.gz
+372,"4494    17.590038
+Name: chi_sub, dtype: float64",0,cassan_15_110_1655.det.lc.gz
+373,"4495    9.223299
+Name: chi_sub, dtype: float64",0,cassan_15_111_2251.det.lc.gz
+374,"4496    29.985374
+Name: chi_sub, dtype: float64",0,cassan_15_111_518.det.lc.gz
+375,"4497    11.019028
+Name: chi_sub, dtype: float64",0,cassan_15_112_1766.det.lc.gz
+376,"4498    23.420889
+Name: chi_sub, dtype: float64",0,cassan_15_112_188.det.lc.gz
+377,"4502    12.017374
+Name: chi_sub, dtype: float64",0,cassan_15_123_2083.det.lc.gz
+378,"4503    33.930593
+Name: chi_sub, dtype: float64",0,cassan_15_126_1363.det.lc.gz
+379,"4504    17.015178
+Name: chi_sub, dtype: float64",0,cassan_15_126_437.det.lc.gz
+380,"4505    24.78259
+Name: chi_sub, dtype: float64",0,cassan_15_127_2807.det.lc.gz
+381,"4506    2.035402
+Name: chi_sub, dtype: float64",0,cassan_15_127_3201.det.lc.gz
+382,"4507    4.008466
+Name: chi_sub, dtype: float64",0,cassan_15_136_2435.det.lc.gz
+383,"4509    39.466393
+Name: chi_sub, dtype: float64",0,cassan_15_137_708.det.lc.gz
+384,"4513    0.000083
+Name: chi_sub, dtype: float64",0,cassan_15_150_1857.det.lc.gz
+385,"4516    39.928529
+Name: chi_sub, dtype: float64",0,cassan_15_21_1790.det.lc.gz
+386,"4517    21.213425
+Name: chi_sub, dtype: float64",0,cassan_15_21_2654.det.lc.gz
+387,"4518    19.131183
+Name: chi_sub, dtype: float64",0,cassan_15_22_1924.det.lc.gz
+388,"4520    24.319172
+Name: chi_sub, dtype: float64",0,cassan_15_22_487.det.lc.gz
+391,"4531    1.409911
+Name: chi_sub, dtype: float64",0,cassan_15_48_382.det.lc.gz
+392,"4532    19.314341
+Name: chi_sub, dtype: float64",0,cassan_15_49_2178.det.lc.gz
+393,"4533    30.157147
+Name: chi_sub, dtype: float64",0,cassan_15_49_703.det.lc.gz
+394,"4534    16.342535
+Name: chi_sub, dtype: float64",0,cassan_15_4_191.det.lc.gz
+396,"4538    16.947439
+Name: chi_sub, dtype: float64",0,cassan_15_56_2319.det.lc.gz
+397,"4540    31.609848
+Name: chi_sub, dtype: float64",0,cassan_15_57_970.det.lc.gz
+398,"4541    1.2077
+Name: chi_sub, dtype: float64",0,cassan_15_59_264.det.lc.gz
+399,"4545    9.43013
+Name: chi_sub, dtype: float64",0,cassan_15_60_750.det.lc.gz
+402,"4548    21.20106
+Name: chi_sub, dtype: float64",0,cassan_15_62_3052.det.lc.gz
+403,"4551    9.427519
+Name: chi_sub, dtype: float64",0,cassan_15_6_1465.det.lc.gz
+405,"4553    11.306273
+Name: chi_sub, dtype: float64",0,cassan_15_6_2553.det.lc.gz
+406,"4554    15.498445
+Name: chi_sub, dtype: float64",0,cassan_15_70_104.det.lc.gz
+407,"4560    33.725842
+Name: chi_sub, dtype: float64",0,cassan_15_72_2281.det.lc.gz
+408,"4561    12.491092
+Name: chi_sub, dtype: float64",0,cassan_15_72_2523.det.lc.gz
+410,"4565    19.293152
+Name: chi_sub, dtype: float64",0,cassan_15_74_57.det.lc.gz
+412,"4567    24.661715
+Name: chi_sub, dtype: float64",0,cassan_15_76_2779.det.lc.gz
+413,"4568    29.484644
+Name: chi_sub, dtype: float64",0,cassan_15_76_732.det.lc.gz
+414,"4569    9.732048
+Name: chi_sub, dtype: float64",0,cassan_15_7_280.det.lc.gz
+415,"4571    21.847673
+Name: chi_sub, dtype: float64",0,cassan_15_83_1156.det.lc.gz
+417,"4575    10.94379
+Name: chi_sub, dtype: float64",0,cassan_15_88_3156.det.lc.gz
+418,"4577    25.930432
+Name: chi_sub, dtype: float64",0,cassan_15_8_3264.det.lc.gz
+420,"4582    26.217146
+Name: chi_sub, dtype: float64",0,cassan_15_98_3283.det.lc.gz
+421,"4583    15.048154
+Name: chi_sub, dtype: float64",0,cassan_15_99_1202.det.lc.gz
+422,"4585    13.396819
+Name: chi_sub, dtype: float64",0,cassan_16_100_955.det.lc.gz
+423,"4586    4.810993
+Name: chi_sub, dtype: float64",0,cassan_16_101_1916.det.lc.gz
+424,"4587    4.860839
+Name: chi_sub, dtype: float64",0,cassan_16_101_2746.det.lc.gz
+427,"4594    25.442459
+Name: chi_sub, dtype: float64",0,cassan_16_111_574.det.lc.gz
+428,"4595    14.946154
+Name: chi_sub, dtype: float64",0,cassan_16_113_1834.det.lc.gz
+430,"4597    28.581757
+Name: chi_sub, dtype: float64",0,cassan_16_114_1886.det.lc.gz
+432,"4600    28.635161
+Name: chi_sub, dtype: float64",0,cassan_16_114_877.det.lc.gz
+433,"4602    20.676132
+Name: chi_sub, dtype: float64",0,cassan_16_123_1550.det.lc.gz
+434,"4603    12.624301
+Name: chi_sub, dtype: float64",0,cassan_16_125_381.det.lc.gz
+435,"4604    0.936045
+Name: chi_sub, dtype: float64",0,cassan_16_126_911.det.lc.gz
+438,"4609    18.272969
+Name: chi_sub, dtype: float64",0,cassan_16_151_1566.det.lc.gz
+439,"4610    25.40234
+Name: chi_sub, dtype: float64",0,cassan_16_151_2066.det.lc.gz
+440,"4612    2.032372
+Name: chi_sub, dtype: float64",0,cassan_16_17_1830.det.lc.gz
+441,"4614    22.547133
+Name: chi_sub, dtype: float64",0,cassan_16_17_3179.det.lc.gz
+442,"4616    12.210911
+Name: chi_sub, dtype: float64",0,cassan_16_19_998.det.lc.gz
+443,"4619    20.616495
+Name: chi_sub, dtype: float64",0,cassan_16_21_453.det.lc.gz
+445,"4622    34.66852
+Name: chi_sub, dtype: float64",0,cassan_16_24_1442.det.lc.gz
+448,"4625    5.656497
+Name: chi_sub, dtype: float64",0,cassan_16_34_1252.det.lc.gz
+449,"4627    16.817842
+Name: chi_sub, dtype: float64",0,cassan_16_35_1765.det.lc.gz
+450,"4628    2.904707
+Name: chi_sub, dtype: float64",0,cassan_16_36_2307.det.lc.gz
+451,"4629    8.674134
+Name: chi_sub, dtype: float64",0,cassan_16_36_874.det.lc.gz
+452,"4630    7.246263
+Name: chi_sub, dtype: float64",0,cassan_16_37_1620.det.lc.gz
+454,"4633    16.109916
+Name: chi_sub, dtype: float64",0,cassan_16_44_1497.det.lc.gz
+457,"4640    17.464509
+Name: chi_sub, dtype: float64",0,cassan_16_4_2048.det.lc.gz
+461,"4646    15.136521
+Name: chi_sub, dtype: float64",0,cassan_16_57_705.det.lc.gz
+462,"4647    11.697924
+Name: chi_sub, dtype: float64",0,cassan_16_58_2452.det.lc.gz
+464,"4650    15.550043
+Name: chi_sub, dtype: float64",0,cassan_16_60_181.det.lc.gz
+466,"4652    9.247229
+Name: chi_sub, dtype: float64",0,cassan_16_61_1940.det.lc.gz
+469,"4656    5.50317
+Name: chi_sub, dtype: float64",0,cassan_16_62_761.det.lc.gz
+470,"4659    17.445478
+Name: chi_sub, dtype: float64",0,cassan_16_6_341.det.lc.gz
+471,"4663    16.147072
+Name: chi_sub, dtype: float64",0,cassan_16_72_553.det.lc.gz
+473,"4665    11.290488
+Name: chi_sub, dtype: float64",0,cassan_16_74_1742.det.lc.gz
+474,"4666    8.85553
+Name: chi_sub, dtype: float64",0,cassan_16_74_2559.det.lc.gz
+476,"4671    0.820339
+Name: chi_sub, dtype: float64",0,cassan_16_7_1509.det.lc.gz
+477,"4672    9.944533
+Name: chi_sub, dtype: float64",0,cassan_16_7_261.det.lc.gz
+480,"4675    2.629898
+Name: chi_sub, dtype: float64",0,cassan_16_82_2619.det.lc.gz
+483,"4682    21.893383
+Name: chi_sub, dtype: float64",0,cassan_16_96_386.det.lc.gz
+484,"4686    10.404018
+Name: chi_sub, dtype: float64",0,cassan_16_97_50.det.lc.gz
+488,"4694    9.69871
+Name: chi_sub, dtype: float64",0,cassan_17_112_216.det.lc.gz
+489,"4695    15.805646
+Name: chi_sub, dtype: float64",0,cassan_17_112_2650.det.lc.gz
+493,"4702    19.603176
+Name: chi_sub, dtype: float64",0,cassan_17_125_1627.det.lc.gz
+494,"4704    3.47715
+Name: chi_sub, dtype: float64",0,cassan_17_126_527.det.lc.gz
+495,"4705    5.702938
+Name: chi_sub, dtype: float64",0,cassan_17_127_1693.det.lc.gz
+498,"4708    10.140356
+Name: chi_sub, dtype: float64",0,cassan_17_136_1895.det.lc.gz
+499,"4710    11.065893
+Name: chi_sub, dtype: float64",0,cassan_17_136_2797.det.lc.gz
+500,"4712    25.281312
+Name: chi_sub, dtype: float64",0,cassan_17_137_2825.det.lc.gz
+501,"4713    17.971569
+Name: chi_sub, dtype: float64",0,cassan_17_139_1638.det.lc.gz
+502,"4714    8.656583
+Name: chi_sub, dtype: float64",0,cassan_17_139_391.det.lc.gz
+504,"4717    15.633675
+Name: chi_sub, dtype: float64",0,cassan_17_151_596.det.lc.gz
+505,"4719    9.517885
+Name: chi_sub, dtype: float64",0,cassan_17_17_1523.det.lc.gz
+506,"4720    16.957132
+Name: chi_sub, dtype: float64",0,cassan_17_18_411.det.lc.gz
+507,"4722    5.417765
+Name: chi_sub, dtype: float64",0,cassan_17_21_1347.det.lc.gz
+509,"4726    21.176236
+Name: chi_sub, dtype: float64",0,cassan_17_24_3321.det.lc.gz
+510,"4727    31.569721
+Name: chi_sub, dtype: float64",0,cassan_17_24_415.det.lc.gz
+513,"4732    13.994445
+Name: chi_sub, dtype: float64",0,cassan_17_32_2212.det.lc.gz
+514,"4733    36.04708
+Name: chi_sub, dtype: float64",0,cassan_17_35_900.det.lc.gz
+515,"4734    19.282073
+Name: chi_sub, dtype: float64",0,cassan_17_36_2475.det.lc.gz
+516,"4736    19.301537
+Name: chi_sub, dtype: float64",0,cassan_17_37_2463.det.lc.gz
+517,"4738    18.008863
+Name: chi_sub, dtype: float64",0,cassan_17_37_353.det.lc.gz
+518,"4739    1.058144
+Name: chi_sub, dtype: float64",0,cassan_17_43_1842.det.lc.gz
+521,"4746    5.016121
+Name: chi_sub, dtype: float64",0,cassan_17_56_3223.det.lc.gz
+522,"4747    12.880271
+Name: chi_sub, dtype: float64",0,cassan_17_56_878.det.lc.gz
+523,"4748    24.897299
+Name: chi_sub, dtype: float64",0,cassan_17_56_888.det.lc.gz
+526,"4755    7.263029
+Name: chi_sub, dtype: float64",0,cassan_17_5_2588.det.lc.gz
+527,"4757    24.807348
+Name: chi_sub, dtype: float64",0,cassan_17_60_1224.det.lc.gz
+528,"4758    11.421936
+Name: chi_sub, dtype: float64",0,cassan_17_63_1206.det.lc.gz
+529,"4759    0.000013
+Name: chi_sub, dtype: float64",0,cassan_17_63_1633.det.lc.gz
+530,"4762    36.701459
+Name: chi_sub, dtype: float64",0,cassan_17_69_2137.det.lc.gz
+531,"4763    25.172988
+Name: chi_sub, dtype: float64",0,cassan_17_6_867.det.lc.gz
+532,"4767    11.676554
+Name: chi_sub, dtype: float64",0,cassan_17_74_2188.det.lc.gz
+533,"4768    11.821785
+Name: chi_sub, dtype: float64",0,cassan_17_75_1528.det.lc.gz
+534,"4770    5.58482
+Name: chi_sub, dtype: float64",0,cassan_17_83_1500.det.lc.gz
+535,"4772    13.890772
+Name: chi_sub, dtype: float64",0,cassan_17_84_888.det.lc.gz
+536,"4773    17.063519
+Name: chi_sub, dtype: float64",0,cassan_17_85_2211.det.lc.gz
+539,"4778    16.362762
+Name: chi_sub, dtype: float64",0,cassan_17_86_646.det.lc.gz
+540,"4779    10.086489
+Name: chi_sub, dtype: float64",0,cassan_17_87_1061.det.lc.gz
+541,"4781    33.802295
+Name: chi_sub, dtype: float64",0,cassan_17_87_822.det.lc.gz
+542,"4782    14.877167
+Name: chi_sub, dtype: float64",0,cassan_17_88_1388.det.lc.gz
+543,"4783    7.352773
+Name: chi_sub, dtype: float64",0,cassan_17_88_1562.det.lc.gz
+545,"4785    13.587678
+Name: chi_sub, dtype: float64",0,cassan_17_97_1810.det.lc.gz
+546,"4787    9.554695
+Name: chi_sub, dtype: float64",0,cassan_17_97_287.det.lc.gz
+547,"4792    27.19885
+Name: chi_sub, dtype: float64",0,cassan_18_102_1371.det.lc.gz
+552,"4799    14.013155
+Name: chi_sub, dtype: float64",0,cassan_18_112_1329.det.lc.gz
+554,"4801    4.506724
+Name: chi_sub, dtype: float64",0,cassan_18_114_1579.det.lc.gz
+555,"4802    8.700749
+Name: chi_sub, dtype: float64",0,cassan_18_123_2518.det.lc.gz
+557,"4805    15.698193
+Name: chi_sub, dtype: float64",0,cassan_18_136_1354.det.lc.gz
+559,"4808    1.335953
+Name: chi_sub, dtype: float64",0,cassan_18_136_355.det.lc.gz
+564,"4816    4.163639
+Name: chi_sub, dtype: float64",0,cassan_18_150_1061.det.lc.gz
+566,"4819    11.42292
+Name: chi_sub, dtype: float64",0,cassan_18_151_2353.det.lc.gz
+567,"4820    13.284028
+Name: chi_sub, dtype: float64",0,cassan_18_151_2651.det.lc.gz
+569,"4825    7.042912
+Name: chi_sub, dtype: float64",0,cassan_18_21_98.det.lc.gz
+570,"4826    29.105981
+Name: chi_sub, dtype: float64",0,cassan_18_22_545.det.lc.gz
+572,"4832    13.981094
+Name: chi_sub, dtype: float64",0,cassan_18_33_1743.det.lc.gz
+573,"4834    16.208753
+Name: chi_sub, dtype: float64",0,cassan_18_35_391.det.lc.gz
+574,"4836    15.737924
+Name: chi_sub, dtype: float64",0,cassan_18_36_749.det.lc.gz
+576,"4839    2.109481
+Name: chi_sub, dtype: float64",0,cassan_18_43_1579.det.lc.gz
+577,"4840    12.649067
+Name: chi_sub, dtype: float64",0,cassan_18_44_1823.det.lc.gz
+578,"4841    30.704493
+Name: chi_sub, dtype: float64",0,cassan_18_44_835.det.lc.gz
+580,"4843    11.311137
+Name: chi_sub, dtype: float64",0,cassan_18_47_2544.det.lc.gz
+581,"4846    15.464459
+Name: chi_sub, dtype: float64",0,cassan_18_48_2892.det.lc.gz
+582,"4848    15.704993
+Name: chi_sub, dtype: float64",0,cassan_18_4_2457.det.lc.gz
+583,"4850    17.265307
+Name: chi_sub, dtype: float64",0,cassan_18_50_2096.det.lc.gz
+584,"4854    32.359086
+Name: chi_sub, dtype: float64",0,cassan_18_5_1272.det.lc.gz
+585,"4856    4.843004
+Name: chi_sub, dtype: float64",0,cassan_18_5_375.det.lc.gz
+586,"4857    26.037504
+Name: chi_sub, dtype: float64",0,cassan_18_60_1696.det.lc.gz
+587,"4858    38.89705
+Name: chi_sub, dtype: float64",0,cassan_18_61_1546.det.lc.gz
+588,"4859    19.087388
+Name: chi_sub, dtype: float64",0,cassan_18_62_2804.det.lc.gz
+589,"4861    39.212894
+Name: chi_sub, dtype: float64",0,cassan_18_69_1130.det.lc.gz
+590,"4862    35.268924
+Name: chi_sub, dtype: float64",0,cassan_18_69_2802.det.lc.gz
+591,"4864    12.945311
+Name: chi_sub, dtype: float64",0,cassan_18_69_605.det.lc.gz
+592,"4865    2.700217
+Name: chi_sub, dtype: float64",0,cassan_18_71_3026.det.lc.gz
+593,"4866    15.886216
+Name: chi_sub, dtype: float64",0,cassan_18_72_1219.det.lc.gz
+594,"4867    7.486996
+Name: chi_sub, dtype: float64",0,cassan_18_73_2839.det.lc.gz
+597,"4873    7.988655
+Name: chi_sub, dtype: float64",0,cassan_18_75_2306.det.lc.gz
+598,"4874    0.610766
+Name: chi_sub, dtype: float64",0,cassan_18_76_158.det.lc.gz
+599,"4875    9.981224
+Name: chi_sub, dtype: float64",0,cassan_18_76_245.det.lc.gz
+602,"4879    5.83865
+Name: chi_sub, dtype: float64",0,cassan_18_83_2706.det.lc.gz
+604,"4887    18.243221
+Name: chi_sub, dtype: float64",0,cassan_18_86_3140.det.lc.gz
+605,"4889    12.364705
+Name: chi_sub, dtype: float64",0,cassan_18_87_3301.det.lc.gz
+606,"4890    22.067698
+Name: chi_sub, dtype: float64",0,cassan_18_88_2178.det.lc.gz
+607,"4891    14.034892
+Name: chi_sub, dtype: float64",0,cassan_18_88_2688.det.lc.gz
+608,"4892    37.176544
+Name: chi_sub, dtype: float64",0,cassan_18_89_1201.det.lc.gz
+609,"4895    39.497228
+Name: chi_sub, dtype: float64",0,cassan_18_96_1434.det.lc.gz
+610,"4896    36.552704
+Name: chi_sub, dtype: float64",0,cassan_18_96_2468.det.lc.gz
+611,"4898    6.693512
+Name: chi_sub, dtype: float64",0,cassan_18_97_2160.det.lc.gz
+613,"4900    16.427269
+Name: chi_sub, dtype: float64",0,cassan_18_99_1736.det.lc.gz
+614,"4903    19.640812
+Name: chi_sub, dtype: float64",0,cassan_18_9_2514.det.lc.gz
+615,"4905    1.218066
+Name: chi_sub, dtype: float64",0,cassan_19_101_1575.det.lc.gz
+616,"4906    16.085524
+Name: chi_sub, dtype: float64",0,cassan_19_101_1781.det.lc.gz
+620,"4914    19.798763
+Name: chi_sub, dtype: float64",0,cassan_19_110_800.det.lc.gz
+621,"4916    25.635448
+Name: chi_sub, dtype: float64",0,cassan_19_111_2148.det.lc.gz
+622,"4917    12.768312
+Name: chi_sub, dtype: float64",0,cassan_19_113_2837.det.lc.gz
+625,"4923    1.935149
+Name: chi_sub, dtype: float64",0,cassan_19_123_3309.det.lc.gz
+626,"4926    4.982297
+Name: chi_sub, dtype: float64",0,cassan_19_125_1056.det.lc.gz
+628,"4932    37.439301
+Name: chi_sub, dtype: float64",0,cassan_19_136_1348.det.lc.gz
+629,"4933    11.701238
+Name: chi_sub, dtype: float64",0,cassan_19_137_2238.det.lc.gz
+630,"4934    30.042739
+Name: chi_sub, dtype: float64",0,cassan_19_137_718.det.lc.gz
+632,"4936    39.744123
+Name: chi_sub, dtype: float64",0,cassan_19_139_3111.det.lc.gz
+633,"4937    6.200475
+Name: chi_sub, dtype: float64",0,cassan_19_139_648.det.lc.gz
+634,"4939    10.861443
+Name: chi_sub, dtype: float64",0,cassan_19_150_1644.det.lc.gz
+636,"4944    34.375026
+Name: chi_sub, dtype: float64",0,cassan_19_18_3071.det.lc.gz
+638,"4946    22.317106
+Name: chi_sub, dtype: float64",0,cassan_19_20_1896.det.lc.gz
+639,"4947    24.227854
+Name: chi_sub, dtype: float64",0,cassan_19_20_379.det.lc.gz
+640,"4949    25.077583
+Name: chi_sub, dtype: float64",0,cassan_19_21_940.det.lc.gz
+641,"4950    31.342099
+Name: chi_sub, dtype: float64",0,cassan_19_23_2615.det.lc.gz
+644,"4953    30.695704
+Name: chi_sub, dtype: float64",0,cassan_19_30_1290.det.lc.gz
+646,"4957    15.587594
+Name: chi_sub, dtype: float64",0,cassan_19_33_198.det.lc.gz
+647,"4958    15.806159
+Name: chi_sub, dtype: float64",0,cassan_19_34_565.det.lc.gz
+648,"4959    11.994986
+Name: chi_sub, dtype: float64",0,cassan_19_36_1174.det.lc.gz
+649,"4961    26.522731
+Name: chi_sub, dtype: float64",0,cassan_19_43_1102.det.lc.gz
+651,"4965    19.062648
+Name: chi_sub, dtype: float64",0,cassan_19_44_3286.det.lc.gz
+653,"4968    9.69198
+Name: chi_sub, dtype: float64",0,cassan_19_47_3282.det.lc.gz
+654,"4970    29.650691
+Name: chi_sub, dtype: float64",0,cassan_19_48_1931.det.lc.gz
+657,"4975    4.649749
+Name: chi_sub, dtype: float64",0,cassan_19_57_49.det.lc.gz
+658,"4976    2.439231
+Name: chi_sub, dtype: float64",0,cassan_19_58_1972.det.lc.gz
+662,"4983    12.017116
+Name: chi_sub, dtype: float64",0,cassan_19_69_1989.det.lc.gz
+663,"4985    37.855797
+Name: chi_sub, dtype: float64",0,cassan_19_71_1537.det.lc.gz
+664,"4986    23.036597
+Name: chi_sub, dtype: float64",0,cassan_19_71_2005.det.lc.gz
+665,"4991    9.52208
+Name: chi_sub, dtype: float64",0,cassan_19_75_2375.det.lc.gz
+666,"4992    36.607555
+Name: chi_sub, dtype: float64",0,cassan_19_82_2075.det.lc.gz
+669,"4997    1.48786
+Name: chi_sub, dtype: float64",0,cassan_19_86_2078.det.lc.gz
+671,"5001    12.511357
+Name: chi_sub, dtype: float64",0,cassan_19_89_1710.det.lc.gz
+672,"5003    4.908366
+Name: chi_sub, dtype: float64",0,cassan_19_89_2505.det.lc.gz
+673,"5007    12.386408
+Name: chi_sub, dtype: float64",0,cassan_19_99_3031.det.lc.gz
+674,"5009    15.046889
+Name: chi_sub, dtype: float64",0,cassan_19_9_686.det.lc.gz
+676,"5013    14.12604
+Name: chi_sub, dtype: float64",0,cassan_1_101_2922.det.lc.gz
+677,"5015    25.546516
+Name: chi_sub, dtype: float64",0,cassan_1_109_267.det.lc.gz
+678,"5020    14.162556
+Name: chi_sub, dtype: float64",0,cassan_1_113_1485.det.lc.gz
+679,"5024    37.455412
+Name: chi_sub, dtype: float64",0,cassan_1_123_1426.det.lc.gz
+681,"5029    9.875924
+Name: chi_sub, dtype: float64",0,cassan_1_126_996.det.lc.gz
+684,"5033    32.322725
+Name: chi_sub, dtype: float64",0,cassan_1_136_1975.det.lc.gz
+686,"5036    15.611829
+Name: chi_sub, dtype: float64",0,cassan_1_140_665.det.lc.gz
+688,"5040    23.553346
+Name: chi_sub, dtype: float64",0,cassan_1_17_2034.det.lc.gz
+689,"5043    33.493237
+Name: chi_sub, dtype: float64",0,cassan_1_22_41.det.lc.gz
+690,"5044    37.271966
+Name: chi_sub, dtype: float64",0,cassan_1_23_1820.det.lc.gz
+692,"5047    13.206619
+Name: chi_sub, dtype: float64",0,cassan_1_30_255.det.lc.gz
+693,"5048    12.285237
+Name: chi_sub, dtype: float64",0,cassan_1_32_1751.det.lc.gz
+694,"5050    0.000044
+Name: chi_sub, dtype: float64",0,cassan_1_32_931.det.lc.gz
+697,"5060    18.460278
+Name: chi_sub, dtype: float64",0,cassan_1_46_2227.det.lc.gz
+699,"5062    22.65966
+Name: chi_sub, dtype: float64",0,cassan_1_47_739.det.lc.gz
+701,"5069    16.143691
+Name: chi_sub, dtype: float64",0,cassan_1_56_2964.det.lc.gz
+702,"5071    26.154824
+Name: chi_sub, dtype: float64",0,cassan_1_59_8.det.lc.gz
+704,"5073    12.598323
+Name: chi_sub, dtype: float64",0,cassan_1_60_2214.det.lc.gz
+706,"5077    16.221019
+Name: chi_sub, dtype: float64",0,cassan_1_63_1339.det.lc.gz
+707,"5079    19.219961
+Name: chi_sub, dtype: float64",0,cassan_1_63_843.det.lc.gz
+708,"5080    11.169495
+Name: chi_sub, dtype: float64",0,cassan_1_6_3203.det.lc.gz
+709,"5084    5.51233
+Name: chi_sub, dtype: float64",0,cassan_1_71_520.det.lc.gz
+710,"5086    11.256878
+Name: chi_sub, dtype: float64",0,cassan_1_72_3257.det.lc.gz
+712,"5094    15.65539
+Name: chi_sub, dtype: float64",0,cassan_1_88_18.det.lc.gz
+713,"5098    32.155434
+Name: chi_sub, dtype: float64",0,cassan_1_98_1425.det.lc.gz
+714,"5100    5.387916
+Name: chi_sub, dtype: float64",0,cassan_20_101_2676.det.lc.gz
+715,"5101    35.215818
+Name: chi_sub, dtype: float64",0,cassan_20_109_1272.det.lc.gz
+716,"5104    14.298564
+Name: chi_sub, dtype: float64",0,cassan_20_111_759.det.lc.gz
+717,"5108    32.758715
+Name: chi_sub, dtype: float64",0,cassan_20_112_682.det.lc.gz
+718,"5109    6.756856
+Name: chi_sub, dtype: float64",0,cassan_20_114_2867.det.lc.gz
+719,"5112    20.444583
+Name: chi_sub, dtype: float64",0,cassan_20_115_931.det.lc.gz
+721,"5116    29.788331
+Name: chi_sub, dtype: float64",0,cassan_20_126_2870.det.lc.gz
+724,"5119    21.918058
+Name: chi_sub, dtype: float64",0,cassan_20_127_618.det.lc.gz
+725,"5120    14.191879
+Name: chi_sub, dtype: float64",0,cassan_20_137_1403.det.lc.gz
+726,"5121    12.422595
+Name: chi_sub, dtype: float64",0,cassan_20_137_911.det.lc.gz
+729,"5125    12.961023
+Name: chi_sub, dtype: float64",0,cassan_20_139_817.det.lc.gz
+730,"5129    31.131086
+Name: chi_sub, dtype: float64",0,cassan_20_18_1716.det.lc.gz
+731,"5130    14.0154
+Name: chi_sub, dtype: float64",0,cassan_20_18_1874.det.lc.gz
+734,"5139    35.234333
+Name: chi_sub, dtype: float64",0,cassan_20_24_1262.det.lc.gz
+738,"5143    19.244906
+Name: chi_sub, dtype: float64",0,cassan_20_31_1750.det.lc.gz
+739,"5144    11.350028
+Name: chi_sub, dtype: float64",0,cassan_20_32_144.det.lc.gz
+740,"5145    25.541255
+Name: chi_sub, dtype: float64",0,cassan_20_33_2295.det.lc.gz
+744,"5150    0.0
+Name: chi_sub, dtype: float64",0,cassan_20_37_3239.det.lc.gz
+746,"5153    35.329764
+Name: chi_sub, dtype: float64",0,cassan_20_43_924.det.lc.gz
+747,"5154    37.563551
+Name: chi_sub, dtype: float64",0,cassan_20_44_2571.det.lc.gz
+748,"5156    1.593693
+Name: chi_sub, dtype: float64",0,cassan_20_44_96.det.lc.gz
+749,"5158    1.361391
+Name: chi_sub, dtype: float64",0,cassan_20_46_2934.det.lc.gz
+750,"5159    37.421162
+Name: chi_sub, dtype: float64",0,cassan_20_46_2957.det.lc.gz
+753,"5162    9.923397
+Name: chi_sub, dtype: float64",0,cassan_20_49_1531.det.lc.gz
+756,"5168    27.584743
+Name: chi_sub, dtype: float64",0,cassan_20_58_2472.det.lc.gz
+757,"5170    10.305806
+Name: chi_sub, dtype: float64",0,cassan_20_60_1759.det.lc.gz
+758,"5175    12.035619
+Name: chi_sub, dtype: float64",0,cassan_20_71_1323.det.lc.gz
+759,"5177    5.228475
+Name: chi_sub, dtype: float64",0,cassan_20_71_559.det.lc.gz
+760,"5178    29.22819
+Name: chi_sub, dtype: float64",0,cassan_20_72_537.det.lc.gz
+761,"5180    1.357686
+Name: chi_sub, dtype: float64",0,cassan_20_74_1433.det.lc.gz
+762,"5182    2.526031
+Name: chi_sub, dtype: float64",0,cassan_20_75_782.det.lc.gz
+763,"5184    28.421037
+Name: chi_sub, dtype: float64",0,cassan_20_82_2414.det.lc.gz
+764,"5187    0.615153
+Name: chi_sub, dtype: float64",0,cassan_20_96_1350.det.lc.gz
+765,"5188    22.239362
+Name: chi_sub, dtype: float64",0,cassan_20_97_1280.det.lc.gz
+766,"5193    12.559641
+Name: chi_sub, dtype: float64",0,cassan_21_100_1820.det.lc.gz
+767,"5197    9.358359
+Name: chi_sub, dtype: float64",0,cassan_21_101_832.det.lc.gz
+768,"5198    34.518894
+Name: chi_sub, dtype: float64",0,cassan_21_102_2298.det.lc.gz
+770,"5200    28.504163
+Name: chi_sub, dtype: float64",0,cassan_21_113_1483.det.lc.gz
+771,"5201    5.763685
+Name: chi_sub, dtype: float64",0,cassan_21_113_3.det.lc.gz
+772,"5204    31.726503
+Name: chi_sub, dtype: float64",0,cassan_21_124_1180.det.lc.gz
+773,"5206    8.985154
+Name: chi_sub, dtype: float64",0,cassan_21_127_1292.det.lc.gz
+774,"5207    0.526348
+Name: chi_sub, dtype: float64",0,cassan_21_136_8.det.lc.gz
+775,"5208    3.964369
+Name: chi_sub, dtype: float64",0,cassan_21_137_2261.det.lc.gz
+776,"5210    3.372225
+Name: chi_sub, dtype: float64",0,cassan_21_137_895.det.lc.gz
+778,"5213    6.835999
+Name: chi_sub, dtype: float64",0,cassan_21_138_2997.det.lc.gz
+779,"5214    36.894238
+Name: chi_sub, dtype: float64",0,cassan_21_140_756.det.lc.gz
+780,"5216    4.528769
+Name: chi_sub, dtype: float64",0,cassan_21_151_2744.det.lc.gz
+782,"5220    12.76145
+Name: chi_sub, dtype: float64",0,cassan_21_22_796.det.lc.gz
+786,"5227    11.370259
+Name: chi_sub, dtype: float64",0,cassan_21_31_1966.det.lc.gz
+787,"5230    29.904999
+Name: chi_sub, dtype: float64",0,cassan_21_32_2687.det.lc.gz
+788,"5233    13.389049
+Name: chi_sub, dtype: float64",0,cassan_21_34_1643.det.lc.gz
+790,"5236    39.627649
+Name: chi_sub, dtype: float64",0,cassan_21_36_3166.det.lc.gz
+791,"5237    18.667649
+Name: chi_sub, dtype: float64",0,cassan_21_37_2386.det.lc.gz
+792,"5238    14.936076
+Name: chi_sub, dtype: float64",0,cassan_21_44_1570.det.lc.gz
+793,"5240    28.647706
+Name: chi_sub, dtype: float64",0,cassan_21_45_2973.det.lc.gz
+794,"5242    0.729285
+Name: chi_sub, dtype: float64",0,cassan_21_46_2472.det.lc.gz
+795,"5243    16.184125
+Name: chi_sub, dtype: float64",0,cassan_21_46_698.det.lc.gz
+796,"5245    39.974772
+Name: chi_sub, dtype: float64",0,cassan_21_49_231.det.lc.gz
+797,"5247    14.133245
+Name: chi_sub, dtype: float64",0,cassan_21_4_2409.det.lc.gz
+798,"5248    38.051152
+Name: chi_sub, dtype: float64",0,cassan_21_4_3295.det.lc.gz
+799,"5249    34.774824
+Name: chi_sub, dtype: float64",0,cassan_21_57_2168.det.lc.gz
+802,"5254    4.981508
+Name: chi_sub, dtype: float64",0,cassan_21_60_1945.det.lc.gz
+804,"5256    24.502579
+Name: chi_sub, dtype: float64",0,cassan_21_63_445.det.lc.gz
+805,"5257    13.855899
+Name: chi_sub, dtype: float64",0,cassan_21_69_1479.det.lc.gz
+806,"5258    35.70942
+Name: chi_sub, dtype: float64",0,cassan_21_69_2192.det.lc.gz
+808,"5260    28.315142
+Name: chi_sub, dtype: float64",0,cassan_21_6_2813.det.lc.gz
+810,"5262    10.784986
+Name: chi_sub, dtype: float64",0,cassan_21_70_221.det.lc.gz
+813,"5269    4.845069
+Name: chi_sub, dtype: float64",0,cassan_21_76_2998.det.lc.gz
+814,"5270    17.507756
+Name: chi_sub, dtype: float64",0,cassan_21_7_2663.det.lc.gz
+815,"5271    23.93738
+Name: chi_sub, dtype: float64",0,cassan_21_82_2927.det.lc.gz
+817,"5273    8.727767
+Name: chi_sub, dtype: float64",0,cassan_21_82_675.det.lc.gz
+818,"5274    39.469668
+Name: chi_sub, dtype: float64",0,cassan_21_83_1213.det.lc.gz
+820,"5281    17.451496
+Name: chi_sub, dtype: float64",0,cassan_21_87_3139.det.lc.gz
+821,"5282    29.867212
+Name: chi_sub, dtype: float64",0,cassan_21_89_3311.det.lc.gz
+822,"5283    6.370424
+Name: chi_sub, dtype: float64",0,cassan_21_89_511.det.lc.gz
+827,"5289    11.573462
+Name: chi_sub, dtype: float64",0,cassan_21_98_277.det.lc.gz
+828,"5293    16.970739
+Name: chi_sub, dtype: float64",0,cassan_22_101_1288.det.lc.gz
+829,"5294    20.354265
+Name: chi_sub, dtype: float64",0,cassan_22_101_1714.det.lc.gz
+830,"5295    18.771296
+Name: chi_sub, dtype: float64",0,cassan_22_101_3058.det.lc.gz
+831,"5297    2.888236
+Name: chi_sub, dtype: float64",0,cassan_22_102_850.det.lc.gz
+833,"5300    29.661925
+Name: chi_sub, dtype: float64",0,cassan_22_10_1349.det.lc.gz
+834,"5301    13.484613
+Name: chi_sub, dtype: float64",0,cassan_22_110_761.det.lc.gz
+835,"5303    12.729333
+Name: chi_sub, dtype: float64",0,cassan_22_113_2126.det.lc.gz
+836,"5306    18.001735
+Name: chi_sub, dtype: float64",0,cassan_22_114_1917.det.lc.gz
+837,"5307    21.409669
+Name: chi_sub, dtype: float64",0,cassan_22_114_2569.det.lc.gz
+838,"5308    14.662173
+Name: chi_sub, dtype: float64",0,cassan_22_114_3084.det.lc.gz
+840,"5311    27.80764
+Name: chi_sub, dtype: float64",0,cassan_22_115_3186.det.lc.gz
+842,"5313    3.062542
+Name: chi_sub, dtype: float64",0,cassan_22_123_1772.det.lc.gz
+843,"5316    11.039097
+Name: chi_sub, dtype: float64",0,cassan_22_124_349.det.lc.gz
+844,"5317    17.735641
+Name: chi_sub, dtype: float64",0,cassan_22_124_718.det.lc.gz
+845,"5319    10.907429
+Name: chi_sub, dtype: float64",0,cassan_22_126_2343.det.lc.gz
+846,"5323    24.879736
+Name: chi_sub, dtype: float64",0,cassan_22_136_1242.det.lc.gz
+848,"5327    35.008025
+Name: chi_sub, dtype: float64",0,cassan_22_137_642.det.lc.gz
+850,"5332    16.925317
+Name: chi_sub, dtype: float64",0,cassan_22_150_1853.det.lc.gz
+851,"5334    1.653425
+Name: chi_sub, dtype: float64",0,cassan_22_17_3245.det.lc.gz
+852,"5336    29.338387
+Name: chi_sub, dtype: float64",0,cassan_22_19_2257.det.lc.gz
+853,"5337    19.762519
+Name: chi_sub, dtype: float64",0,cassan_22_21_1911.det.lc.gz
+854,"5338    7.489522
+Name: chi_sub, dtype: float64",0,cassan_22_22_2423.det.lc.gz
+855,"5339    22.37296
+Name: chi_sub, dtype: float64",0,cassan_22_23_2559.det.lc.gz
+857,"5344    5.909408
+Name: chi_sub, dtype: float64",0,cassan_22_31_350.det.lc.gz
+858,"5347    19.30485
+Name: chi_sub, dtype: float64",0,cassan_22_33_1079.det.lc.gz
+859,"5349    15.439885
+Name: chi_sub, dtype: float64",0,cassan_22_34_2379.det.lc.gz
+860,"5350    29.091413
+Name: chi_sub, dtype: float64",0,cassan_22_35_1262.det.lc.gz
+863,"5356    30.40427
+Name: chi_sub, dtype: float64",0,cassan_22_46_2418.det.lc.gz
+864,"5357    0.000024
+Name: chi_sub, dtype: float64",0,cassan_22_46_615.det.lc.gz
+867,"5361    38.629424
+Name: chi_sub, dtype: float64",0,cassan_22_49_3048.det.lc.gz
+868,"5363    33.727563
+Name: chi_sub, dtype: float64",0,cassan_22_4_1119.det.lc.gz
+871,"5367    24.374628
+Name: chi_sub, dtype: float64",0,cassan_22_56_2689.det.lc.gz
+872,"5368    25.482877
+Name: chi_sub, dtype: float64",0,cassan_22_56_675.det.lc.gz
+873,"5369    15.893706
+Name: chi_sub, dtype: float64",0,cassan_22_57_98.det.lc.gz
+874,"5370    25.218578
+Name: chi_sub, dtype: float64",0,cassan_22_58_2074.det.lc.gz
+875,"5371    17.779368
+Name: chi_sub, dtype: float64",0,cassan_22_58_2560.det.lc.gz
+877,"5376    10.026306
+Name: chi_sub, dtype: float64",0,cassan_22_71_2267.det.lc.gz
+878,"5378    36.989994
+Name: chi_sub, dtype: float64",0,cassan_22_72_2853.det.lc.gz
+879,"5379    13.436571
+Name: chi_sub, dtype: float64",0,cassan_22_73_2371.det.lc.gz
+880,"5380    15.992054
+Name: chi_sub, dtype: float64",0,cassan_22_74_1946.det.lc.gz
+885,"5389    11.596729
+Name: chi_sub, dtype: float64",0,cassan_22_88_1820.det.lc.gz
+886,"5391    18.935679
+Name: chi_sub, dtype: float64",0,cassan_22_89_3307.det.lc.gz
+887,"5392    13.666112
+Name: chi_sub, dtype: float64",0,cassan_22_96_218.det.lc.gz
+889,"5394    5.311391
+Name: chi_sub, dtype: float64",0,cassan_22_96_580.det.lc.gz
+890,"5397    22.408517
+Name: chi_sub, dtype: float64",0,cassan_22_98_134.det.lc.gz
+892,"5402    34.417425
+Name: chi_sub, dtype: float64",0,cassan_22_9_1245.det.lc.gz
+893,"5404    21.309936
+Name: chi_sub, dtype: float64",0,cassan_22_9_711.det.lc.gz
+894,"5405    6.141789
+Name: chi_sub, dtype: float64",0,cassan_23_100_1583.det.lc.gz
+895,"5406    15.00258
+Name: chi_sub, dtype: float64",0,cassan_23_101_2748.det.lc.gz
+896,"5407    15.544111
+Name: chi_sub, dtype: float64",0,cassan_23_101_518.det.lc.gz
+897,"5408    22.062288
+Name: chi_sub, dtype: float64",0,cassan_23_109_1045.det.lc.gz
+898,"5412    12.141596
+Name: chi_sub, dtype: float64",0,cassan_23_10_2950.det.lc.gz
+900,"5414    11.599661
+Name: chi_sub, dtype: float64",0,cassan_23_111_1427.det.lc.gz
+902,"5417    1.022777
+Name: chi_sub, dtype: float64",0,cassan_23_114_1847.det.lc.gz
+903,"5418    17.049871
+Name: chi_sub, dtype: float64",0,cassan_23_114_2604.det.lc.gz
+904,"5420    36.191362
+Name: chi_sub, dtype: float64",0,cassan_23_124_1818.det.lc.gz
+906,"5423    36.504419
+Name: chi_sub, dtype: float64",0,cassan_23_125_619.det.lc.gz
+907,"5424    20.307554
+Name: chi_sub, dtype: float64",0,cassan_23_127_2186.det.lc.gz
+909,"5427    26.88473
+Name: chi_sub, dtype: float64",0,cassan_23_138_2078.det.lc.gz
+910,"5428    34.073319
+Name: chi_sub, dtype: float64",0,cassan_23_139_2096.det.lc.gz
+911,"5429    24.225185
+Name: chi_sub, dtype: float64",0,cassan_23_140_1470.det.lc.gz
+912,"5435    14.8311
+Name: chi_sub, dtype: float64",0,cassan_23_17_3073.det.lc.gz
+913,"5437    32.447101
+Name: chi_sub, dtype: float64",0,cassan_23_21_1313.det.lc.gz
+915,"5440    14.69464
+Name: chi_sub, dtype: float64",0,cassan_23_22_2038.det.lc.gz
+916,"5443    2.586869
+Name: chi_sub, dtype: float64",0,cassan_23_24_369.det.lc.gz
+917,"5444    7.314531
+Name: chi_sub, dtype: float64",0,cassan_23_30_1756.det.lc.gz
+918,"5445    13.016136
+Name: chi_sub, dtype: float64",0,cassan_23_30_886.det.lc.gz
+919,"5447    39.623357
+Name: chi_sub, dtype: float64",0,cassan_23_32_2507.det.lc.gz
+920,"5451    27.274696
+Name: chi_sub, dtype: float64",0,cassan_23_35_2036.det.lc.gz
+921,"5452    18.515264
+Name: chi_sub, dtype: float64",0,cassan_23_35_2323.det.lc.gz
+922,"5454    14.120021
+Name: chi_sub, dtype: float64",0,cassan_23_35_771.det.lc.gz
+923,"5455    5.198346
+Name: chi_sub, dtype: float64",0,cassan_23_36_1486.det.lc.gz
+924,"5457    33.143438
+Name: chi_sub, dtype: float64",0,cassan_23_37_1835.det.lc.gz
+925,"5458    34.624766
+Name: chi_sub, dtype: float64",0,cassan_23_43_1213.det.lc.gz
+926,"5460    14.547557
+Name: chi_sub, dtype: float64",0,cassan_23_45_1488.det.lc.gz
+929,"5463    29.034194
+Name: chi_sub, dtype: float64",0,cassan_23_45_485.det.lc.gz
+931,"5466    29.524425
+Name: chi_sub, dtype: float64",0,cassan_23_48_2180.det.lc.gz
+932,"5467    34.523404
+Name: chi_sub, dtype: float64",0,cassan_23_49_1529.det.lc.gz
+933,"5469    17.849182
+Name: chi_sub, dtype: float64",0,cassan_23_49_944.det.lc.gz
+935,"5473    8.177258
+Name: chi_sub, dtype: float64",0,cassan_23_56_413.det.lc.gz
+936,"5476    11.094312
+Name: chi_sub, dtype: float64",0,cassan_23_57_1344.det.lc.gz
+942,"5490    22.911836
+Name: chi_sub, dtype: float64",0,cassan_23_69_1916.det.lc.gz
+943,"5494    8.252013
+Name: chi_sub, dtype: float64",0,cassan_23_70_1843.det.lc.gz
+944,"5496    8.193793
+Name: chi_sub, dtype: float64",0,cassan_23_71_1217.det.lc.gz
+946,"5498    11.965039
+Name: chi_sub, dtype: float64",0,cassan_23_73_160.det.lc.gz
+948,"5500    16.039476
+Name: chi_sub, dtype: float64",0,cassan_23_73_344.det.lc.gz
+949,"5501    11.272279
+Name: chi_sub, dtype: float64",0,cassan_23_73_543.det.lc.gz
+950,"5504    23.881899
+Name: chi_sub, dtype: float64",0,cassan_23_7_1566.det.lc.gz
+953,"5509    15.268642
+Name: chi_sub, dtype: float64",0,cassan_23_83_2155.det.lc.gz
+954,"5511    34.353145
+Name: chi_sub, dtype: float64",0,cassan_23_84_1968.det.lc.gz
+955,"5513    12.941589
+Name: chi_sub, dtype: float64",0,cassan_23_84_2636.det.lc.gz
+956,"5514    7.380021
+Name: chi_sub, dtype: float64",0,cassan_23_84_2670.det.lc.gz
+959,"5518    0.273613
+Name: chi_sub, dtype: float64",0,cassan_23_85_95.det.lc.gz
+961,"5521    13.076923
+Name: chi_sub, dtype: float64",0,cassan_23_88_2449.det.lc.gz
+962,"5522    14.665101
+Name: chi_sub, dtype: float64",0,cassan_23_88_2970.det.lc.gz
+963,"5523    21.593544
+Name: chi_sub, dtype: float64",0,cassan_23_88_3189.det.lc.gz
+964,"5524    11.167807
+Name: chi_sub, dtype: float64",0,cassan_23_88_52.det.lc.gz
+965,"5525    31.091167
+Name: chi_sub, dtype: float64",0,cassan_23_89_1836.det.lc.gz
+966,"5526    39.659914
+Name: chi_sub, dtype: float64",0,cassan_23_97_1445.det.lc.gz
+967,"5527    10.399689
+Name: chi_sub, dtype: float64",0,cassan_23_97_1657.det.lc.gz
+968,"5529    15.871748
+Name: chi_sub, dtype: float64",0,cassan_23_98_1181.det.lc.gz
+970,"5533    8.05803
+Name: chi_sub, dtype: float64",0,cassan_23_9_2339.det.lc.gz
+971,"5534    17.245073
+Name: chi_sub, dtype: float64",0,cassan_23_9_2984.det.lc.gz
+972,"5535    0.199372
+Name: chi_sub, dtype: float64",0,cassan_23_9_3097.det.lc.gz
+973,"5536    12.643268
+Name: chi_sub, dtype: float64",0,cassan_24_100_2913.det.lc.gz
+974,"5538    12.582338
+Name: chi_sub, dtype: float64",0,cassan_24_109_2305.det.lc.gz
+975,"5539    34.748463
+Name: chi_sub, dtype: float64",0,cassan_24_109_3115.det.lc.gz
+976,"5541    8.936646
+Name: chi_sub, dtype: float64",0,cassan_24_110_2295.det.lc.gz
+977,"5544    18.306519
+Name: chi_sub, dtype: float64",0,cassan_24_111_1667.det.lc.gz
+978,"5548    8.428334
+Name: chi_sub, dtype: float64",0,cassan_24_112_562.det.lc.gz
+980,"5552    10.620357
+Name: chi_sub, dtype: float64",0,cassan_24_115_1144.det.lc.gz
+981,"5553    12.553388
+Name: chi_sub, dtype: float64",0,cassan_24_115_1682.det.lc.gz
+982,"5555    29.434084
+Name: chi_sub, dtype: float64",0,cassan_24_123_3190.det.lc.gz
+983,"5556    6.746471
+Name: chi_sub, dtype: float64",0,cassan_24_124_2823.det.lc.gz
+984,"5557    10.269577
+Name: chi_sub, dtype: float64",0,cassan_24_125_1380.det.lc.gz
+985,"5561    16.35302
+Name: chi_sub, dtype: float64",0,cassan_24_137_1934.det.lc.gz
+986,"5562    37.830804
+Name: chi_sub, dtype: float64",0,cassan_24_137_980.det.lc.gz
+988,"5569    29.584349
+Name: chi_sub, dtype: float64",0,cassan_24_18_3069.det.lc.gz
+989,"5570    19.264372
+Name: chi_sub, dtype: float64",0,cassan_24_18_433.det.lc.gz
+991,"5574    12.830661
+Name: chi_sub, dtype: float64",0,cassan_24_34_1030.det.lc.gz
+992,"5575    13.587554
+Name: chi_sub, dtype: float64",0,cassan_24_35_402.det.lc.gz
+993,"5576    29.197516
+Name: chi_sub, dtype: float64",0,cassan_24_37_1719.det.lc.gz
+996,"5581    30.932271
+Name: chi_sub, dtype: float64",0,cassan_24_44_30.det.lc.gz
+1000,"5591    34.962828
+Name: chi_sub, dtype: float64",0,cassan_24_59_2654.det.lc.gz
+1001,"5592    38.450614
+Name: chi_sub, dtype: float64",0,cassan_24_60_772.det.lc.gz
+1002,"5594    22.725536
+Name: chi_sub, dtype: float64",0,cassan_24_69_1133.det.lc.gz
+1003,"5596    2.217804
+Name: chi_sub, dtype: float64",0,cassan_24_6_1589.det.lc.gz
+1004,"5599    39.472314
+Name: chi_sub, dtype: float64",0,cassan_24_71_882.det.lc.gz
+1005,"5600    4.758246
+Name: chi_sub, dtype: float64",0,cassan_24_72_1411.det.lc.gz
+1007,"5604    19.622366
+Name: chi_sub, dtype: float64",0,cassan_24_75_2950.det.lc.gz
+1008,"5613    37.610146
+Name: chi_sub, dtype: float64",0,cassan_24_82_1701.det.lc.gz
+1009,"5614    15.295824
+Name: chi_sub, dtype: float64",0,cassan_24_83_1436.det.lc.gz
+1010,"5616    8.820978
+Name: chi_sub, dtype: float64",0,cassan_24_83_2588.det.lc.gz
+1011,"5617    8.191367
+Name: chi_sub, dtype: float64",0,cassan_24_83_816.det.lc.gz
+1012,"5619    11.141506
+Name: chi_sub, dtype: float64",0,cassan_24_84_2631.det.lc.gz
+1014,"5623    9.967883
+Name: chi_sub, dtype: float64",0,cassan_24_85_3249.det.lc.gz
+1015,"5626    13.678111
+Name: chi_sub, dtype: float64",0,cassan_24_87_2102.det.lc.gz
+1016,"5627    16.18049
+Name: chi_sub, dtype: float64",0,cassan_24_89_1119.det.lc.gz
+1018,"5629    15.621466
+Name: chi_sub, dtype: float64",0,cassan_24_97_2043.det.lc.gz
+1021,"5637    17.586033
+Name: chi_sub, dtype: float64",0,cassan_25_113_832.det.lc.gz
+1022,"5638    6.44747
+Name: chi_sub, dtype: float64",0,cassan_25_115_140.det.lc.gz
+1023,"5640    2.794275
+Name: chi_sub, dtype: float64",0,cassan_25_115_1659.det.lc.gz
+1026,"5646    23.148781
+Name: chi_sub, dtype: float64",0,cassan_25_124_751.det.lc.gz
+1027,"5647    25.062632
+Name: chi_sub, dtype: float64",0,cassan_25_126_621.det.lc.gz
+1030,"5659    15.169308
+Name: chi_sub, dtype: float64",0,cassan_25_18_1884.det.lc.gz
+1031,"5660    7.718446
+Name: chi_sub, dtype: float64",0,cassan_25_19_3253.det.lc.gz
+1032,"5661    17.815547
+Name: chi_sub, dtype: float64",0,cassan_25_20_2168.det.lc.gz
+1033,"5662    11.990508
+Name: chi_sub, dtype: float64",0,cassan_25_21_1781.det.lc.gz
+1034,"5663    20.450389
+Name: chi_sub, dtype: float64",0,cassan_25_21_1919.det.lc.gz
+1036,"5666    36.968474
+Name: chi_sub, dtype: float64",0,cassan_25_21_2951.det.lc.gz
+1037,"5667    28.353143
+Name: chi_sub, dtype: float64",0,cassan_25_22_152.det.lc.gz
+1038,"5668    15.60684
+Name: chi_sub, dtype: float64",0,cassan_25_22_218.det.lc.gz
+1039,"5670    29.671442
+Name: chi_sub, dtype: float64",0,cassan_25_24_3258.det.lc.gz
+1040,"5673    6.931036
+Name: chi_sub, dtype: float64",0,cassan_25_30_2993.det.lc.gz
+1041,"5674    17.556383
+Name: chi_sub, dtype: float64",0,cassan_25_30_615.det.lc.gz
+1042,"5676    25.386904
+Name: chi_sub, dtype: float64",0,cassan_25_31_2709.det.lc.gz
+1043,"5677    19.858261
+Name: chi_sub, dtype: float64",0,cassan_25_32_2160.det.lc.gz
+1044,"5678    0.779269
+Name: chi_sub, dtype: float64",0,cassan_25_32_282.det.lc.gz
+1045,"5679    5.03547
+Name: chi_sub, dtype: float64",0,cassan_25_33_2969.det.lc.gz
+1047,"5682    8.587541
+Name: chi_sub, dtype: float64",0,cassan_25_43_177.det.lc.gz
+1048,"5684    6.321719
+Name: chi_sub, dtype: float64",0,cassan_25_44_3024.det.lc.gz
+1049,"5685    22.264638
+Name: chi_sub, dtype: float64",0,cassan_25_44_487.det.lc.gz
+1050,"5686    12.813805
+Name: chi_sub, dtype: float64",0,cassan_25_44_97.det.lc.gz
+1051,"5688    25.154991
+Name: chi_sub, dtype: float64",0,cassan_25_47_1356.det.lc.gz
+1053,"5690    8.38614
+Name: chi_sub, dtype: float64",0,cassan_25_47_3004.det.lc.gz
+1055,"5693    33.177038
+Name: chi_sub, dtype: float64",0,cassan_25_49_2134.det.lc.gz
+1056,"5694    5.77825
+Name: chi_sub, dtype: float64",0,cassan_25_49_819.det.lc.gz
+1058,"5698    33.831249
+Name: chi_sub, dtype: float64",0,cassan_25_57_209.det.lc.gz
+1059,"5702    10.259722
+Name: chi_sub, dtype: float64",0,cassan_25_61_3207.det.lc.gz
+1060,"5703    1.36687
+Name: chi_sub, dtype: float64",0,cassan_25_62_1762.det.lc.gz
+1061,"5706    5.702586
+Name: chi_sub, dtype: float64",0,cassan_25_69_759.det.lc.gz
+1062,"5708    14.845504
+Name: chi_sub, dtype: float64",0,cassan_25_70_2924.det.lc.gz
+1063,"5710    26.680189
+Name: chi_sub, dtype: float64",0,cassan_25_71_1441.det.lc.gz
+1064,"5711    37.57298
+Name: chi_sub, dtype: float64",0,cassan_25_72_131.det.lc.gz
+1065,"5713    16.351543
+Name: chi_sub, dtype: float64",0,cassan_25_73_1476.det.lc.gz
+1067,"5716    16.911881
+Name: chi_sub, dtype: float64",0,cassan_25_7_1925.det.lc.gz
+1068,"5720    8.152228
+Name: chi_sub, dtype: float64",0,cassan_25_85_1265.det.lc.gz
+1069,"5722    9.615915
+Name: chi_sub, dtype: float64",0,cassan_25_86_2489.det.lc.gz
+1070,"5724    8.42718
+Name: chi_sub, dtype: float64",0,cassan_25_8_2626.det.lc.gz
+1072,"5729    16.805024
+Name: chi_sub, dtype: float64",0,cassan_26_101_270.det.lc.gz
+1073,"5731    39.719786
+Name: chi_sub, dtype: float64",0,cassan_26_102_2769.det.lc.gz
+1074,"5732    6.580435
+Name: chi_sub, dtype: float64",0,cassan_26_109_2946.det.lc.gz
+1075,"5734    9.124466
+Name: chi_sub, dtype: float64",0,cassan_26_111_1090.det.lc.gz
+1077,"5738    30.02889
+Name: chi_sub, dtype: float64",0,cassan_26_123_1582.det.lc.gz
+1078,"5740    13.332962
+Name: chi_sub, dtype: float64",0,cassan_26_125_2324.det.lc.gz
+1081,"5745    23.326887
+Name: chi_sub, dtype: float64",0,cassan_26_136_2674.det.lc.gz
+1082,"5746    11.813058
+Name: chi_sub, dtype: float64",0,cassan_26_138_253.det.lc.gz
+1083,"5747    11.57505
+Name: chi_sub, dtype: float64",0,cassan_26_138_304.det.lc.gz
+1084,"5749    14.092097
+Name: chi_sub, dtype: float64",0,cassan_26_139_729.det.lc.gz
+1085,"5751    14.307161
+Name: chi_sub, dtype: float64",0,cassan_26_140_2440.det.lc.gz
+1087,"5754    31.698019
+Name: chi_sub, dtype: float64",0,cassan_26_151_3022.det.lc.gz
+1088,"5759    14.210953
+Name: chi_sub, dtype: float64",0,cassan_26_18_219.det.lc.gz
+1089,"5760    18.532857
+Name: chi_sub, dtype: float64",0,cassan_26_18_3079.det.lc.gz
+1092,"5767    19.210899
+Name: chi_sub, dtype: float64",0,cassan_26_31_2212.det.lc.gz
+1093,"5770    13.345669
+Name: chi_sub, dtype: float64",0,cassan_26_34_1734.det.lc.gz
+1094,"5774    6.420018
+Name: chi_sub, dtype: float64",0,cassan_26_36_2986.det.lc.gz
+1095,"5775    35.860604
+Name: chi_sub, dtype: float64",0,cassan_26_45_2925.det.lc.gz
+1098,"5781    9.833722
+Name: chi_sub, dtype: float64",0,cassan_26_4_3024.det.lc.gz
+1100,"5785    24.234655
+Name: chi_sub, dtype: float64",0,cassan_26_56_297.det.lc.gz
+1101,"5787    9.940116
+Name: chi_sub, dtype: float64",0,cassan_26_57_2952.det.lc.gz
+1102,"5789    6.520039
+Name: chi_sub, dtype: float64",0,cassan_26_5_1902.det.lc.gz
+1103,"5791    29.914205
+Name: chi_sub, dtype: float64",0,cassan_26_62_1758.det.lc.gz
+1104,"5792    18.098449
+Name: chi_sub, dtype: float64",0,cassan_26_6_1987.det.lc.gz
+1106,"5799    8.049995
+Name: chi_sub, dtype: float64",0,cassan_26_75_2224.det.lc.gz
+1109,"5802    18.787035
+Name: chi_sub, dtype: float64",0,cassan_26_82_1090.det.lc.gz
+1110,"5805    29.435818
+Name: chi_sub, dtype: float64",0,cassan_26_84_1523.det.lc.gz
+1111,"5810    18.887414
+Name: chi_sub, dtype: float64",0,cassan_26_88_2105.det.lc.gz
+1113,"5815    26.309831
+Name: chi_sub, dtype: float64",0,cassan_26_96_2314.det.lc.gz
+1114,"5816    13.020099
+Name: chi_sub, dtype: float64",0,cassan_26_96_253.det.lc.gz
+1115,"5818    13.000884
+Name: chi_sub, dtype: float64",0,cassan_26_98_1448.det.lc.gz
+1117,"5821    31.373976
+Name: chi_sub, dtype: float64",0,cassan_27_100_1748.det.lc.gz
+1118,"5824    7.168065
+Name: chi_sub, dtype: float64",0,cassan_27_101_1865.det.lc.gz
+1119,"5827    12.03135
+Name: chi_sub, dtype: float64",0,cassan_27_111_1324.det.lc.gz
+1120,"5828    2.382583
+Name: chi_sub, dtype: float64",0,cassan_27_111_954.det.lc.gz
+1121,"5829    9.200997
+Name: chi_sub, dtype: float64",0,cassan_27_112_1691.det.lc.gz
+1122,"5831    9.683685
+Name: chi_sub, dtype: float64",0,cassan_27_114_1150.det.lc.gz
+1125,"5837    16.20185
+Name: chi_sub, dtype: float64",0,cassan_27_124_1969.det.lc.gz
+1127,"5839    28.795327
+Name: chi_sub, dtype: float64",0,cassan_27_125_203.det.lc.gz
+1128,"5841    13.417152
+Name: chi_sub, dtype: float64",0,cassan_27_136_1050.det.lc.gz
+1129,"5843    15.438738
+Name: chi_sub, dtype: float64",0,cassan_27_136_2114.det.lc.gz
+1132,"5849    2.105915
+Name: chi_sub, dtype: float64",0,cassan_27_138_2508.det.lc.gz
+1133,"5856    33.402649
+Name: chi_sub, dtype: float64",0,cassan_27_19_2887.det.lc.gz
+1134,"5857    6.305528
+Name: chi_sub, dtype: float64",0,cassan_27_21_1439.det.lc.gz
+1135,"5858    8.828486
+Name: chi_sub, dtype: float64",0,cassan_27_21_1858.det.lc.gz
+1136,"5859    35.161904
+Name: chi_sub, dtype: float64",0,cassan_27_22_1031.det.lc.gz
+1137,"5860    18.591103
+Name: chi_sub, dtype: float64",0,cassan_27_22_38.det.lc.gz
+1138,"5862    12.178598
+Name: chi_sub, dtype: float64",0,cassan_27_23_2521.det.lc.gz
+1140,"5868    21.511325
+Name: chi_sub, dtype: float64",0,cassan_27_33_1169.det.lc.gz
+1141,"5869    7.811667
+Name: chi_sub, dtype: float64",0,cassan_27_34_437.det.lc.gz
+1142,"5871    13.6871
+Name: chi_sub, dtype: float64",0,cassan_27_35_2475.det.lc.gz
+1146,"5877    8.765645
+Name: chi_sub, dtype: float64",0,cassan_27_47_1582.det.lc.gz
+1147,"5879    13.984894
+Name: chi_sub, dtype: float64",0,cassan_27_48_1550.det.lc.gz
+1148,"5880    20.997883
+Name: chi_sub, dtype: float64",0,cassan_27_48_2825.det.lc.gz
+1149,"5881    14.594387
+Name: chi_sub, dtype: float64",0,cassan_27_49_3286.det.lc.gz
+1150,"5882    18.225825
+Name: chi_sub, dtype: float64",0,cassan_27_4_1587.det.lc.gz
+1153,"5887    17.327463
+Name: chi_sub, dtype: float64",0,cassan_27_56_1225.det.lc.gz
+1154,"5888    13.16452
+Name: chi_sub, dtype: float64",0,cassan_27_56_1508.det.lc.gz
+1155,"5889    7.34742
+Name: chi_sub, dtype: float64",0,cassan_27_58_1486.det.lc.gz
+1156,"5890    26.222357
+Name: chi_sub, dtype: float64",0,cassan_27_59_2436.det.lc.gz
+1157,"5892    23.355023
+Name: chi_sub, dtype: float64",0,cassan_27_5_352.det.lc.gz
+1158,"5893    19.870303
+Name: chi_sub, dtype: float64",0,cassan_27_5_498.det.lc.gz
+1159,"5894    6.211777
+Name: chi_sub, dtype: float64",0,cassan_27_5_794.det.lc.gz
+1161,"5897    3.781616
+Name: chi_sub, dtype: float64",0,cassan_27_62_2979.det.lc.gz
+1162,"5900    17.525812
+Name: chi_sub, dtype: float64",0,cassan_27_69_2608.det.lc.gz
+1164,"5904    8.334074
+Name: chi_sub, dtype: float64",0,cassan_27_70_2887.det.lc.gz
+1166,"5906    11.079031
+Name: chi_sub, dtype: float64",0,cassan_27_72_3131.det.lc.gz
+1168,"5912    7.635244
+Name: chi_sub, dtype: float64",0,cassan_27_84_2192.det.lc.gz
+1169,"5913    15.211576
+Name: chi_sub, dtype: float64",0,cassan_27_85_2713.det.lc.gz
+1172,"5918    37.9504
+Name: chi_sub, dtype: float64",0,cassan_27_89_3048.det.lc.gz
+1173,"5919    17.228237
+Name: chi_sub, dtype: float64",0,cassan_27_8_1375.det.lc.gz
+1174,"5921    25.501119
+Name: chi_sub, dtype: float64",0,cassan_27_98_579.det.lc.gz
+1176,"5924    35.692398
+Name: chi_sub, dtype: float64",0,cassan_27_99_2984.det.lc.gz
+1178,"5926    29.366396
+Name: chi_sub, dtype: float64",0,cassan_27_9_641.det.lc.gz
+1179,"5927    11.514338
+Name: chi_sub, dtype: float64",0,cassan_27_9_798.det.lc.gz
+1181,"5931    4.692822
+Name: chi_sub, dtype: float64",0,cassan_28_102_2301.det.lc.gz
+1182,"5934    16.320841
+Name: chi_sub, dtype: float64",0,cassan_28_10_3012.det.lc.gz
+1183,"5935    9.774631
+Name: chi_sub, dtype: float64",0,cassan_28_10_482.det.lc.gz
+1184,"5936    13.630568
+Name: chi_sub, dtype: float64",0,cassan_28_111_351.det.lc.gz
+1185,"5939    9.950159
+Name: chi_sub, dtype: float64",0,cassan_28_112_1684.det.lc.gz
+1187,"5943    9.180285
+Name: chi_sub, dtype: float64",0,cassan_28_114_1455.det.lc.gz
+1188,"5944    9.518636
+Name: chi_sub, dtype: float64",0,cassan_28_114_2271.det.lc.gz
+1190,"5947    21.261181
+Name: chi_sub, dtype: float64",0,cassan_28_136_2384.det.lc.gz
+1191,"5948    0.975244
+Name: chi_sub, dtype: float64",0,cassan_28_137_2769.det.lc.gz
+1192,"5949    25.798487
+Name: chi_sub, dtype: float64",0,cassan_28_139_3045.det.lc.gz
+1193,"5950    13.458921
+Name: chi_sub, dtype: float64",0,cassan_28_139_3144.det.lc.gz
+1194,"5951    1.130735
+Name: chi_sub, dtype: float64",0,cassan_28_139_3271.det.lc.gz
+1196,"5956    36.403856
+Name: chi_sub, dtype: float64",0,cassan_28_19_603.det.lc.gz
+1201,"5963    11.465564
+Name: chi_sub, dtype: float64",0,cassan_28_32_2202.det.lc.gz
+1202,"5965    18.804909
+Name: chi_sub, dtype: float64",0,cassan_28_32_3139.det.lc.gz
+1203,"5966    22.08338
+Name: chi_sub, dtype: float64",0,cassan_28_33_2238.det.lc.gz
+1204,"5972    19.97687
+Name: chi_sub, dtype: float64",0,cassan_28_45_1188.det.lc.gz
+1205,"5975    11.320466
+Name: chi_sub, dtype: float64",0,cassan_28_48_2900.det.lc.gz
+1206,"5976    37.689595
+Name: chi_sub, dtype: float64",0,cassan_28_48_2979.det.lc.gz
+1207,"5977    35.489137
+Name: chi_sub, dtype: float64",0,cassan_28_49_2174.det.lc.gz
+1209,"5980    18.588757
+Name: chi_sub, dtype: float64",0,cassan_28_4_183.det.lc.gz
+1211,"5982    34.115508
+Name: chi_sub, dtype: float64",0,cassan_28_4_3118.det.lc.gz
+1212,"5983    28.52317
+Name: chi_sub, dtype: float64",0,cassan_28_50_689.det.lc.gz
+1213,"5985    28.167212
+Name: chi_sub, dtype: float64",0,cassan_28_58_1457.det.lc.gz
+1214,"5986    0.000007
+Name: chi_sub, dtype: float64",0,cassan_28_59_1162.det.lc.gz
+1215,"5987    17.014991
+Name: chi_sub, dtype: float64",0,cassan_28_59_1767.det.lc.gz
+1216,"5989    18.297855
+Name: chi_sub, dtype: float64",0,cassan_28_61_0.det.lc.gz
+1217,"5991    9.69994
+Name: chi_sub, dtype: float64",0,cassan_28_61_1987.det.lc.gz
+1218,"5992    8.672806
+Name: chi_sub, dtype: float64",0,cassan_28_61_2605.det.lc.gz
+1221,"5997    1.531408
+Name: chi_sub, dtype: float64",0,cassan_28_73_1070.det.lc.gz
+1223,"6001    38.632728
+Name: chi_sub, dtype: float64",0,cassan_28_76_888.det.lc.gz
+1225,"6004    15.239713
+Name: chi_sub, dtype: float64",0,cassan_28_83_408.det.lc.gz
+1226,"6005    15.204074
+Name: chi_sub, dtype: float64",0,cassan_28_83_85.det.lc.gz
+1227,"6008    12.571013
+Name: chi_sub, dtype: float64",0,cassan_28_8_2347.det.lc.gz
+1228,"6009    6.662107
+Name: chi_sub, dtype: float64",0,cassan_28_8_969.det.lc.gz
+1229,"6010    18.149013
+Name: chi_sub, dtype: float64",0,cassan_28_98_1702.det.lc.gz
+1230,"6011    0.226459
+Name: chi_sub, dtype: float64",0,cassan_28_98_2620.det.lc.gz
+1231,"6012    3.718678
+Name: chi_sub, dtype: float64",0,cassan_28_98_3314.det.lc.gz
+1232,"6013    23.15334
+Name: chi_sub, dtype: float64",0,cassan_29_100_1616.det.lc.gz
+1233,"6015    22.598436
+Name: chi_sub, dtype: float64",0,cassan_29_100_2745.det.lc.gz
+1235,"6017    35.206137
+Name: chi_sub, dtype: float64",0,cassan_29_109_3144.det.lc.gz
+1236,"6018    14.967537
+Name: chi_sub, dtype: float64",0,cassan_29_10_2863.det.lc.gz
+1237,"6019    14.004934
+Name: chi_sub, dtype: float64",0,cassan_29_110_1026.det.lc.gz
+1238,"6020    30.058326
+Name: chi_sub, dtype: float64",0,cassan_29_110_1844.det.lc.gz
+1239,"6021    7.926081
+Name: chi_sub, dtype: float64",0,cassan_29_111_895.det.lc.gz
+1241,"6024    5.284887
+Name: chi_sub, dtype: float64",0,cassan_29_113_1783.det.lc.gz
+1242,"6026    35.122562
+Name: chi_sub, dtype: float64",0,cassan_29_113_3071.det.lc.gz
+1245,"6030    31.016125
+Name: chi_sub, dtype: float64",0,cassan_29_123_1133.det.lc.gz
+1246,"6032    16.060131
+Name: chi_sub, dtype: float64",0,cassan_29_123_1765.det.lc.gz
+1247,"6033    1.775975
+Name: chi_sub, dtype: float64",0,cassan_29_123_2323.det.lc.gz
+1249,"6041    20.003
+Name: chi_sub, dtype: float64",0,cassan_29_127_2376.det.lc.gz
+1250,"6042    6.33112
+Name: chi_sub, dtype: float64",0,cassan_29_138_1459.det.lc.gz
+1251,"6045    39.020034
+Name: chi_sub, dtype: float64",0,cassan_29_151_1467.det.lc.gz
+1252,"6046    17.33352
+Name: chi_sub, dtype: float64",0,cassan_29_151_163.det.lc.gz
+1254,"6049    15.107473
+Name: chi_sub, dtype: float64",0,cassan_29_19_227.det.lc.gz
+1256,"6053    6.577853
+Name: chi_sub, dtype: float64",0,cassan_29_23_1343.det.lc.gz
+1257,"6054    25.836362
+Name: chi_sub, dtype: float64",0,cassan_29_23_3284.det.lc.gz
+1258,"6055    11.968209
+Name: chi_sub, dtype: float64",0,cassan_29_30_1226.det.lc.gz
+1259,"6056    29.280582
+Name: chi_sub, dtype: float64",0,cassan_29_31_2013.det.lc.gz
+1261,"6059    20.028096
+Name: chi_sub, dtype: float64",0,cassan_29_32_955.det.lc.gz
+1263,"6062    6.141603
+Name: chi_sub, dtype: float64",0,cassan_29_33_2755.det.lc.gz
+1264,"6064    1.130773
+Name: chi_sub, dtype: float64",0,cassan_29_34_351.det.lc.gz
+1265,"6065    17.647063
+Name: chi_sub, dtype: float64",0,cassan_29_35_1133.det.lc.gz
+1268,"6068    16.074434
+Name: chi_sub, dtype: float64",0,cassan_29_44_2590.det.lc.gz
+1269,"6070    33.226583
+Name: chi_sub, dtype: float64",0,cassan_29_45_973.det.lc.gz
+1270,"6073    24.967686
+Name: chi_sub, dtype: float64",0,cassan_29_47_3297.det.lc.gz
+1272,"6075    15.819716
+Name: chi_sub, dtype: float64",0,cassan_29_4_792.det.lc.gz
+1273,"6076    15.51801
+Name: chi_sub, dtype: float64",0,cassan_29_56_2088.det.lc.gz
+1275,"6085    26.943316
+Name: chi_sub, dtype: float64",0,cassan_29_62_1691.det.lc.gz
+1276,"6086    7.247485
+Name: chi_sub, dtype: float64",0,cassan_29_69_471.det.lc.gz
+1278,"6089    11.418855
+Name: chi_sub, dtype: float64",0,cassan_29_6_556.det.lc.gz
+1279,"6090    15.600002
+Name: chi_sub, dtype: float64",0,cassan_29_70_2583.det.lc.gz
+1282,"6094    17.141264
+Name: chi_sub, dtype: float64",0,cassan_29_73_3277.det.lc.gz
+1283,"6098    32.835505
+Name: chi_sub, dtype: float64",0,cassan_29_7_2922.det.lc.gz
+1285,"6102    7.789984
+Name: chi_sub, dtype: float64",0,cassan_29_83_1925.det.lc.gz
+1286,"6103    8.644
+Name: chi_sub, dtype: float64",0,cassan_29_83_4.det.lc.gz
+1287,"6104    6.46829
+Name: chi_sub, dtype: float64",0,cassan_29_84_1549.det.lc.gz
+1288,"6105    20.44007
+Name: chi_sub, dtype: float64",0,cassan_29_84_3326.det.lc.gz
+1289,"6106    23.738246
+Name: chi_sub, dtype: float64",0,cassan_29_86_974.det.lc.gz
+1290,"6107    22.000051
+Name: chi_sub, dtype: float64",0,cassan_29_87_26.det.lc.gz
+1292,"6112    12.366281
+Name: chi_sub, dtype: float64",0,cassan_29_96_1511.det.lc.gz
+1293,"6115    0.251026
+Name: chi_sub, dtype: float64",0,cassan_29_9_2316.det.lc.gz
+1296,"6118    6.589158
+Name: chi_sub, dtype: float64",0,cassan_2_100_2670.det.lc.gz
+1298,"6120    16.166783
+Name: chi_sub, dtype: float64",0,cassan_2_100_876.det.lc.gz
+1300,"6122    30.806351
+Name: chi_sub, dtype: float64",0,cassan_2_101_3082.det.lc.gz
+1303,"6130    10.12573
+Name: chi_sub, dtype: float64",0,cassan_2_115_900.det.lc.gz
+1304,"6132    21.030439
+Name: chi_sub, dtype: float64",0,cassan_2_123_863.det.lc.gz
+1305,"6133    11.135435
+Name: chi_sub, dtype: float64",0,cassan_2_124_2810.det.lc.gz
+1306,"6138    16.049133
+Name: chi_sub, dtype: float64",0,cassan_2_126_1154.det.lc.gz
+1307,"6139    14.481436
+Name: chi_sub, dtype: float64",0,cassan_2_127_2073.det.lc.gz
+1308,"6140    22.323539
+Name: chi_sub, dtype: float64",0,cassan_2_136_2863.det.lc.gz
+1309,"6142    36.136718
+Name: chi_sub, dtype: float64",0,cassan_2_138_2882.det.lc.gz
+1310,"6143    33.24743
+Name: chi_sub, dtype: float64",0,cassan_2_139_2230.det.lc.gz
+1312,"6146    5.325895
+Name: chi_sub, dtype: float64",0,cassan_2_150_507.det.lc.gz
+1315,"6149    6.846516
+Name: chi_sub, dtype: float64",0,cassan_2_18_2461.det.lc.gz
+1316,"6150    0.438378
+Name: chi_sub, dtype: float64",0,cassan_2_18_2482.det.lc.gz
+1318,"6156    15.113281
+Name: chi_sub, dtype: float64",0,cassan_2_22_1256.det.lc.gz
+1320,"6158    13.183228
+Name: chi_sub, dtype: float64",0,cassan_2_23_1787.det.lc.gz
+1321,"6159    21.287041
+Name: chi_sub, dtype: float64",0,cassan_2_24_1085.det.lc.gz
+1322,"6160    11.990978
+Name: chi_sub, dtype: float64",0,cassan_2_31_1184.det.lc.gz
+1323,"6161    11.652104
+Name: chi_sub, dtype: float64",0,cassan_2_31_1522.det.lc.gz
+1324,"6162    8.182939
+Name: chi_sub, dtype: float64",0,cassan_2_33_92.det.lc.gz
+1327,"6168    14.761583
+Name: chi_sub, dtype: float64",0,cassan_2_36_1653.det.lc.gz
+1329,"6171    18.838356
+Name: chi_sub, dtype: float64",0,cassan_2_44_2373.det.lc.gz
+1330,"6172    23.777317
+Name: chi_sub, dtype: float64",0,cassan_2_47_1385.det.lc.gz
+1333,"6179    3.610006
+Name: chi_sub, dtype: float64",0,cassan_2_50_3021.det.lc.gz
+1334,"6181    7.86264
+Name: chi_sub, dtype: float64",0,cassan_2_58_149.det.lc.gz
+1336,"6187    32.218574
+Name: chi_sub, dtype: float64",0,cassan_2_60_3277.det.lc.gz
+1337,"6194    20.214593
+Name: chi_sub, dtype: float64",0,cassan_2_63_2949.det.lc.gz
+1338,"6195    19.742555
+Name: chi_sub, dtype: float64",0,cassan_2_70_1047.det.lc.gz
+1339,"6196    39.244086
+Name: chi_sub, dtype: float64",0,cassan_2_71_615.det.lc.gz
+1341,"6199    4.567102
+Name: chi_sub, dtype: float64",0,cassan_2_76_1331.det.lc.gz
+1342,"6202    18.721984
+Name: chi_sub, dtype: float64",0,cassan_2_83_769.det.lc.gz
+1343,"6203    13.687098
+Name: chi_sub, dtype: float64",0,cassan_2_84_1050.det.lc.gz
+1344,"6206    10.584624
+Name: chi_sub, dtype: float64",0,cassan_2_85_395.det.lc.gz
+1345,"6207    4.922633
+Name: chi_sub, dtype: float64",0,cassan_2_85_59.det.lc.gz
+1346,"6209    16.791936
+Name: chi_sub, dtype: float64",0,cassan_2_86_406.det.lc.gz
+1348,"6212    8.336257
+Name: chi_sub, dtype: float64",0,cassan_2_8_1414.det.lc.gz
+1349,"6213    16.12809
+Name: chi_sub, dtype: float64",0,cassan_2_8_2273.det.lc.gz
+1350,"6214    10.466321
+Name: chi_sub, dtype: float64",0,cassan_2_8_484.det.lc.gz
+1351,"6216    21.709464
+Name: chi_sub, dtype: float64",0,cassan_2_98_1993.det.lc.gz
+1352,"6217    11.771843
+Name: chi_sub, dtype: float64",0,cassan_2_99_1620.det.lc.gz
+1353,"6219    29.655776
+Name: chi_sub, dtype: float64",0,cassan_2_99_2953.det.lc.gz
+1354,"6220    22.446869
+Name: chi_sub, dtype: float64",0,cassan_2_99_3090.det.lc.gz
+1355,"6222    39.908186
+Name: chi_sub, dtype: float64",0,cassan_30_101_3104.det.lc.gz
+1356,"6223    34.697599
+Name: chi_sub, dtype: float64",0,cassan_30_102_1646.det.lc.gz
+1357,"6226    39.67789
+Name: chi_sub, dtype: float64",0,cassan_30_109_2020.det.lc.gz
+1359,"6228    38.721429
+Name: chi_sub, dtype: float64",0,cassan_30_10_1800.det.lc.gz
+1360,"6229    3.270776
+Name: chi_sub, dtype: float64",0,cassan_30_110_1570.det.lc.gz
+1362,"6231    14.766014
+Name: chi_sub, dtype: float64",0,cassan_30_112_2064.det.lc.gz
+1365,"6234    19.509389
+Name: chi_sub, dtype: float64",0,cassan_30_115_1309.det.lc.gz
+1367,"6236    13.122506
+Name: chi_sub, dtype: float64",0,cassan_30_124_2565.det.lc.gz
+1368,"6237    28.978801
+Name: chi_sub, dtype: float64",0,cassan_30_124_835.det.lc.gz
+1369,"6238    34.397761
+Name: chi_sub, dtype: float64",0,cassan_30_125_1277.det.lc.gz
+1372,"6244    36.931855
+Name: chi_sub, dtype: float64",0,cassan_30_137_1073.det.lc.gz
+1373,"6245    24.714211
+Name: chi_sub, dtype: float64",0,cassan_30_137_1550.det.lc.gz
+1374,"6247    29.349541
+Name: chi_sub, dtype: float64",0,cassan_30_17_1863.det.lc.gz
+1375,"6248    13.531653
+Name: chi_sub, dtype: float64",0,cassan_30_20_2221.det.lc.gz
+1376,"6250    7.122171
+Name: chi_sub, dtype: float64",0,cassan_30_21_2043.det.lc.gz
+1378,"6253    2.534973
+Name: chi_sub, dtype: float64",0,cassan_30_23_2214.det.lc.gz
+1379,"6255    13.298743
+Name: chi_sub, dtype: float64",0,cassan_30_30_1197.det.lc.gz
+1380,"6258    16.895887
+Name: chi_sub, dtype: float64",0,cassan_30_31_2571.det.lc.gz
+1381,"6259    4.472535
+Name: chi_sub, dtype: float64",0,cassan_30_31_550.det.lc.gz
+1382,"6260    16.734477
+Name: chi_sub, dtype: float64",0,cassan_30_32_1247.det.lc.gz
+1383,"6262    17.358594
+Name: chi_sub, dtype: float64",0,cassan_30_33_2450.det.lc.gz
+1385,"6265    17.848871
+Name: chi_sub, dtype: float64",0,cassan_30_35_444.det.lc.gz
+1386,"6266    11.764043
+Name: chi_sub, dtype: float64",0,cassan_30_35_99.det.lc.gz
+1387,"6267    14.748159
+Name: chi_sub, dtype: float64",0,cassan_30_36_1522.det.lc.gz
+1389,"6269    13.02462
+Name: chi_sub, dtype: float64",0,cassan_30_43_3290.det.lc.gz
+1390,"6270    14.15565
+Name: chi_sub, dtype: float64",0,cassan_30_46_2848.det.lc.gz
+1391,"6272    9.359799
+Name: chi_sub, dtype: float64",0,cassan_30_4_2249.det.lc.gz
+1392,"6273    36.396612
+Name: chi_sub, dtype: float64",0,cassan_30_4_501.det.lc.gz
+1395,"6278    27.9771
+Name: chi_sub, dtype: float64",0,cassan_30_58_1747.det.lc.gz
+1397,"6281    14.925552
+Name: chi_sub, dtype: float64",0,cassan_30_59_530.det.lc.gz
+1398,"6282    16.772105
+Name: chi_sub, dtype: float64",0,cassan_30_5_1565.det.lc.gz
+1399,"6283    14.595103
+Name: chi_sub, dtype: float64",0,cassan_30_60_1347.det.lc.gz
+1400,"6285    18.354149
+Name: chi_sub, dtype: float64",0,cassan_30_60_3036.det.lc.gz
+1402,"6287    27.11516
+Name: chi_sub, dtype: float64",0,cassan_30_69_2868.det.lc.gz
+1403,"6290    10.823017
+Name: chi_sub, dtype: float64",0,cassan_30_70_2347.det.lc.gz
+1406,"6298    11.603486
+Name: chi_sub, dtype: float64",0,cassan_30_82_1167.det.lc.gz
+1407,"6299    31.455324
+Name: chi_sub, dtype: float64",0,cassan_30_83_1421.det.lc.gz
+1408,"6300    33.513927
+Name: chi_sub, dtype: float64",0,cassan_30_83_2633.det.lc.gz
+1409,"6301    36.609167
+Name: chi_sub, dtype: float64",0,cassan_30_84_2186.det.lc.gz
+1411,"6304    11.541449
+Name: chi_sub, dtype: float64",0,cassan_30_86_2569.det.lc.gz
+1413,"6306    24.091489
+Name: chi_sub, dtype: float64",0,cassan_30_87_19.det.lc.gz
+1414,"6307    2.421335
+Name: chi_sub, dtype: float64",0,cassan_30_88_3191.det.lc.gz
+1415,"6308    17.230547
+Name: chi_sub, dtype: float64",0,cassan_30_89_2436.det.lc.gz
+1416,"6310    21.749406
+Name: chi_sub, dtype: float64",0,cassan_30_89_270.det.lc.gz
+1418,"6313    2.732923
+Name: chi_sub, dtype: float64",0,cassan_30_96_1632.det.lc.gz
+1420,"6315    1.945551
+Name: chi_sub, dtype: float64",0,cassan_30_96_2967.det.lc.gz
+1422,"6318    6.262416
+Name: chi_sub, dtype: float64",0,cassan_30_98_89.det.lc.gz
+1423,"6322    16.868936
+Name: chi_sub, dtype: float64",0,cassan_31_109_2782.det.lc.gz
+1424,"6323    17.030609
+Name: chi_sub, dtype: float64",0,cassan_31_10_1223.det.lc.gz
+1425,"6324    11.206415
+Name: chi_sub, dtype: float64",0,cassan_31_10_491.det.lc.gz
+1426,"6325    25.548397
+Name: chi_sub, dtype: float64",0,cassan_31_111_2959.det.lc.gz
+1427,"6326    29.93612
+Name: chi_sub, dtype: float64",0,cassan_31_111_3183.det.lc.gz
+1428,"6327    24.856511
+Name: chi_sub, dtype: float64",0,cassan_31_112_2214.det.lc.gz
+1429,"6328    12.97608
+Name: chi_sub, dtype: float64",0,cassan_31_112_2703.det.lc.gz
+1431,"6330    24.793751
+Name: chi_sub, dtype: float64",0,cassan_31_113_119.det.lc.gz
+1434,"6336    25.536573
+Name: chi_sub, dtype: float64",0,cassan_31_123_567.det.lc.gz
+1435,"6338    39.322293
+Name: chi_sub, dtype: float64",0,cassan_31_126_364.det.lc.gz
+1438,"6343    19.670813
+Name: chi_sub, dtype: float64",0,cassan_31_139_2003.det.lc.gz
+1442,"6350    19.482103
+Name: chi_sub, dtype: float64",0,cassan_31_18_2455.det.lc.gz
+1443,"6353    0.000214
+Name: chi_sub, dtype: float64",0,cassan_31_20_2311.det.lc.gz
+1444,"6354    0.579561
+Name: chi_sub, dtype: float64",0,cassan_31_21_225.det.lc.gz
+1446,"6360    28.186235
+Name: chi_sub, dtype: float64",0,cassan_31_24_2015.det.lc.gz
+1447,"6363    20.373062
+Name: chi_sub, dtype: float64",0,cassan_31_30_2492.det.lc.gz
+1448,"6364    20.715946
+Name: chi_sub, dtype: float64",0,cassan_31_32_1769.det.lc.gz
+1450,"6368    39.427294
+Name: chi_sub, dtype: float64",0,cassan_31_34_1931.det.lc.gz
+1451,"6369    18.543934
+Name: chi_sub, dtype: float64",0,cassan_31_36_2701.det.lc.gz
+1452,"6370    23.72977
+Name: chi_sub, dtype: float64",0,cassan_31_37_157.det.lc.gz
+1453,"6371    14.452883
+Name: chi_sub, dtype: float64",0,cassan_31_37_2940.det.lc.gz
+1455,"6373    37.268771
+Name: chi_sub, dtype: float64",0,cassan_31_43_205.det.lc.gz
+1456,"6377    9.816686
+Name: chi_sub, dtype: float64",0,cassan_31_47_94.det.lc.gz
+1457,"6378    12.886899
+Name: chi_sub, dtype: float64",0,cassan_31_49_2955.det.lc.gz
+1458,"6379    15.861868
+Name: chi_sub, dtype: float64",0,cassan_31_4_2071.det.lc.gz
+1459,"6380    13.880962
+Name: chi_sub, dtype: float64",0,cassan_31_4_26.det.lc.gz
+1460,"6381    38.40454
+Name: chi_sub, dtype: float64",0,cassan_31_4_496.det.lc.gz
+1463,"6384    25.09609
+Name: chi_sub, dtype: float64",0,cassan_31_57_780.det.lc.gz
+1464,"6385    15.141202
+Name: chi_sub, dtype: float64",0,cassan_31_59_3304.det.lc.gz
+1465,"6386    30.019105
+Name: chi_sub, dtype: float64",0,cassan_31_62_1686.det.lc.gz
+1466,"6387    17.302429
+Name: chi_sub, dtype: float64",0,cassan_31_62_2512.det.lc.gz
+1467,"6389    4.508024
+Name: chi_sub, dtype: float64",0,cassan_31_6_2678.det.lc.gz
+1468,"6393    4.50056
+Name: chi_sub, dtype: float64",0,cassan_31_70_3016.det.lc.gz
+1469,"6394    10.979478
+Name: chi_sub, dtype: float64",0,cassan_31_70_848.det.lc.gz
+1471,"6396    5.166648
+Name: chi_sub, dtype: float64",0,cassan_31_73_2193.det.lc.gz
+1473,"6401    32.27632
+Name: chi_sub, dtype: float64",0,cassan_31_82_2224.det.lc.gz
+1474,"6402    25.55574
+Name: chi_sub, dtype: float64",0,cassan_31_83_1928.det.lc.gz
+1475,"6404    17.637373
+Name: chi_sub, dtype: float64",0,cassan_31_83_83.det.lc.gz
+1476,"6406    18.055835
+Name: chi_sub, dtype: float64",0,cassan_31_87_1653.det.lc.gz
+1478,"6408    4.391398
+Name: chi_sub, dtype: float64",0,cassan_31_87_2351.det.lc.gz
+1479,"6409    35.202102
+Name: chi_sub, dtype: float64",0,cassan_31_87_970.det.lc.gz
+1483,"6416    37.357206
+Name: chi_sub, dtype: float64",0,cassan_31_99_1022.det.lc.gz
+1484,"6418    24.727004
+Name: chi_sub, dtype: float64",0,cassan_31_99_2533.det.lc.gz
+1485,"6419    15.614791
+Name: chi_sub, dtype: float64",0,cassan_31_99_405.det.lc.gz
+1486,"6420    18.076999
+Name: chi_sub, dtype: float64",0,cassan_31_9_1035.det.lc.gz
+1488,"6425    26.442725
+Name: chi_sub, dtype: float64",0,cassan_32_101_2433.det.lc.gz
+1489,"6426    39.044851
+Name: chi_sub, dtype: float64",0,cassan_32_101_638.det.lc.gz
+1491,"6428    11.924238
+Name: chi_sub, dtype: float64",0,cassan_32_10_2507.det.lc.gz
+1493,"6430    1.985681
+Name: chi_sub, dtype: float64",0,cassan_32_111_1396.det.lc.gz
+1495,"6432    8.258896
+Name: chi_sub, dtype: float64",0,cassan_32_111_2466.det.lc.gz
+1497,"6434    30.307407
+Name: chi_sub, dtype: float64",0,cassan_32_112_3059.det.lc.gz
+1498,"6436    11.80024
+Name: chi_sub, dtype: float64",0,cassan_32_113_2809.det.lc.gz
+1499,"6439    14.399898
+Name: chi_sub, dtype: float64",0,cassan_32_115_1984.det.lc.gz
+1502,"6444    9.889872
+Name: chi_sub, dtype: float64",0,cassan_32_138_2566.det.lc.gz
+1503,"6445    3.315439
+Name: chi_sub, dtype: float64",0,cassan_32_138_34.det.lc.gz
+1504,"6446    10.53422
+Name: chi_sub, dtype: float64",0,cassan_32_138_377.det.lc.gz
+1505,"6448    25.97443
+Name: chi_sub, dtype: float64",0,cassan_32_139_912.det.lc.gz
+1506,"6449    30.83569
+Name: chi_sub, dtype: float64",0,cassan_32_150_2906.det.lc.gz
+1507,"6452    25.538083
+Name: chi_sub, dtype: float64",0,cassan_32_151_1488.det.lc.gz
+1508,"6453    6.281479
+Name: chi_sub, dtype: float64",0,cassan_32_151_2879.det.lc.gz
+1510,"6456    31.482222
+Name: chi_sub, dtype: float64",0,cassan_32_19_1821.det.lc.gz
+1511,"6458    27.515957
+Name: chi_sub, dtype: float64",0,cassan_32_20_2517.det.lc.gz
+1516,"6467    18.919096
+Name: chi_sub, dtype: float64",0,cassan_32_34_978.det.lc.gz
+1517,"6468    13.918681
+Name: chi_sub, dtype: float64",0,cassan_32_35_2119.det.lc.gz
+1522,"6475    21.365327
+Name: chi_sub, dtype: float64",0,cassan_32_45_1286.det.lc.gz
+1523,"6476    15.000212
+Name: chi_sub, dtype: float64",0,cassan_32_45_1443.det.lc.gz
+1524,"6477    14.360309
+Name: chi_sub, dtype: float64",0,cassan_32_45_1684.det.lc.gz
+1525,"6484    9.962571
+Name: chi_sub, dtype: float64",0,cassan_3_109_1156.det.lc.gz
+1527,"6488    38.45866
+Name: chi_sub, dtype: float64",0,cassan_3_110_1070.det.lc.gz
+1529,"6492    0.000161
+Name: chi_sub, dtype: float64",0,cassan_3_110_542.det.lc.gz
+1530,"6493    13.905457
+Name: chi_sub, dtype: float64",0,cassan_3_111_2743.det.lc.gz
+1531,"6494    28.323672
+Name: chi_sub, dtype: float64",0,cassan_3_111_329.det.lc.gz
+1535,"6499    19.11461
+Name: chi_sub, dtype: float64",0,cassan_3_123_1702.det.lc.gz
+1536,"6500    26.262598
+Name: chi_sub, dtype: float64",0,cassan_3_123_807.det.lc.gz
+1537,"6505    7.124573
+Name: chi_sub, dtype: float64",0,cassan_3_127_2110.det.lc.gz
+1538,"6507    20.376417
+Name: chi_sub, dtype: float64",0,cassan_3_139_1655.det.lc.gz
+1539,"6509    7.165061
+Name: chi_sub, dtype: float64",0,cassan_3_151_1141.det.lc.gz
+1540,"6511    22.865871
+Name: chi_sub, dtype: float64",0,cassan_3_17_1435.det.lc.gz
+1541,"6512    15.378945
+Name: chi_sub, dtype: float64",0,cassan_3_19_2232.det.lc.gz
+1543,"6514    16.324543
+Name: chi_sub, dtype: float64",0,cassan_3_20_2430.det.lc.gz
+1544,"6517    18.035201
+Name: chi_sub, dtype: float64",0,cassan_3_24_2129.det.lc.gz
+1545,"6518    22.896874
+Name: chi_sub, dtype: float64",0,cassan_3_24_3129.det.lc.gz
+1546,"10429    11.970534
+Name: chi_sub, dtype: float64",0,cassan_32_56_1427.det.lc.gz
+1547,"10431    9.262052
+Name: chi_sub, dtype: float64",0,cassan_32_57_2341.det.lc.gz
+1549,"10433    6.533771
+Name: chi_sub, dtype: float64",0,cassan_32_57_593.det.lc.gz
+1550,"10435    6.936872
+Name: chi_sub, dtype: float64",0,cassan_32_5_1619.det.lc.gz
+1551,"10436    11.83368
+Name: chi_sub, dtype: float64",0,cassan_32_60_2411.det.lc.gz
+1553,"10438    16.755948
+Name: chi_sub, dtype: float64",0,cassan_32_63_1603.det.lc.gz
+1554,"10439    24.740778
+Name: chi_sub, dtype: float64",0,cassan_32_6_2633.det.lc.gz
+1555,"10441    17.188648
+Name: chi_sub, dtype: float64",0,cassan_32_70_2438.det.lc.gz
+1557,"10444    31.757559
+Name: chi_sub, dtype: float64",0,cassan_32_72_283.det.lc.gz
+1558,"10446    19.307235
+Name: chi_sub, dtype: float64",0,cassan_32_74_2141.det.lc.gz
+1559,"10448    17.347936
+Name: chi_sub, dtype: float64",0,cassan_32_74_814.det.lc.gz
+1560,"10452    28.247151
+Name: chi_sub, dtype: float64",0,cassan_32_83_1977.det.lc.gz
+1561,"10453    0.562915
+Name: chi_sub, dtype: float64",0,cassan_32_84_1471.det.lc.gz
+1563,"10456    36.514325
+Name: chi_sub, dtype: float64",0,cassan_32_86_2957.det.lc.gz
+1564,"10457    15.494863
+Name: chi_sub, dtype: float64",0,cassan_32_87_1277.det.lc.gz
+1565,"10459    26.86102
+Name: chi_sub, dtype: float64",0,cassan_32_88_1132.det.lc.gz
+1566,"10460    8.770593
+Name: chi_sub, dtype: float64",0,cassan_32_88_2668.det.lc.gz
+1567,"10462    10.684833
+Name: chi_sub, dtype: float64",0,cassan_32_8_3162.det.lc.gz
+1569,"10465    8.303015
+Name: chi_sub, dtype: float64",0,cassan_32_96_696.det.lc.gz
+1570,"10467    12.084744
+Name: chi_sub, dtype: float64",0,cassan_32_98_2319.det.lc.gz
+1572,"10469    10.671122
+Name: chi_sub, dtype: float64",0,cassan_32_99_1078.det.lc.gz
+1574,"10473    6.756224
+Name: chi_sub, dtype: float64",0,cassan_33_109_2219.det.lc.gz
+1575,"10474    36.286868
+Name: chi_sub, dtype: float64",0,cassan_33_109_3064.det.lc.gz
+1576,"10478    0.028187
+Name: chi_sub, dtype: float64",0,cassan_33_110_835.det.lc.gz
+1577,"10480    9.555077
+Name: chi_sub, dtype: float64",0,cassan_33_111_158.det.lc.gz
+1578,"10482    17.452113
+Name: chi_sub, dtype: float64",0,cassan_33_112_494.det.lc.gz
+1579,"10486    12.496554
+Name: chi_sub, dtype: float64",0,cassan_33_123_1151.det.lc.gz
+1580,"10487    37.514735
+Name: chi_sub, dtype: float64",0,cassan_33_123_1932.det.lc.gz
+1581,"10489    7.016989
+Name: chi_sub, dtype: float64",0,cassan_33_123_3182.det.lc.gz
+1582,"10490    8.398324
+Name: chi_sub, dtype: float64",0,cassan_33_124_1478.det.lc.gz
+1583,"10492    17.799064
+Name: chi_sub, dtype: float64",0,cassan_33_127_2092.det.lc.gz
+1584,"10495    2.690631
+Name: chi_sub, dtype: float64",0,cassan_33_137_665.det.lc.gz
+1585,"10496    25.828404
+Name: chi_sub, dtype: float64",0,cassan_33_138_1199.det.lc.gz
+1587,"10501    20.18881
+Name: chi_sub, dtype: float64",0,cassan_33_151_3245.det.lc.gz
+1588,"10502    14.723909
+Name: chi_sub, dtype: float64",0,cassan_33_17_3181.det.lc.gz
+1590,"10504    18.370446
+Name: chi_sub, dtype: float64",0,cassan_33_23_3013.det.lc.gz
+1591,"10505    29.300861
+Name: chi_sub, dtype: float64",0,cassan_33_24_448.det.lc.gz
+1592,"10506    6.131304
+Name: chi_sub, dtype: float64",0,cassan_33_24_496.det.lc.gz
+1593,"10508    36.780244
+Name: chi_sub, dtype: float64",0,cassan_33_30_2060.det.lc.gz
+1594,"10509    12.059405
+Name: chi_sub, dtype: float64",0,cassan_33_31_1171.det.lc.gz
+1595,"10510    15.478571
+Name: chi_sub, dtype: float64",0,cassan_33_31_2725.det.lc.gz
+1596,"10512    9.105705
+Name: chi_sub, dtype: float64",0,cassan_33_34_306.det.lc.gz
+1597,"10514    3.305432
+Name: chi_sub, dtype: float64",0,cassan_33_35_1769.det.lc.gz
+1598,"10515    1.217285
+Name: chi_sub, dtype: float64",0,cassan_33_36_1079.det.lc.gz
+1599,"10517    0.000374
+Name: chi_sub, dtype: float64",0,cassan_33_44_1900.det.lc.gz
+1600,"10518    18.951376
+Name: chi_sub, dtype: float64",0,cassan_33_46_2182.det.lc.gz
+1602,"10522    14.827203
+Name: chi_sub, dtype: float64",0,cassan_33_49_2170.det.lc.gz
+1603,"10523    36.741453
+Name: chi_sub, dtype: float64",0,cassan_33_4_154.det.lc.gz
+1604,"10525    9.116768
+Name: chi_sub, dtype: float64",0,cassan_33_4_490.det.lc.gz
+1607,"10528    30.001669
+Name: chi_sub, dtype: float64",0,cassan_33_56_3030.det.lc.gz
+1608,"10534    13.144534
+Name: chi_sub, dtype: float64",0,cassan_33_61_425.det.lc.gz
+1610,"10540    28.956729
+Name: chi_sub, dtype: float64",0,cassan_33_71_3041.det.lc.gz
+1612,"10542    8.521288
+Name: chi_sub, dtype: float64",0,cassan_33_72_367.det.lc.gz
+1614,"10548    2.49219
+Name: chi_sub, dtype: float64",0,cassan_33_76_2565.det.lc.gz
+1615,"10550    16.616259
+Name: chi_sub, dtype: float64",0,cassan_33_7_2446.det.lc.gz
+1616,"10551    39.042374
+Name: chi_sub, dtype: float64",0,cassan_33_7_3129.det.lc.gz
+1618,"10553    24.074802
+Name: chi_sub, dtype: float64",0,cassan_33_82_3263.det.lc.gz
+1619,"10554    2.702941
+Name: chi_sub, dtype: float64",0,cassan_33_83_2439.det.lc.gz
+1623,"10560    8.172708
+Name: chi_sub, dtype: float64",0,cassan_33_89_2417.det.lc.gz
+1626,"10567    8.769454
+Name: chi_sub, dtype: float64",0,cassan_34_109_2655.det.lc.gz
+1627,"10569    0.776642
+Name: chi_sub, dtype: float64",0,cassan_34_109_2883.det.lc.gz
+1628,"10570    15.881117
+Name: chi_sub, dtype: float64",0,cassan_34_110_2070.det.lc.gz
+1630,"10575    1.623234
+Name: chi_sub, dtype: float64",0,cassan_34_114_2483.det.lc.gz
+1631,"10577    11.793813
+Name: chi_sub, dtype: float64",0,cassan_34_123_1200.det.lc.gz
+1632,"10578    8.913598
+Name: chi_sub, dtype: float64",0,cassan_34_123_152.det.lc.gz
+1635,"10582    24.010826
+Name: chi_sub, dtype: float64",0,cassan_34_125_1849.det.lc.gz
+1637,"10587    5.57203
+Name: chi_sub, dtype: float64",0,cassan_34_127_2240.det.lc.gz
+1638,"10588    21.752581
+Name: chi_sub, dtype: float64",0,cassan_34_127_584.det.lc.gz
+1639,"10589    25.637268
+Name: chi_sub, dtype: float64",0,cassan_34_136_1071.det.lc.gz
+1640,"10592    25.263139
+Name: chi_sub, dtype: float64",0,cassan_34_138_1221.det.lc.gz
+1641,"10593    10.090052
+Name: chi_sub, dtype: float64",0,cassan_34_140_3093.det.lc.gz
+1642,"10598    27.808096
+Name: chi_sub, dtype: float64",0,cassan_34_151_186.det.lc.gz
+1643,"10599    16.01004
+Name: chi_sub, dtype: float64",0,cassan_34_151_932.det.lc.gz
+1644,"10600    39.324712
+Name: chi_sub, dtype: float64",0,cassan_34_17_1753.det.lc.gz
+1645,"10601    7.199928
+Name: chi_sub, dtype: float64",0,cassan_34_17_1759.det.lc.gz
+1646,"10602    35.442069
+Name: chi_sub, dtype: float64",0,cassan_34_17_2789.det.lc.gz
+1647,"10603    6.029707
+Name: chi_sub, dtype: float64",0,cassan_34_18_1242.det.lc.gz
+1648,"10604    10.492839
+Name: chi_sub, dtype: float64",0,cassan_34_18_1869.det.lc.gz
+1649,"10605    5.216833
+Name: chi_sub, dtype: float64",0,cassan_34_18_596.det.lc.gz
+1650,"10606    32.459759
+Name: chi_sub, dtype: float64",0,cassan_34_19_2249.det.lc.gz
+1651,"10608    13.470934
+Name: chi_sub, dtype: float64",0,cassan_34_20_1936.det.lc.gz
+1652,"10610    37.471234
+Name: chi_sub, dtype: float64",0,cassan_34_24_2988.det.lc.gz
+1654,"10616    0.00007
+Name: chi_sub, dtype: float64",0,cassan_34_33_1680.det.lc.gz
+1655,"10621    0.388732
+Name: chi_sub, dtype: float64",0,cassan_34_37_322.det.lc.gz
+1656,"10622    10.538413
+Name: chi_sub, dtype: float64",0,cassan_34_44_1457.det.lc.gz
+1659,"10630    23.314114
+Name: chi_sub, dtype: float64",0,cassan_34_48_1451.det.lc.gz
+1661,"10634    17.585024
+Name: chi_sub, dtype: float64",0,cassan_34_49_78.det.lc.gz
+1663,"10637    10.512528
+Name: chi_sub, dtype: float64",0,cassan_34_57_3165.det.lc.gz
+1664,"10639    39.726558
+Name: chi_sub, dtype: float64",0,cassan_34_58_479.det.lc.gz
+1665,"10641    11.109252
+Name: chi_sub, dtype: float64",0,cassan_34_59_509.det.lc.gz
+1667,"10644    3.208782
+Name: chi_sub, dtype: float64",0,cassan_34_63_564.det.lc.gz
+1668,"10645    11.584512
+Name: chi_sub, dtype: float64",0,cassan_34_69_1887.det.lc.gz
+1669,"10646    5.370564
+Name: chi_sub, dtype: float64",0,cassan_34_69_411.det.lc.gz
+1670,"10647    37.018579
+Name: chi_sub, dtype: float64",0,cassan_34_69_768.det.lc.gz
+1671,"10650    9.975119
+Name: chi_sub, dtype: float64",0,cassan_34_6_3079.det.lc.gz
+1672,"10652    8.782773
+Name: chi_sub, dtype: float64",0,cassan_34_70_3079.det.lc.gz
+1673,"10653    14.807874
+Name: chi_sub, dtype: float64",0,cassan_34_71_1958.det.lc.gz
+1675,"10658    6.188402
+Name: chi_sub, dtype: float64",0,cassan_34_75_3296.det.lc.gz
+1676,"10659    10.647014
+Name: chi_sub, dtype: float64",0,cassan_34_76_2187.det.lc.gz
+1677,"10661    20.536868
+Name: chi_sub, dtype: float64",0,cassan_34_76_2777.det.lc.gz
+1678,"10664    35.879081
+Name: chi_sub, dtype: float64",0,cassan_34_85_2990.det.lc.gz
+1680,"10667    15.14563
+Name: chi_sub, dtype: float64",0,cassan_34_87_3044.det.lc.gz
+1681,"10668    35.32458
+Name: chi_sub, dtype: float64",0,cassan_34_87_654.det.lc.gz
+1684,"10672    14.368749
+Name: chi_sub, dtype: float64",0,cassan_34_96_880.det.lc.gz
+1685,"10675    15.486266
+Name: chi_sub, dtype: float64",0,cassan_34_99_646.det.lc.gz
+1686,"10678    12.796081
+Name: chi_sub, dtype: float64",0,cassan_35_100_2688.det.lc.gz
+1689,"10681    23.675535
+Name: chi_sub, dtype: float64",0,cassan_35_101_1274.det.lc.gz
+1690,"10682    22.996043
+Name: chi_sub, dtype: float64",0,cassan_35_101_900.det.lc.gz
+1692,"10686    8.241188
+Name: chi_sub, dtype: float64",0,cassan_35_10_1905.det.lc.gz
+1693,"10687    25.078756
+Name: chi_sub, dtype: float64",0,cassan_35_110_587.det.lc.gz
+1696,"10690    11.655782
+Name: chi_sub, dtype: float64",0,cassan_35_114_2190.det.lc.gz
+1697,"10691    19.092622
+Name: chi_sub, dtype: float64",0,cassan_35_114_77.det.lc.gz
+1698,"10692    19.077713
+Name: chi_sub, dtype: float64",0,cassan_35_115_1946.det.lc.gz
+1699,"10694    11.280241
+Name: chi_sub, dtype: float64",0,cassan_35_115_3285.det.lc.gz
+1700,"10695    14.965981
+Name: chi_sub, dtype: float64",0,cassan_35_123_1020.det.lc.gz
+1701,"10696    12.579613
+Name: chi_sub, dtype: float64",0,cassan_35_125_2567.det.lc.gz
+1702,"10697    0.651185
+Name: chi_sub, dtype: float64",0,cassan_35_125_2589.det.lc.gz
+1703,"10698    7.207383
+Name: chi_sub, dtype: float64",0,cassan_35_126_3195.det.lc.gz
+1705,"10700    21.046045
+Name: chi_sub, dtype: float64",0,cassan_35_137_10.det.lc.gz
+1706,"10701    5.817866
+Name: chi_sub, dtype: float64",0,cassan_35_137_1673.det.lc.gz
+1707,"10704    6.619739
+Name: chi_sub, dtype: float64",0,cassan_35_140_775.det.lc.gz
+1710,"10710    3.138684
+Name: chi_sub, dtype: float64",0,cassan_35_20_1767.det.lc.gz
+1711,"10711    39.341512
+Name: chi_sub, dtype: float64",0,cassan_35_20_671.det.lc.gz
+1712,"10713    12.391397
+Name: chi_sub, dtype: float64",0,cassan_35_23_2547.det.lc.gz
+1713,"10714    36.706452
+Name: chi_sub, dtype: float64",0,cassan_35_24_2130.det.lc.gz
+1717,"10721    8.058601
+Name: chi_sub, dtype: float64",0,cassan_35_37_314.det.lc.gz
+1718,"10722    6.925489
+Name: chi_sub, dtype: float64",0,cassan_35_44_1590.det.lc.gz
+1719,"10728    13.952397
+Name: chi_sub, dtype: float64",0,cassan_35_4_2960.det.lc.gz
+1720,"10729    15.624943
+Name: chi_sub, dtype: float64",0,cassan_35_4_3046.det.lc.gz
+1721,"10731    12.38167
+Name: chi_sub, dtype: float64",0,cassan_35_57_1606.det.lc.gz
+1722,"10732    9.941782
+Name: chi_sub, dtype: float64",0,cassan_35_58_680.det.lc.gz
+1723,"10733    39.270767
+Name: chi_sub, dtype: float64",0,cassan_35_59_2416.det.lc.gz
+1724,"10734    29.976293
+Name: chi_sub, dtype: float64",0,cassan_35_59_2529.det.lc.gz
+1725,"10735    13.78492
+Name: chi_sub, dtype: float64",0,cassan_35_5_1951.det.lc.gz
+1726,"10740    36.974326
+Name: chi_sub, dtype: float64",0,cassan_35_62_2502.det.lc.gz
+1727,"10743    38.311595
+Name: chi_sub, dtype: float64",0,cassan_35_69_2419.det.lc.gz
+1728,"10745    8.182912
+Name: chi_sub, dtype: float64",0,cassan_35_6_1810.det.lc.gz
+1729,"10747    18.144063
+Name: chi_sub, dtype: float64",0,cassan_35_71_2507.det.lc.gz
+1731,"10751    30.840951
+Name: chi_sub, dtype: float64",0,cassan_35_72_3252.det.lc.gz
+1732,"10753    1.650576
+Name: chi_sub, dtype: float64",0,cassan_35_74_1598.det.lc.gz
+1733,"10754    21.369902
+Name: chi_sub, dtype: float64",0,cassan_35_7_1005.det.lc.gz
+1734,"10756    7.980599
+Name: chi_sub, dtype: float64",0,cassan_35_7_2615.det.lc.gz
+1736,"10759    8.543726
+Name: chi_sub, dtype: float64",0,cassan_35_84_333.det.lc.gz
+1737,"10760    4.542597
+Name: chi_sub, dtype: float64",0,cassan_35_84_541.det.lc.gz
+1738,"10761    7.849083
+Name: chi_sub, dtype: float64",0,cassan_35_85_670.det.lc.gz
+1740,"10763    23.182308
+Name: chi_sub, dtype: float64",0,cassan_35_88_2487.det.lc.gz
+1741,"10769    27.952637
+Name: chi_sub, dtype: float64",0,cassan_35_96_3194.det.lc.gz
+1742,"10770    13.533438
+Name: chi_sub, dtype: float64",0,cassan_35_97_843.det.lc.gz
+1745,"10775    6.524608
+Name: chi_sub, dtype: float64",0,cassan_35_9_1969.det.lc.gz
+1746,"10777    30.946144
+Name: chi_sub, dtype: float64",0,cassan_36_100_675.det.lc.gz
+1747,"10778    13.616482
+Name: chi_sub, dtype: float64",0,cassan_36_102_3320.det.lc.gz
+1748,"10779    36.253181
+Name: chi_sub, dtype: float64",0,cassan_36_109_2326.det.lc.gz
+1749,"10781    8.904599
+Name: chi_sub, dtype: float64",0,cassan_36_10_1888.det.lc.gz
+1750,"10783    23.07066
+Name: chi_sub, dtype: float64",0,cassan_36_110_1568.det.lc.gz
+1751,"10784    13.748012
+Name: chi_sub, dtype: float64",0,cassan_36_111_710.det.lc.gz
+1752,"10785    12.333321
+Name: chi_sub, dtype: float64",0,cassan_36_114_1545.det.lc.gz
+1754,"10787    16.526806
+Name: chi_sub, dtype: float64",0,cassan_36_114_608.det.lc.gz
+1755,"10788    38.024316
+Name: chi_sub, dtype: float64",0,cassan_36_114_998.det.lc.gz
+1756,"10791    6.68015
+Name: chi_sub, dtype: float64",0,cassan_36_123_816.det.lc.gz
+1757,"10793    13.758579
+Name: chi_sub, dtype: float64",0,cassan_36_137_2667.det.lc.gz
+1758,"10794    21.064763
+Name: chi_sub, dtype: float64",0,cassan_36_138_3024.det.lc.gz
+1759,"10795    18.013584
+Name: chi_sub, dtype: float64",0,cassan_36_139_1375.det.lc.gz
+1760,"10796    37.626037
+Name: chi_sub, dtype: float64",0,cassan_36_139_2585.det.lc.gz
+1762,"10798    1.955567
+Name: chi_sub, dtype: float64",0,cassan_36_140_1661.det.lc.gz
+1763,"10802    31.707814
+Name: chi_sub, dtype: float64",0,cassan_36_20_2889.det.lc.gz
+1764,"10803    36.248031
+Name: chi_sub, dtype: float64",0,cassan_36_20_528.det.lc.gz
+1765,"10806    24.483858
+Name: chi_sub, dtype: float64",0,cassan_36_23_2944.det.lc.gz
+1766,"10807    33.211175
+Name: chi_sub, dtype: float64",0,cassan_36_24_2078.det.lc.gz
+1767,"10808    21.552219
+Name: chi_sub, dtype: float64",0,cassan_36_24_3273.det.lc.gz
+1769,"10810    8.636476
+Name: chi_sub, dtype: float64",0,cassan_36_31_3033.det.lc.gz
+1770,"10813    13.598365
+Name: chi_sub, dtype: float64",0,cassan_36_33_3108.det.lc.gz
+1772,"10815    5.261667
+Name: chi_sub, dtype: float64",0,cassan_36_34_2442.det.lc.gz
+1774,"10818    36.124508
+Name: chi_sub, dtype: float64",0,cassan_36_36_1126.det.lc.gz
+1775,"10822    2.813024
+Name: chi_sub, dtype: float64",0,cassan_36_43_421.det.lc.gz
+1776,"10825    6.624905
+Name: chi_sub, dtype: float64",0,cassan_36_45_2359.det.lc.gz
+1777,"10826    34.513261
+Name: chi_sub, dtype: float64",0,cassan_36_47_3200.det.lc.gz
+1778,"10827    11.09843
+Name: chi_sub, dtype: float64",0,cassan_36_48_1432.det.lc.gz
+1779,"10828    35.841784
+Name: chi_sub, dtype: float64",0,cassan_36_48_2607.det.lc.gz
+1781,"10832    9.580698
+Name: chi_sub, dtype: float64",0,cassan_36_4_2973.det.lc.gz
+1782,"10834    19.840033
+Name: chi_sub, dtype: float64",0,cassan_36_50_3060.det.lc.gz
+1783,"10835    7.989268
+Name: chi_sub, dtype: float64",0,cassan_36_50_639.det.lc.gz
+1784,"10836    11.892027
+Name: chi_sub, dtype: float64",0,cassan_36_56_1183.det.lc.gz
+1785,"10841    9.645816
+Name: chi_sub, dtype: float64",0,cassan_36_5_586.det.lc.gz
+1786,"10845    4.576954
+Name: chi_sub, dtype: float64",0,cassan_36_70_244.det.lc.gz
+1787,"10846    39.018688
+Name: chi_sub, dtype: float64",0,cassan_36_70_3309.det.lc.gz
+1788,"10849    19.905551
+Name: chi_sub, dtype: float64",0,cassan_36_72_2990.det.lc.gz
+1789,"10851    8.977409
+Name: chi_sub, dtype: float64",0,cassan_36_73_560.det.lc.gz
+1790,"10853    10.638201
+Name: chi_sub, dtype: float64",0,cassan_36_82_2316.det.lc.gz
+1791,"10854    13.02467
+Name: chi_sub, dtype: float64",0,cassan_36_83_188.det.lc.gz
+1792,"10855    13.408429
+Name: chi_sub, dtype: float64",0,cassan_36_83_2444.det.lc.gz
+1795,"10863    0.012362
+Name: chi_sub, dtype: float64",0,cassan_36_88_2141.det.lc.gz
+1797,"10866    29.563136
+Name: chi_sub, dtype: float64",0,cassan_36_8_2437.det.lc.gz
+1798,"10868    10.716396
+Name: chi_sub, dtype: float64",0,cassan_36_97_945.det.lc.gz
+1801,"10873    11.07642
+Name: chi_sub, dtype: float64",0,cassan_37_100_671.det.lc.gz
+1802,"10875    37.298815
+Name: chi_sub, dtype: float64",0,cassan_37_101_2173.det.lc.gz
+1803,"10877    19.957336
+Name: chi_sub, dtype: float64",0,cassan_37_102_2713.det.lc.gz
+1804,"10878    8.818508
+Name: chi_sub, dtype: float64",0,cassan_37_109_149.det.lc.gz
+1805,"10879    5.471557
+Name: chi_sub, dtype: float64",0,cassan_37_109_2502.det.lc.gz
+1807,"10882    34.133712
+Name: chi_sub, dtype: float64",0,cassan_37_111_3223.det.lc.gz
+1808,"10883    9.871879
+Name: chi_sub, dtype: float64",0,cassan_37_112_2584.det.lc.gz
+1811,"10890    26.407717
+Name: chi_sub, dtype: float64",0,cassan_37_124_1714.det.lc.gz
+1813,"10892    13.669903
+Name: chi_sub, dtype: float64",0,cassan_37_125_900.det.lc.gz
+1814,"10893    18.287065
+Name: chi_sub, dtype: float64",0,cassan_37_126_972.det.lc.gz
+1815,"10895    13.991607
+Name: chi_sub, dtype: float64",0,cassan_37_127_2127.det.lc.gz
+1816,"10898    19.652615
+Name: chi_sub, dtype: float64",0,cassan_37_138_2418.det.lc.gz
+1819,"10901    23.084333
+Name: chi_sub, dtype: float64",0,cassan_37_151_2016.det.lc.gz
+1820,"10902    6.560887
+Name: chi_sub, dtype: float64",0,cassan_37_151_480.det.lc.gz
+1822,"10904    31.411673
+Name: chi_sub, dtype: float64",0,cassan_37_18_1977.det.lc.gz
+1825,"10908    13.024507
+Name: chi_sub, dtype: float64",0,cassan_37_20_519.det.lc.gz
+1826,"10909    11.561028
+Name: chi_sub, dtype: float64",0,cassan_37_21_1667.det.lc.gz
+1827,"10913    33.03471
+Name: chi_sub, dtype: float64",0,cassan_37_31_3013.det.lc.gz
+1828,"10918    10.810457
+Name: chi_sub, dtype: float64",0,cassan_37_34_2970.det.lc.gz
+1829,"10919    22.433568
+Name: chi_sub, dtype: float64",0,cassan_37_35_2400.det.lc.gz
+1830,"10920    39.921871
+Name: chi_sub, dtype: float64",0,cassan_37_37_2264.det.lc.gz
+1831,"10922    7.537782
+Name: chi_sub, dtype: float64",0,cassan_37_45_1719.det.lc.gz
+1833,"10926    18.842347
+Name: chi_sub, dtype: float64",0,cassan_37_56_965.det.lc.gz
+1834,"10927    39.228034
+Name: chi_sub, dtype: float64",0,cassan_37_57_864.det.lc.gz
+1835,"10928    32.287639
+Name: chi_sub, dtype: float64",0,cassan_37_59_1390.det.lc.gz
+1837,"10931    15.097938
+Name: chi_sub, dtype: float64",0,cassan_37_59_961.det.lc.gz
+1839,"10933    19.554199
+Name: chi_sub, dtype: float64",0,cassan_37_5_2445.det.lc.gz
+1842,"10938    11.225727
+Name: chi_sub, dtype: float64",0,cassan_37_62_297.det.lc.gz
+1844,"10940    0.253293
+Name: chi_sub, dtype: float64",0,cassan_37_6_2843.det.lc.gz
+1845,"10942    19.14808
+Name: chi_sub, dtype: float64",0,cassan_37_6_742.det.lc.gz
+1846,"10943    29.269332
+Name: chi_sub, dtype: float64",0,cassan_37_71_1172.det.lc.gz
+1847,"10945    11.015403
+Name: chi_sub, dtype: float64",0,cassan_37_71_938.det.lc.gz
+1850,"10951    17.496952
+Name: chi_sub, dtype: float64",0,cassan_37_82_2153.det.lc.gz
+1851,"10952    27.00315
+Name: chi_sub, dtype: float64",0,cassan_37_83_1437.det.lc.gz
+1852,"10955    36.548239
+Name: chi_sub, dtype: float64",0,cassan_37_87_1794.det.lc.gz
+1855,"10960    3.86777
+Name: chi_sub, dtype: float64",0,cassan_37_96_64.det.lc.gz
+1856,"10961    0.424184
+Name: chi_sub, dtype: float64",0,cassan_37_97_1914.det.lc.gz
+1858,"10965    26.067484
+Name: chi_sub, dtype: float64",0,cassan_37_99_321.det.lc.gz
+1859,"10966    15.732133
+Name: chi_sub, dtype: float64",0,cassan_37_9_1246.det.lc.gz
+1860,"10967    11.41348
+Name: chi_sub, dtype: float64",0,cassan_37_9_2998.det.lc.gz
+1861,"10968    30.752683
+Name: chi_sub, dtype: float64",0,cassan_38_101_3237.det.lc.gz
+1862,"10969    16.965339
+Name: chi_sub, dtype: float64",0,cassan_38_10_1021.det.lc.gz
+1863,"10970    25.093718
+Name: chi_sub, dtype: float64",0,cassan_38_10_2105.det.lc.gz
+1865,"10975    39.305531
+Name: chi_sub, dtype: float64",0,cassan_38_111_1919.det.lc.gz
+1866,"10977    33.200314
+Name: chi_sub, dtype: float64",0,cassan_38_114_2100.det.lc.gz
+1868,"10979    33.85025
+Name: chi_sub, dtype: float64",0,cassan_38_114_3143.det.lc.gz
+1869,"10980    30.209842
+Name: chi_sub, dtype: float64",0,cassan_38_114_3304.det.lc.gz
+1870,"10981    25.486947
+Name: chi_sub, dtype: float64",0,cassan_38_115_2837.det.lc.gz
+1871,"10983    10.140029
+Name: chi_sub, dtype: float64",0,cassan_38_126_1391.det.lc.gz
+1872,"10984    24.290894
+Name: chi_sub, dtype: float64",0,cassan_38_126_2099.det.lc.gz
+1875,"10987    7.553443
+Name: chi_sub, dtype: float64",0,cassan_38_136_2776.det.lc.gz
+1880,"10997    20.36735
+Name: chi_sub, dtype: float64",0,cassan_38_151_3171.det.lc.gz
+1885,"11004    36.750126
+Name: chi_sub, dtype: float64",0,cassan_38_21_1253.det.lc.gz
+1886,"11006    34.813852
+Name: chi_sub, dtype: float64",0,cassan_38_23_3283.det.lc.gz
+1887,"11007    19.016627
+Name: chi_sub, dtype: float64",0,cassan_38_24_1945.det.lc.gz
+1888,"11009    7.186015
+Name: chi_sub, dtype: float64",0,cassan_38_31_213.det.lc.gz
+1889,"11011    29.469665
+Name: chi_sub, dtype: float64",0,cassan_38_31_2690.det.lc.gz
+1891,"11013    0.000042
+Name: chi_sub, dtype: float64",0,cassan_38_34_1740.det.lc.gz
+1892,"11014    7.680903
+Name: chi_sub, dtype: float64",0,cassan_38_34_500.det.lc.gz
+1897,"11021    26.847438
+Name: chi_sub, dtype: float64",0,cassan_38_48_1261.det.lc.gz
+1899,"11023    23.344802
+Name: chi_sub, dtype: float64",0,cassan_38_56_1420.det.lc.gz
+1901,"11025    4.100664
+Name: chi_sub, dtype: float64",0,cassan_38_57_1244.det.lc.gz
+1902,"11027    38.269703
+Name: chi_sub, dtype: float64",0,cassan_38_57_2728.det.lc.gz
+1907,"11036    21.224544
+Name: chi_sub, dtype: float64",0,cassan_38_63_667.det.lc.gz
+1908,"11037    5.392344
+Name: chi_sub, dtype: float64",0,cassan_38_63_752.det.lc.gz
+1909,"11038    18.824044
+Name: chi_sub, dtype: float64",0,cassan_38_69_1642.det.lc.gz
+1911,"11040    16.660278
+Name: chi_sub, dtype: float64",0,cassan_38_69_461.det.lc.gz
+1913,"11044    23.079618
+Name: chi_sub, dtype: float64",0,cassan_38_72_1759.det.lc.gz
+1915,"11049    21.228592
+Name: chi_sub, dtype: float64",0,cassan_38_75_1434.det.lc.gz
+1916,"11050    35.292834
+Name: chi_sub, dtype: float64",0,cassan_38_75_27.det.lc.gz
+1917,"11052    7.516614
+Name: chi_sub, dtype: float64",0,cassan_38_82_2940.det.lc.gz
+1918,"11053    17.410422
+Name: chi_sub, dtype: float64",0,cassan_38_82_2990.det.lc.gz
+1919,"11054    22.541323
+Name: chi_sub, dtype: float64",0,cassan_38_83_2762.det.lc.gz
+1921,"11057    11.887801
+Name: chi_sub, dtype: float64",0,cassan_38_86_2119.det.lc.gz
+1923,"11062    7.526915
+Name: chi_sub, dtype: float64",0,cassan_38_89_2321.det.lc.gz
+1924,"11063    4.644146
+Name: chi_sub, dtype: float64",0,cassan_38_96_1468.det.lc.gz
+1925,"11064    32.420293
+Name: chi_sub, dtype: float64",0,cassan_38_96_1494.det.lc.gz
+1927,"11066    14.530483
+Name: chi_sub, dtype: float64",0,cassan_38_98_1351.det.lc.gz
+1928,"11069    0.114413
+Name: chi_sub, dtype: float64",0,cassan_38_99_1483.det.lc.gz
+1930,"11074    25.046982
+Name: chi_sub, dtype: float64",0,cassan_38_9_324.det.lc.gz
+1931,"11076    5.731751
+Name: chi_sub, dtype: float64",0,cassan_39_101_2085.det.lc.gz
+1932,"11080    11.804552
+Name: chi_sub, dtype: float64",0,cassan_39_10_3289.det.lc.gz
+1933,"11081    13.932587
+Name: chi_sub, dtype: float64",0,cassan_39_10_969.det.lc.gz
+1934,"11083    15.50697
+Name: chi_sub, dtype: float64",0,cassan_39_112_3054.det.lc.gz
+1935,"11084    1.800874
+Name: chi_sub, dtype: float64",0,cassan_39_112_3259.det.lc.gz
+1936,"11085    9.557394
+Name: chi_sub, dtype: float64",0,cassan_39_113_2534.det.lc.gz
+1937,"11087    20.807553
+Name: chi_sub, dtype: float64",0,cassan_39_115_2494.det.lc.gz
+1938,"11089    22.271298
+Name: chi_sub, dtype: float64",0,cassan_39_123_862.det.lc.gz
+1939,"11092    16.598409
+Name: chi_sub, dtype: float64",0,cassan_39_126_649.det.lc.gz
+1940,"11094    37.184675
+Name: chi_sub, dtype: float64",0,cassan_39_127_698.det.lc.gz
+1941,"11095    12.248056
+Name: chi_sub, dtype: float64",0,cassan_39_136_1032.det.lc.gz
+1942,"11096    38.885002
+Name: chi_sub, dtype: float64",0,cassan_39_136_477.det.lc.gz
+1943,"11097    21.680197
+Name: chi_sub, dtype: float64",0,cassan_39_136_50.det.lc.gz
+1944,"11098    8.333032
+Name: chi_sub, dtype: float64",0,cassan_39_137_2106.det.lc.gz
+1946,"11100    38.495254
+Name: chi_sub, dtype: float64",0,cassan_39_138_2997.det.lc.gz
+1947,"11104    11.000702
+Name: chi_sub, dtype: float64",0,cassan_39_150_2121.det.lc.gz
+1948,"11106    19.526756
+Name: chi_sub, dtype: float64",0,cassan_39_150_562.det.lc.gz
+1949,"11108    1.319586
+Name: chi_sub, dtype: float64",0,cassan_39_19_2849.det.lc.gz
+1951,"11114    32.383483
+Name: chi_sub, dtype: float64",0,cassan_39_31_1837.det.lc.gz
+1952,"11115    12.911061
+Name: chi_sub, dtype: float64",0,cassan_39_31_2953.det.lc.gz
+1957,"11123    15.078954
+Name: chi_sub, dtype: float64",0,cassan_39_35_2881.det.lc.gz
+1959,"11125    25.154333
+Name: chi_sub, dtype: float64",0,cassan_39_43_2668.det.lc.gz
+1960,"11127    8.240385
+Name: chi_sub, dtype: float64",0,cassan_39_47_152.det.lc.gz
+1961,"11128    12.962061
+Name: chi_sub, dtype: float64",0,cassan_39_47_3214.det.lc.gz
+1962,"11130    24.133857
+Name: chi_sub, dtype: float64",0,cassan_39_48_2567.det.lc.gz
+1963,"11131    17.57455
+Name: chi_sub, dtype: float64",0,cassan_39_48_828.det.lc.gz
+1964,"11132    13.302616
+Name: chi_sub, dtype: float64",0,cassan_39_4_789.det.lc.gz
+1965,"11133    6.85004
+Name: chi_sub, dtype: float64",0,cassan_39_50_2226.det.lc.gz
+1967,"11135    17.87908
+Name: chi_sub, dtype: float64",0,cassan_39_57_3076.det.lc.gz
+1969,"11139    19.440719
+Name: chi_sub, dtype: float64",0,cassan_39_60_2206.det.lc.gz
+1970,"11141    20.994805
+Name: chi_sub, dtype: float64",0,cassan_39_61_1469.det.lc.gz
+1971,"11142    19.443113
+Name: chi_sub, dtype: float64",0,cassan_39_61_79.det.lc.gz
+1973,"11145    4.42413
+Name: chi_sub, dtype: float64",0,cassan_39_69_3006.det.lc.gz
+1974,"11146    15.785662
+Name: chi_sub, dtype: float64",0,cassan_39_6_1336.det.lc.gz
+1975,"11147    23.766374
+Name: chi_sub, dtype: float64",0,cassan_39_6_2380.det.lc.gz
+1976,"11150    16.256309
+Name: chi_sub, dtype: float64",0,cassan_39_71_2087.det.lc.gz
+1978,"11154    7.361087
+Name: chi_sub, dtype: float64",0,cassan_39_73_515.det.lc.gz
+1979,"11155    5.422921
+Name: chi_sub, dtype: float64",0,cassan_39_73_709.det.lc.gz
+1983,"11160    13.661277
+Name: chi_sub, dtype: float64",0,cassan_39_7_3070.det.lc.gz
+1984,"11161    11.022348
+Name: chi_sub, dtype: float64",0,cassan_39_82_1364.det.lc.gz
+1985,"11163    12.944865
+Name: chi_sub, dtype: float64",0,cassan_39_83_648.det.lc.gz
+1987,"11166    9.809977
+Name: chi_sub, dtype: float64",0,cassan_39_86_1166.det.lc.gz
+1988,"11167    5.626671
+Name: chi_sub, dtype: float64",0,cassan_39_87_2248.det.lc.gz
+1989,"11168    8.97595
+Name: chi_sub, dtype: float64",0,cassan_39_87_2899.det.lc.gz
+1992,"11175    16.01901
+Name: chi_sub, dtype: float64",0,cassan_39_99_1505.det.lc.gz
+1993,"11179    5.519171
+Name: chi_sub, dtype: float64",0,cassan_3_32_1106.det.lc.gz
+1994,"11182    11.412305
+Name: chi_sub, dtype: float64",0,cassan_3_32_3040.det.lc.gz
+1995,"11183    3.94904
+Name: chi_sub, dtype: float64",0,cassan_3_32_3279.det.lc.gz
+1996,"11184    12.03267
+Name: chi_sub, dtype: float64",0,cassan_3_33_1126.det.lc.gz
+1998,"11186    0.000008
+Name: chi_sub, dtype: float64",0,cassan_3_36_2788.det.lc.gz
+1999,"11187    8.425181
+Name: chi_sub, dtype: float64",0,cassan_3_43_2000.det.lc.gz
+2000,"11188    20.850501
+Name: chi_sub, dtype: float64",0,cassan_3_44_1715.det.lc.gz
+2002,"11192    15.60732
+Name: chi_sub, dtype: float64",0,cassan_3_48_2057.det.lc.gz
+2003,"11194    12.62683
+Name: chi_sub, dtype: float64",0,cassan_3_49_3050.det.lc.gz
+2007,"11198    35.653315
+Name: chi_sub, dtype: float64",0,cassan_3_58_1712.det.lc.gz
+2008,"11199    35.170057
+Name: chi_sub, dtype: float64",0,cassan_3_58_1826.det.lc.gz
+2009,"11200    21.367965
+Name: chi_sub, dtype: float64",0,cassan_3_58_2945.det.lc.gz
+2011,"11205    14.353627
+Name: chi_sub, dtype: float64",0,cassan_3_61_1731.det.lc.gz
+2012,"11207    17.102578
+Name: chi_sub, dtype: float64",0,cassan_3_61_3233.det.lc.gz
+2013,"11209    0.164418
+Name: chi_sub, dtype: float64",0,cassan_3_69_2673.det.lc.gz
+2014,"11210    11.763545
+Name: chi_sub, dtype: float64",0,cassan_3_69_2957.det.lc.gz
+2016,"11213    0.000029
+Name: chi_sub, dtype: float64",0,cassan_3_70_2633.det.lc.gz
+2017,"11215    11.497703
+Name: chi_sub, dtype: float64",0,cassan_3_71_1450.det.lc.gz
+2018,"11218    26.408954
+Name: chi_sub, dtype: float64",0,cassan_3_72_2294.det.lc.gz
+2019,"11219    39.619158
+Name: chi_sub, dtype: float64",0,cassan_3_73_3032.det.lc.gz
+2022,"11223    31.695249
+Name: chi_sub, dtype: float64",0,cassan_3_75_2614.det.lc.gz
+2025,"11230    34.439892
+Name: chi_sub, dtype: float64",0,cassan_3_85_263.det.lc.gz
+2026,"11231    13.313772
+Name: chi_sub, dtype: float64",0,cassan_3_86_2956.det.lc.gz
+2027,"11234    38.988073
+Name: chi_sub, dtype: float64",0,cassan_3_89_3038.det.lc.gz
+2028,"11235    6.014716
+Name: chi_sub, dtype: float64",0,cassan_3_8_2759.det.lc.gz
+2031,"11245    10.477459
+Name: chi_sub, dtype: float64",0,cassan_40_100_646.det.lc.gz
+2033,"11248    8.848903
+Name: chi_sub, dtype: float64",0,cassan_40_102_2426.det.lc.gz
+2034,"11249    35.475822
+Name: chi_sub, dtype: float64",0,cassan_40_109_1820.det.lc.gz
+2035,"11250    29.034724
+Name: chi_sub, dtype: float64",0,cassan_40_10_114.det.lc.gz
+2037,"11253    18.035667
+Name: chi_sub, dtype: float64",0,cassan_40_110_1067.det.lc.gz
+2038,"11254    0.001156
+Name: chi_sub, dtype: float64",0,cassan_40_110_3053.det.lc.gz
+2039,"11255    20.815421
+Name: chi_sub, dtype: float64",0,cassan_40_110_526.det.lc.gz
+2040,"11256    2.051439
+Name: chi_sub, dtype: float64",0,cassan_40_111_2274.det.lc.gz
+2042,"11262    39.862672
+Name: chi_sub, dtype: float64",0,cassan_40_113_526.det.lc.gz
+2044,"11264    14.950982
+Name: chi_sub, dtype: float64",0,cassan_40_114_2975.det.lc.gz
+2045,"11265    10.923859
+Name: chi_sub, dtype: float64",0,cassan_40_115_1590.det.lc.gz
+2046,"11266    24.495246
+Name: chi_sub, dtype: float64",0,cassan_40_115_862.det.lc.gz
+2047,"11267    22.664765
+Name: chi_sub, dtype: float64",0,cassan_40_123_651.det.lc.gz
+2050,"11271    28.886129
+Name: chi_sub, dtype: float64",0,cassan_40_127_3309.det.lc.gz
+2051,"11276    21.317203
+Name: chi_sub, dtype: float64",0,cassan_40_151_3271.det.lc.gz
+2052,"11279    22.721844
+Name: chi_sub, dtype: float64",0,cassan_40_19_1822.det.lc.gz
+2053,"11280    26.654577
+Name: chi_sub, dtype: float64",0,cassan_40_23_1427.det.lc.gz
+2054,"11282    36.970526
+Name: chi_sub, dtype: float64",0,cassan_40_30_2564.det.lc.gz
+2055,"11283    29.542507
+Name: chi_sub, dtype: float64",0,cassan_40_31_1405.det.lc.gz
+2057,"11285    15.897271
+Name: chi_sub, dtype: float64",0,cassan_40_33_3176.det.lc.gz
+2059,"11289    26.086784
+Name: chi_sub, dtype: float64",0,cassan_40_37_2445.det.lc.gz
+2062,"11301    10.664311
+Name: chi_sub, dtype: float64",0,cassan_40_4_2669.det.lc.gz
+2064,"11304    1.347205
+Name: chi_sub, dtype: float64",0,cassan_40_58_1281.det.lc.gz
+2065,"11305    1.081842
+Name: chi_sub, dtype: float64",0,cassan_40_58_185.det.lc.gz
+2066,"11307    18.172758
+Name: chi_sub, dtype: float64",0,cassan_40_5_2156.det.lc.gz
+2067,"11308    2.175317
+Name: chi_sub, dtype: float64",0,cassan_40_60_183.det.lc.gz
+2069,"11310    13.244835
+Name: chi_sub, dtype: float64",0,cassan_40_69_2561.det.lc.gz
+2070,"11311    13.789689
+Name: chi_sub, dtype: float64",0,cassan_40_6_2137.det.lc.gz
+2071,"11312    0.000053
+Name: chi_sub, dtype: float64",0,cassan_40_70_2796.det.lc.gz
+2072,"11313    10.715674
+Name: chi_sub, dtype: float64",0,cassan_40_70_540.det.lc.gz
+2073,"11314    16.8433
+Name: chi_sub, dtype: float64",0,cassan_40_72_125.det.lc.gz
+2074,"11315    9.995917
+Name: chi_sub, dtype: float64",0,cassan_40_72_2485.det.lc.gz
+2075,"11316    4.921055
+Name: chi_sub, dtype: float64",0,cassan_40_72_888.det.lc.gz
+2076,"11319    18.150555
+Name: chi_sub, dtype: float64",0,cassan_40_74_3290.det.lc.gz
+2078,"11321    20.595627
+Name: chi_sub, dtype: float64",0,cassan_40_76_2272.det.lc.gz
+2079,"11323    21.673087
+Name: chi_sub, dtype: float64",0,cassan_40_82_1568.det.lc.gz
+2080,"11324    30.982522
+Name: chi_sub, dtype: float64",0,cassan_40_82_2304.det.lc.gz
+2081,"11328    3.424454
+Name: chi_sub, dtype: float64",0,cassan_40_84_2699.det.lc.gz
+2082,"11330    26.007863
+Name: chi_sub, dtype: float64",0,cassan_40_84_417.det.lc.gz
+2083,"11331    4.193088
+Name: chi_sub, dtype: float64",0,cassan_40_84_702.det.lc.gz
+2084,"11333    16.240109
+Name: chi_sub, dtype: float64",0,cassan_40_96_137.det.lc.gz
+2086,"11337    15.163309
+Name: chi_sub, dtype: float64",0,cassan_40_97_3295.det.lc.gz
+2087,"11338    20.188059
+Name: chi_sub, dtype: float64",0,cassan_40_98_1973.det.lc.gz
+2088,"11339    8.853588
+Name: chi_sub, dtype: float64",0,cassan_40_99_1675.det.lc.gz
+2089,"11340    11.463047
+Name: chi_sub, dtype: float64",0,cassan_40_9_1276.det.lc.gz
+2091,"11342    5.97663
+Name: chi_sub, dtype: float64",0,cassan_41_100_2543.det.lc.gz
+2092,"11343    35.432507
+Name: chi_sub, dtype: float64",0,cassan_41_100_539.det.lc.gz
+2093,"11345    16.06337
+Name: chi_sub, dtype: float64",0,cassan_41_101_2015.det.lc.gz
+2098,"11354    33.982703
+Name: chi_sub, dtype: float64",0,cassan_41_112_1370.det.lc.gz
+2099,"11357    22.895149
+Name: chi_sub, dtype: float64",0,cassan_41_114_342.det.lc.gz
+2100,"11361    17.249341
+Name: chi_sub, dtype: float64",0,cassan_41_125_3237.det.lc.gz
+2102,"11366    21.977028
+Name: chi_sub, dtype: float64",0,cassan_41_138_2984.det.lc.gz
+2104,"11369    13.971958
+Name: chi_sub, dtype: float64",0,cassan_41_150_1208.det.lc.gz
+2106,"11373    10.900478
+Name: chi_sub, dtype: float64",0,cassan_41_19_922.det.lc.gz
+2109,"11376    38.178202
+Name: chi_sub, dtype: float64",0,cassan_41_21_2315.det.lc.gz
+2110,"11377    35.167253
+Name: chi_sub, dtype: float64",0,cassan_41_21_302.det.lc.gz
+2111,"11379    19.973511
+Name: chi_sub, dtype: float64",0,cassan_41_23_1027.det.lc.gz
+2112,"11382    14.926203
+Name: chi_sub, dtype: float64",0,cassan_41_31_2396.det.lc.gz
+2113,"11387    9.235739
+Name: chi_sub, dtype: float64",0,cassan_41_36_1098.det.lc.gz
+2115,"11389    12.13945
+Name: chi_sub, dtype: float64",0,cassan_41_37_3160.det.lc.gz
+2116,"11390    25.175618
+Name: chi_sub, dtype: float64",0,cassan_41_43_2079.det.lc.gz
+2118,"11393    13.586721
+Name: chi_sub, dtype: float64",0,cassan_41_44_469.det.lc.gz
+2119,"11395    1.396546
+Name: chi_sub, dtype: float64",0,cassan_41_45_1765.det.lc.gz
+2120,"11399    37.313303
+Name: chi_sub, dtype: float64",0,cassan_41_46_521.det.lc.gz
+2121,"11400    25.086417
+Name: chi_sub, dtype: float64",0,cassan_41_47_2753.det.lc.gz
+2122,"11402    11.541981
+Name: chi_sub, dtype: float64",0,cassan_41_49_1767.det.lc.gz
+2125,"11405    33.093018
+Name: chi_sub, dtype: float64",0,cassan_41_50_684.det.lc.gz
+2127,"11410    31.97969
+Name: chi_sub, dtype: float64",0,cassan_41_5_1122.det.lc.gz
+2131,"11419    37.383629
+Name: chi_sub, dtype: float64",0,cassan_41_69_1069.det.lc.gz
+2132,"11420    35.740515
+Name: chi_sub, dtype: float64",0,cassan_41_69_2759.det.lc.gz
+2134,"11422    5.098567
+Name: chi_sub, dtype: float64",0,cassan_41_6_2971.det.lc.gz
+2135,"11424    10.843079
+Name: chi_sub, dtype: float64",0,cassan_41_71_590.det.lc.gz
+2138,"11427    18.35209
+Name: chi_sub, dtype: float64",0,cassan_41_73_1236.det.lc.gz
+2139,"11428    28.116169
+Name: chi_sub, dtype: float64",0,cassan_41_75_470.det.lc.gz
+2141,"11430    33.670028
+Name: chi_sub, dtype: float64",0,cassan_41_7_1075.det.lc.gz
+2142,"11432    18.549162
+Name: chi_sub, dtype: float64",0,cassan_41_82_2554.det.lc.gz
+2144,"11434    15.611937
+Name: chi_sub, dtype: float64",0,cassan_41_83_868.det.lc.gz
+2145,"11435    13.614068
+Name: chi_sub, dtype: float64",0,cassan_41_86_1051.det.lc.gz
+2147,"11438    31.807068
+Name: chi_sub, dtype: float64",0,cassan_41_89_2267.det.lc.gz
+2151,"11442    9.6246
+Name: chi_sub, dtype: float64",0,cassan_41_98_1090.det.lc.gz
+2153,"11447    19.301395
+Name: chi_sub, dtype: float64",0,cassan_42_100_371.det.lc.gz
+2154,"11448    11.614091
+Name: chi_sub, dtype: float64",0,cassan_42_100_572.det.lc.gz
+2156,"11450    37.848695
+Name: chi_sub, dtype: float64",0,cassan_42_109_143.det.lc.gz
+2157,"11451    5.722116
+Name: chi_sub, dtype: float64",0,cassan_42_10_1178.det.lc.gz
+2159,"11453    26.818632
+Name: chi_sub, dtype: float64",0,cassan_42_110_2688.det.lc.gz
+2160,"11455    18.236778
+Name: chi_sub, dtype: float64",0,cassan_42_113_1601.det.lc.gz
+2161,"11456    20.503574
+Name: chi_sub, dtype: float64",0,cassan_42_114_1637.det.lc.gz
+2162,"11458    3.111915
+Name: chi_sub, dtype: float64",0,cassan_42_115_874.det.lc.gz
+2164,"11460    7.320465
+Name: chi_sub, dtype: float64",0,cassan_42_123_3235.det.lc.gz
+2165,"11461    25.63198
+Name: chi_sub, dtype: float64",0,cassan_42_124_3194.det.lc.gz
+2166,"11463    24.308947
+Name: chi_sub, dtype: float64",0,cassan_42_127_2803.det.lc.gz
+2168,"11466    14.745855
+Name: chi_sub, dtype: float64",0,cassan_42_136_2259.det.lc.gz
+2169,"11468    33.620045
+Name: chi_sub, dtype: float64",0,cassan_42_138_1294.det.lc.gz
+2171,"11473    30.495074
+Name: chi_sub, dtype: float64",0,cassan_42_150_1078.det.lc.gz
+2173,"11476    14.166465
+Name: chi_sub, dtype: float64",0,cassan_42_18_238.det.lc.gz
+2174,"11477    12.474573
+Name: chi_sub, dtype: float64",0,cassan_42_19_673.det.lc.gz
+2175,"11478    8.076421
+Name: chi_sub, dtype: float64",0,cassan_42_20_2404.det.lc.gz
+2176,"11481    19.558884
+Name: chi_sub, dtype: float64",0,cassan_42_22_15.det.lc.gz
+2177,"11482    9.024784
+Name: chi_sub, dtype: float64",0,cassan_42_22_1759.det.lc.gz
+2178,"11483    9.980988
+Name: chi_sub, dtype: float64",0,cassan_42_30_54.det.lc.gz
+2181,"11487    2.182176
+Name: chi_sub, dtype: float64",0,cassan_42_33_1518.det.lc.gz
+2182,"11488    6.076593
+Name: chi_sub, dtype: float64",0,cassan_42_34_1081.det.lc.gz
+2183,"11489    14.278513
+Name: chi_sub, dtype: float64",0,cassan_42_34_776.det.lc.gz
+2184,"11492    13.423238
+Name: chi_sub, dtype: float64",0,cassan_42_35_2680.det.lc.gz
+2187,"11496    10.88664
+Name: chi_sub, dtype: float64",0,cassan_42_43_1630.det.lc.gz
+2188,"11497    17.243872
+Name: chi_sub, dtype: float64",0,cassan_42_43_1780.det.lc.gz
+2190,"11501    14.972025
+Name: chi_sub, dtype: float64",0,cassan_42_48_2091.det.lc.gz
+2192,"11503    12.019779
+Name: chi_sub, dtype: float64",0,cassan_42_4_3049.det.lc.gz
+2193,"11504    14.282793
+Name: chi_sub, dtype: float64",0,cassan_42_56_2890.det.lc.gz
+2194,"11510    16.938802
+Name: chi_sub, dtype: float64",0,cassan_42_60_309.det.lc.gz
+2195,"11511    11.252489
+Name: chi_sub, dtype: float64",0,cassan_42_61_1932.det.lc.gz
+2196,"11513    7.347468
+Name: chi_sub, dtype: float64",0,cassan_42_61_76.det.lc.gz
+2197,"11514    12.922417
+Name: chi_sub, dtype: float64",0,cassan_42_62_1902.det.lc.gz
+2198,"11516    19.002544
+Name: chi_sub, dtype: float64",0,cassan_42_69_2735.det.lc.gz
+2199,"11518    7.175885
+Name: chi_sub, dtype: float64",0,cassan_42_71_3322.det.lc.gz
+2202,"11524    8.546986
+Name: chi_sub, dtype: float64",0,cassan_42_76_343.det.lc.gz
+2203,"11525    8.481723
+Name: chi_sub, dtype: float64",0,cassan_42_7_1007.det.lc.gz
+2204,"11526    1.811513
+Name: chi_sub, dtype: float64",0,cassan_42_7_2128.det.lc.gz
+2205,"11527    23.273666
+Name: chi_sub, dtype: float64",0,cassan_42_82_3107.det.lc.gz
+2208,"11532    24.320892
+Name: chi_sub, dtype: float64",0,cassan_42_84_1446.det.lc.gz
+2209,"11533    10.245693
+Name: chi_sub, dtype: float64",0,cassan_42_84_1695.det.lc.gz
+2210,"11536    30.95416
+Name: chi_sub, dtype: float64",0,cassan_42_85_560.det.lc.gz
+2211,"11537    39.77082
+Name: chi_sub, dtype: float64",0,cassan_42_86_1771.det.lc.gz
+2212,"11541    36.421297
+Name: chi_sub, dtype: float64",0,cassan_42_88_3289.det.lc.gz
+2213,"11542    34.24999
+Name: chi_sub, dtype: float64",0,cassan_42_89_828.det.lc.gz
+2214,"11543    27.142525
+Name: chi_sub, dtype: float64",0,cassan_42_96_1045.det.lc.gz
+2215,"11544    16.866051
+Name: chi_sub, dtype: float64",0,cassan_42_96_1224.det.lc.gz
+2216,"11546    24.989494
+Name: chi_sub, dtype: float64",0,cassan_42_97_1176.det.lc.gz
+2219,"11550    39.971439
+Name: chi_sub, dtype: float64",0,cassan_42_98_2080.det.lc.gz
+2220,"11554    27.634917
+Name: chi_sub, dtype: float64",0,cassan_42_9_1455.det.lc.gz
+2221,"11559    24.33393
+Name: chi_sub, dtype: float64",0,cassan_43_102_1537.det.lc.gz
+2222,"11561    22.969377
+Name: chi_sub, dtype: float64",0,cassan_43_109_830.det.lc.gz
+2224,"11563    33.302974
+Name: chi_sub, dtype: float64",0,cassan_43_123_153.det.lc.gz
+2225,"11564    30.685447
+Name: chi_sub, dtype: float64",0,cassan_43_123_3137.det.lc.gz
+2226,"11565    13.969104
+Name: chi_sub, dtype: float64",0,cassan_43_123_649.det.lc.gz
+2228,"11568    30.355259
+Name: chi_sub, dtype: float64",0,cassan_43_125_2109.det.lc.gz
+2229,"11571    16.217088
+Name: chi_sub, dtype: float64",0,cassan_43_126_1398.det.lc.gz
+2230,"11573    9.40893
+Name: chi_sub, dtype: float64",0,cassan_43_137_2782.det.lc.gz
+2231,"11574    14.853046
+Name: chi_sub, dtype: float64",0,cassan_43_138_519.det.lc.gz
+2232,"11575    6.500306
+Name: chi_sub, dtype: float64",0,cassan_43_139_2574.det.lc.gz
+2234,"11577    7.495499
+Name: chi_sub, dtype: float64",0,cassan_43_17_1515.det.lc.gz
+2236,"11581    37.755472
+Name: chi_sub, dtype: float64",0,cassan_43_18_1896.det.lc.gz
+2237,"11584    33.573626
+Name: chi_sub, dtype: float64",0,cassan_43_23_2642.det.lc.gz
+2239,"11586    20.797227
+Name: chi_sub, dtype: float64",0,cassan_43_24_771.det.lc.gz
+2240,"11587    14.707324
+Name: chi_sub, dtype: float64",0,cassan_43_30_1440.det.lc.gz
+2242,"11590    26.931104
+Name: chi_sub, dtype: float64",0,cassan_43_32_2498.det.lc.gz
+2243,"11592    7.548363
+Name: chi_sub, dtype: float64",0,cassan_43_33_2344.det.lc.gz
+2244,"11593    17.854781
+Name: chi_sub, dtype: float64",0,cassan_43_34_2687.det.lc.gz
+2246,"11598    14.922071
+Name: chi_sub, dtype: float64",0,cassan_43_45_2011.det.lc.gz
+2247,"11599    28.111716
+Name: chi_sub, dtype: float64",0,cassan_43_46_2902.det.lc.gz
+2249,"11605    9.1185
+Name: chi_sub, dtype: float64",0,cassan_43_58_520.det.lc.gz
+2252,"11609    5.99984
+Name: chi_sub, dtype: float64",0,cassan_43_60_1601.det.lc.gz
+2255,"11616    37.39553
+Name: chi_sub, dtype: float64",0,cassan_43_6_2442.det.lc.gz
+2256,"11617    3.863173
+Name: chi_sub, dtype: float64",0,cassan_43_6_2635.det.lc.gz
+2257,"11620    7.84611
+Name: chi_sub, dtype: float64",0,cassan_43_70_101.det.lc.gz
+2259,"11624    8.423876
+Name: chi_sub, dtype: float64",0,cassan_43_71_1854.det.lc.gz
+2261,"11629    36.975287
+Name: chi_sub, dtype: float64",0,cassan_43_74_2344.det.lc.gz
+2263,"11634    35.275411
+Name: chi_sub, dtype: float64",0,cassan_43_82_2474.det.lc.gz
+2264,"11635    0.000015
+Name: chi_sub, dtype: float64",0,cassan_43_83_1703.det.lc.gz
+2266,"11637    9.59406
+Name: chi_sub, dtype: float64",0,cassan_43_84_1957.det.lc.gz
+2268,"11640    13.250688
+Name: chi_sub, dtype: float64",0,cassan_43_86_413.det.lc.gz
+2269,"11642    23.031206
+Name: chi_sub, dtype: float64",0,cassan_43_89_2430.det.lc.gz
+2270,"11646    21.203279
+Name: chi_sub, dtype: float64",0,cassan_43_99_284.det.lc.gz
+2272,"11648    14.562018
+Name: chi_sub, dtype: float64",0,cassan_43_99_819.det.lc.gz
+2273,"11649    0.536215
+Name: chi_sub, dtype: float64",0,cassan_44_100_1133.det.lc.gz
+2274,"11650    19.406114
+Name: chi_sub, dtype: float64",0,cassan_44_100_1232.det.lc.gz
+2277,"11656    18.244589
+Name: chi_sub, dtype: float64",0,cassan_44_109_2641.det.lc.gz
+2278,"11659    14.81396
+Name: chi_sub, dtype: float64",0,cassan_44_10_265.det.lc.gz
+2281,"11667    18.055884
+Name: chi_sub, dtype: float64",0,cassan_44_114_2328.det.lc.gz
+2283,"11672    30.126149
+Name: chi_sub, dtype: float64",0,cassan_44_123_1152.det.lc.gz
+2284,"11675    1.589033
+Name: chi_sub, dtype: float64",0,cassan_44_127_1436.det.lc.gz
+2285,"11676    18.65512
+Name: chi_sub, dtype: float64",0,cassan_44_136_426.det.lc.gz
+2286,"11677    37.332003
+Name: chi_sub, dtype: float64",0,cassan_44_137_2557.det.lc.gz
+2288,"11679    33.762843
+Name: chi_sub, dtype: float64",0,cassan_44_138_1060.det.lc.gz
+2289,"11680    21.213533
+Name: chi_sub, dtype: float64",0,cassan_44_138_1828.det.lc.gz
+2291,"11683    17.187745
+Name: chi_sub, dtype: float64",0,cassan_44_140_1886.det.lc.gz
+2292,"11684    37.840817
+Name: chi_sub, dtype: float64",0,cassan_44_150_1568.det.lc.gz
+2293,"11686    10.469677
+Name: chi_sub, dtype: float64",0,cassan_44_150_3216.det.lc.gz
+2295,"11688    21.443727
+Name: chi_sub, dtype: float64",0,cassan_44_151_3097.det.lc.gz
+2296,"11689    19.717243
+Name: chi_sub, dtype: float64",0,cassan_44_17_531.det.lc.gz
+2298,"11693    11.98197
+Name: chi_sub, dtype: float64",0,cassan_44_20_1779.det.lc.gz
+2300,"11695    9.36525
+Name: chi_sub, dtype: float64",0,cassan_44_20_421.det.lc.gz
+2301,"11696    39.541268
+Name: chi_sub, dtype: float64",0,cassan_44_20_586.det.lc.gz
+2304,"11700    14.053766
+Name: chi_sub, dtype: float64",0,cassan_44_30_1.det.lc.gz
+2305,"11703    13.600671
+Name: chi_sub, dtype: float64",0,cassan_44_32_1180.det.lc.gz
+2306,"11706    29.460482
+Name: chi_sub, dtype: float64",0,cassan_44_33_1985.det.lc.gz
+2307,"11707    22.257396
+Name: chi_sub, dtype: float64",0,cassan_44_33_2137.det.lc.gz
+2308,"11708    10.861764
+Name: chi_sub, dtype: float64",0,cassan_44_34_1220.det.lc.gz
+2309,"11709    35.422863
+Name: chi_sub, dtype: float64",0,cassan_44_34_1552.det.lc.gz
+2310,"11710    27.802638
+Name: chi_sub, dtype: float64",0,cassan_44_34_678.det.lc.gz
+2311,"11711    6.045599
+Name: chi_sub, dtype: float64",0,cassan_44_35_2680.det.lc.gz
+2312,"11712    29.393306
+Name: chi_sub, dtype: float64",0,cassan_44_35_851.det.lc.gz
+2314,"11714    24.585749
+Name: chi_sub, dtype: float64",0,cassan_44_36_677.det.lc.gz
+2315,"11715    35.989618
+Name: chi_sub, dtype: float64",0,cassan_44_37_3132.det.lc.gz
+2316,"11716    13.953094
+Name: chi_sub, dtype: float64",0,cassan_44_43_1958.det.lc.gz
+2317,"11719    32.239838
+Name: chi_sub, dtype: float64",0,cassan_44_44_3105.det.lc.gz
+2318,"11720    12.144121
+Name: chi_sub, dtype: float64",0,cassan_44_45_1478.det.lc.gz
+2319,"11721    20.146865
+Name: chi_sub, dtype: float64",0,cassan_44_45_1533.det.lc.gz
+2320,"11724    21.054429
+Name: chi_sub, dtype: float64",0,cassan_44_47_714.det.lc.gz
+2322,"11727    1.738676
+Name: chi_sub, dtype: float64",0,cassan_44_4_1835.det.lc.gz
+2324,"11729    4.62746
+Name: chi_sub, dtype: float64",0,cassan_44_50_1318.det.lc.gz
+2325,"11732    10.347441
+Name: chi_sub, dtype: float64",0,cassan_44_57_1296.det.lc.gz
+2326,"11733    21.007382
+Name: chi_sub, dtype: float64",0,cassan_44_57_2001.det.lc.gz
+2327,"11734    10.738474
+Name: chi_sub, dtype: float64",0,cassan_44_57_2909.det.lc.gz
+2328,"11735    0.000007
+Name: chi_sub, dtype: float64",0,cassan_44_58_1139.det.lc.gz
+2330,"11737    11.414319
+Name: chi_sub, dtype: float64",0,cassan_44_60_1395.det.lc.gz
+2332,"11739    16.612882
+Name: chi_sub, dtype: float64",0,cassan_44_62_3042.det.lc.gz
+2334,"11741    3.416393
+Name: chi_sub, dtype: float64",0,cassan_44_69_1566.det.lc.gz
+2335,"11742    8.374087
+Name: chi_sub, dtype: float64",0,cassan_44_69_3312.det.lc.gz
+2336,"11743    20.492175
+Name: chi_sub, dtype: float64",0,cassan_44_6_1381.det.lc.gz
+2337,"11744    6.241969
+Name: chi_sub, dtype: float64",0,cassan_44_70_2396.det.lc.gz
+2340,"11748    21.089293
+Name: chi_sub, dtype: float64",0,cassan_44_73_2842.det.lc.gz
+2341,"11749    16.269556
+Name: chi_sub, dtype: float64",0,cassan_44_75_2049.det.lc.gz
+2342,"11752    8.745395
+Name: chi_sub, dtype: float64",0,cassan_44_76_2077.det.lc.gz
+2343,"11754    39.42346
+Name: chi_sub, dtype: float64",0,cassan_44_82_1389.det.lc.gz
+2344,"11758    37.796522
+Name: chi_sub, dtype: float64",0,cassan_44_96_1712.det.lc.gz
+2345,"11759    14.605174
+Name: chi_sub, dtype: float64",0,cassan_44_96_223.det.lc.gz
+2348,"11763    8.603008
+Name: chi_sub, dtype: float64",0,cassan_44_98_2807.det.lc.gz
+2352,"11772    4.639657
+Name: chi_sub, dtype: float64",0,cassan_45_113_526.det.lc.gz
+2353,"11773    16.718112
+Name: chi_sub, dtype: float64",0,cassan_45_113_852.det.lc.gz
+2354,"11776    6.422983
+Name: chi_sub, dtype: float64",0,cassan_45_123_1720.det.lc.gz
+2356,"11778    6.897668
+Name: chi_sub, dtype: float64",0,cassan_45_124_299.det.lc.gz
+2357,"11781    35.97495
+Name: chi_sub, dtype: float64",0,cassan_45_125_368.det.lc.gz
+2358,"11782    14.839858
+Name: chi_sub, dtype: float64",0,cassan_45_126_2169.det.lc.gz
+2359,"11784    21.900178
+Name: chi_sub, dtype: float64",0,cassan_45_140_1273.det.lc.gz
+2363,"11789    16.73331
+Name: chi_sub, dtype: float64",0,cassan_45_17_3219.det.lc.gz
+2364,"11791    9.367343
+Name: chi_sub, dtype: float64",0,cassan_45_18_2076.det.lc.gz
+2365,"11792    11.457341
+Name: chi_sub, dtype: float64",0,cassan_45_18_2643.det.lc.gz
+2366,"11793    10.053296
+Name: chi_sub, dtype: float64",0,cassan_45_18_3090.det.lc.gz
+2367,"11794    32.343401
+Name: chi_sub, dtype: float64",0,cassan_45_21_1451.det.lc.gz
+2368,"11796    21.161959
+Name: chi_sub, dtype: float64",0,cassan_45_23_961.det.lc.gz
+2369,"11799    16.394204
+Name: chi_sub, dtype: float64",0,cassan_45_35_2574.det.lc.gz
+2371,"11803    21.452279
+Name: chi_sub, dtype: float64",0,cassan_45_46_66.det.lc.gz
+2372,"11805    20.921584
+Name: chi_sub, dtype: float64",0,cassan_45_48_1436.det.lc.gz
+2373,"11806    36.605369
+Name: chi_sub, dtype: float64",0,cassan_45_4_1633.det.lc.gz
+2374,"11808    11.921909
+Name: chi_sub, dtype: float64",0,cassan_45_50_462.det.lc.gz
+2375,"11809    19.852413
+Name: chi_sub, dtype: float64",0,cassan_45_57_2488.det.lc.gz
+2377,"11812    17.218676
+Name: chi_sub, dtype: float64",0,cassan_45_58_2250.det.lc.gz
+2378,"11815    0.54091
+Name: chi_sub, dtype: float64",0,cassan_45_59_950.det.lc.gz
+2379,"11816    22.306255
+Name: chi_sub, dtype: float64",0,cassan_45_62_2421.det.lc.gz
+2380,"11821    3.697707
+Name: chi_sub, dtype: float64",0,cassan_45_72_3158.det.lc.gz
+2381,"11822    33.560474
+Name: chi_sub, dtype: float64",0,cassan_45_73_1337.det.lc.gz
+2382,"11824    10.852484
+Name: chi_sub, dtype: float64",0,cassan_45_74_451.det.lc.gz
+2383,"11830    14.780487
+Name: chi_sub, dtype: float64",0,cassan_45_76_3025.det.lc.gz
+2384,"11833    23.351361
+Name: chi_sub, dtype: float64",0,cassan_45_82_2167.det.lc.gz
+2385,"11834    7.311179
+Name: chi_sub, dtype: float64",0,cassan_45_83_2270.det.lc.gz
+2388,"11837    6.928695
+Name: chi_sub, dtype: float64",0,cassan_45_86_1560.det.lc.gz
+2389,"11842    8.281709
+Name: chi_sub, dtype: float64",0,cassan_45_89_2781.det.lc.gz
+2392,"11847    1.662457
+Name: chi_sub, dtype: float64",0,cassan_45_99_1109.det.lc.gz
+2393,"11848    15.952155
+Name: chi_sub, dtype: float64",0,cassan_45_99_1166.det.lc.gz
+2394,"11850    29.246087
+Name: chi_sub, dtype: float64",0,cassan_45_9_859.det.lc.gz
+2399,"11857    25.88879
+Name: chi_sub, dtype: float64",0,cassan_46_125_1866.det.lc.gz
+2400,"11859    4.214351
+Name: chi_sub, dtype: float64",0,cassan_46_127_1129.det.lc.gz
+2401,"11860    9.885251
+Name: chi_sub, dtype: float64",0,cassan_46_127_1339.det.lc.gz
+2402,"11861    0.000007
+Name: chi_sub, dtype: float64",0,cassan_46_127_1794.det.lc.gz
+2403,"11862    1.834461
+Name: chi_sub, dtype: float64",0,cassan_46_136_1620.det.lc.gz
+2405,"11865    2.356623
+Name: chi_sub, dtype: float64",0,cassan_46_138_69.det.lc.gz
+2406,"11867    8.985875
+Name: chi_sub, dtype: float64",0,cassan_46_139_402.det.lc.gz
+2408,"11870    36.733514
+Name: chi_sub, dtype: float64",0,cassan_46_150_1613.det.lc.gz
+2409,"11871    3.900139
+Name: chi_sub, dtype: float64",0,cassan_46_151_2710.det.lc.gz
+2412,"11875    14.7953
+Name: chi_sub, dtype: float64",0,cassan_46_19_2848.det.lc.gz
+2413,"11876    6.791539
+Name: chi_sub, dtype: float64",0,cassan_46_19_71.det.lc.gz
+2416,"11882    16.474404
+Name: chi_sub, dtype: float64",0,cassan_46_23_1343.det.lc.gz
+2417,"11884    1.682246
+Name: chi_sub, dtype: float64",0,cassan_46_30_2540.det.lc.gz
+2418,"11885    4.65833
+Name: chi_sub, dtype: float64",0,cassan_46_31_2195.det.lc.gz
+2419,"11886    31.830745
+Name: chi_sub, dtype: float64",0,cassan_46_34_1346.det.lc.gz
+2421,"11888    9.525655
+Name: chi_sub, dtype: float64",0,cassan_46_36_2393.det.lc.gz
+2422,"11889    20.107437
+Name: chi_sub, dtype: float64",0,cassan_46_43_1429.det.lc.gz
+2426,"11897    14.403904
+Name: chi_sub, dtype: float64",0,cassan_46_47_2537.det.lc.gz
+2428,"11900    14.525871
+Name: chi_sub, dtype: float64",0,cassan_46_48_1977.det.lc.gz
+2429,"11901    18.048034
+Name: chi_sub, dtype: float64",0,cassan_46_4_2934.det.lc.gz
+2431,"11904    38.754675
+Name: chi_sub, dtype: float64",0,cassan_46_56_1005.det.lc.gz
+2432,"11906    5.01887
+Name: chi_sub, dtype: float64",0,cassan_46_57_2137.det.lc.gz
+2433,"11908    8.465736
+Name: chi_sub, dtype: float64",0,cassan_46_58_706.det.lc.gz
+2434,"11912    10.076243
+Name: chi_sub, dtype: float64",0,cassan_46_61_608.det.lc.gz
+2436,"11918    12.231556
+Name: chi_sub, dtype: float64",0,cassan_46_69_255.det.lc.gz
+2438,"11921    0.000007
+Name: chi_sub, dtype: float64",0,cassan_46_6_977.det.lc.gz
+2439,"11922    15.214058
+Name: chi_sub, dtype: float64",0,cassan_46_70_1378.det.lc.gz
+2440,"11924    34.740221
+Name: chi_sub, dtype: float64",0,cassan_46_72_1273.det.lc.gz
+2443,"11930    31.920554
+Name: chi_sub, dtype: float64",0,cassan_46_76_2355.det.lc.gz
+2445,"11932    13.191783
+Name: chi_sub, dtype: float64",0,cassan_46_82_1005.det.lc.gz
+2446,"11933    20.28283
+Name: chi_sub, dtype: float64",0,cassan_46_82_1294.det.lc.gz
+2448,"11940    3.726375
+Name: chi_sub, dtype: float64",0,cassan_46_85_1347.det.lc.gz
+2450,"11943    28.128819
+Name: chi_sub, dtype: float64",0,cassan_46_87_99.det.lc.gz
+2451,"11944    18.192155
+Name: chi_sub, dtype: float64",0,cassan_46_88_2325.det.lc.gz
+2453,"11947    27.425139
+Name: chi_sub, dtype: float64",0,cassan_46_8_209.det.lc.gz
+2455,"11949    2.536267
+Name: chi_sub, dtype: float64",0,cassan_46_8_790.det.lc.gz
+2456,"11952    0.905387
+Name: chi_sub, dtype: float64",0,cassan_46_9_991.det.lc.gz
+2457,"11954    32.730751
+Name: chi_sub, dtype: float64",0,cassan_47_101_1096.det.lc.gz
+2461,"11960    0.0
+Name: chi_sub, dtype: float64",0,cassan_47_114_2684.det.lc.gz
+2463,"11963    32.287227
+Name: chi_sub, dtype: float64",0,cassan_47_115_2742.det.lc.gz
+2464,"11964    16.100059
+Name: chi_sub, dtype: float64",0,cassan_47_123_1100.det.lc.gz
+2466,"11966    0.636146
+Name: chi_sub, dtype: float64",0,cassan_47_124_2010.det.lc.gz
+2467,"11967    31.149404
+Name: chi_sub, dtype: float64",0,cassan_47_127_2903.det.lc.gz
+2469,"11970    39.998183
+Name: chi_sub, dtype: float64",0,cassan_47_150_2224.det.lc.gz
+2470,"11971    13.837066
+Name: chi_sub, dtype: float64",0,cassan_47_151_2677.det.lc.gz
+2471,"11973    17.714497
+Name: chi_sub, dtype: float64",0,cassan_47_17_2574.det.lc.gz
+2472,"11975    7.985322
+Name: chi_sub, dtype: float64",0,cassan_47_18_1096.det.lc.gz
+2473,"11976    1.999942e-07
+Name: chi_sub, dtype: float64",0,cassan_47_18_2263.det.lc.gz
+2474,"11977    8.010968
+Name: chi_sub, dtype: float64",0,cassan_47_18_460.det.lc.gz
+2475,"11978    22.039405
+Name: chi_sub, dtype: float64",0,cassan_47_19_921.det.lc.gz
+2476,"11981    18.489955
+Name: chi_sub, dtype: float64",0,cassan_47_22_3183.det.lc.gz
+2477,"11983    11.955464
+Name: chi_sub, dtype: float64",0,cassan_47_24_3137.det.lc.gz
+2478,"11984    31.0504
+Name: chi_sub, dtype: float64",0,cassan_47_30_1909.det.lc.gz
+2481,"11990    29.954595
+Name: chi_sub, dtype: float64",0,cassan_47_34_2561.det.lc.gz
+2482,"11991    11.271019
+Name: chi_sub, dtype: float64",0,cassan_47_35_2500.det.lc.gz
+2483,"11992    34.477584
+Name: chi_sub, dtype: float64",0,cassan_47_37_2220.det.lc.gz
+2485,"11996    2.515099
+Name: chi_sub, dtype: float64",0,cassan_47_46_1909.det.lc.gz
+2486,"11997    36.273537
+Name: chi_sub, dtype: float64",0,cassan_47_46_921.det.lc.gz
+2488,"12000    1.69757
+Name: chi_sub, dtype: float64",0,cassan_47_47_2747.det.lc.gz
+2489,"12001    10.099638
+Name: chi_sub, dtype: float64",0,cassan_47_48_1399.det.lc.gz
+2490,"12002    10.612771
+Name: chi_sub, dtype: float64",0,cassan_47_49_1256.det.lc.gz
+2492,"12009    17.86318
+Name: chi_sub, dtype: float64",0,cassan_47_58_1083.det.lc.gz
+2493,"12010    34.30932
+Name: chi_sub, dtype: float64",0,cassan_47_58_560.det.lc.gz
+2495,"12016    11.028655
+Name: chi_sub, dtype: float64",0,cassan_47_62_2805.det.lc.gz
+2496,"12017    7.866679
+Name: chi_sub, dtype: float64",0,cassan_47_63_790.det.lc.gz
+2498,"12023    17.745728
+Name: chi_sub, dtype: float64",0,cassan_47_70_508.det.lc.gz
+2499,"12026    38.777435
+Name: chi_sub, dtype: float64",0,cassan_47_71_2300.det.lc.gz
+2501,"12029    19.37066
+Name: chi_sub, dtype: float64",0,cassan_47_74_605.det.lc.gz
+2504,"12035    5.0309
+Name: chi_sub, dtype: float64",0,cassan_47_82_1311.det.lc.gz
+2505,"12037    7.467929
+Name: chi_sub, dtype: float64",0,cassan_47_84_588.det.lc.gz
+2506,"12039    7.524978
+Name: chi_sub, dtype: float64",0,cassan_47_87_1612.det.lc.gz
+2509,"12042    12.634931
+Name: chi_sub, dtype: float64",0,cassan_47_8_656.det.lc.gz
+2511,"12046    38.033089
+Name: chi_sub, dtype: float64",0,cassan_47_98_413.det.lc.gz
+2512,"12047    5.315749
+Name: chi_sub, dtype: float64",0,cassan_47_99_1770.det.lc.gz
+2513,"12048    22.462839
+Name: chi_sub, dtype: float64",0,cassan_47_99_1889.det.lc.gz
+2516,"12052    4.410573
+Name: chi_sub, dtype: float64",0,cassan_48_100_2368.det.lc.gz
+2518,"12057    6.507875
+Name: chi_sub, dtype: float64",0,cassan_48_111_1764.det.lc.gz
+2519,"12058    14.02443
+Name: chi_sub, dtype: float64",0,cassan_48_111_2155.det.lc.gz
+2520,"12063    16.588808
+Name: chi_sub, dtype: float64",0,cassan_48_123_1973.det.lc.gz
+2521,"12064    16.221188
+Name: chi_sub, dtype: float64",0,cassan_48_126_2580.det.lc.gz
+2522,"12065    21.466704
+Name: chi_sub, dtype: float64",0,cassan_48_127_3076.det.lc.gz
+2523,"12069    24.722154
+Name: chi_sub, dtype: float64",0,cassan_48_138_626.det.lc.gz
+2524,"12070    16.659275
+Name: chi_sub, dtype: float64",0,cassan_48_139_25.det.lc.gz
+2525,"12072    16.347024
+Name: chi_sub, dtype: float64",0,cassan_48_151_2963.det.lc.gz
+2526,"12074    3.080765
+Name: chi_sub, dtype: float64",0,cassan_48_17_2144.det.lc.gz
+2527,"12075    9.213729
+Name: chi_sub, dtype: float64",0,cassan_48_18_1032.det.lc.gz
+2528,"12076    16.125856
+Name: chi_sub, dtype: float64",0,cassan_48_18_1257.det.lc.gz
+2529,"12081    18.016275
+Name: chi_sub, dtype: float64",0,cassan_48_21_2167.det.lc.gz
+2530,"12082    3.142075
+Name: chi_sub, dtype: float64",0,cassan_48_21_218.det.lc.gz
+2531,"12084    5.882205
+Name: chi_sub, dtype: float64",0,cassan_48_23_3100.det.lc.gz
+2533,"12094    9.277805
+Name: chi_sub, dtype: float64",0,cassan_48_44_2266.det.lc.gz
+2534,"12095    21.534747
+Name: chi_sub, dtype: float64",0,cassan_48_45_1019.det.lc.gz
+2535,"12096    31.37182
+Name: chi_sub, dtype: float64",0,cassan_48_45_2490.det.lc.gz
+2536,"12097    24.558404
+Name: chi_sub, dtype: float64",0,cassan_48_45_2700.det.lc.gz
+2537,"12099    38.027309
+Name: chi_sub, dtype: float64",0,cassan_48_47_2948.det.lc.gz
+2538,"12102    24.701445
+Name: chi_sub, dtype: float64",0,cassan_48_50_1037.det.lc.gz
+2540,"12104    5.579757
+Name: chi_sub, dtype: float64",0,cassan_48_57_525.det.lc.gz
+2541,"12105    1.50186
+Name: chi_sub, dtype: float64",0,cassan_48_5_2869.det.lc.gz
+2542,"12106    6.815206
+Name: chi_sub, dtype: float64",0,cassan_48_60_668.det.lc.gz
+2544,"12108    25.824735
+Name: chi_sub, dtype: float64",0,cassan_48_61_1591.det.lc.gz
+2546,"12112    2.984345
+Name: chi_sub, dtype: float64",0,cassan_48_70_1925.det.lc.gz
+2548,"12114    0.000004
+Name: chi_sub, dtype: float64",0,cassan_48_71_722.det.lc.gz
+2553,"12123    5.541545
+Name: chi_sub, dtype: float64",0,cassan_48_85_1128.det.lc.gz
+2556,"12127    6.999826
+Name: chi_sub, dtype: float64",0,cassan_48_88_2503.det.lc.gz
+2557,"12128    35.451165
+Name: chi_sub, dtype: float64",0,cassan_48_88_3201.det.lc.gz
+2559,"12130    22.977628
+Name: chi_sub, dtype: float64",0,cassan_48_89_361.det.lc.gz
+2566,"12139    38.580445
+Name: chi_sub, dtype: float64",0,cassan_48_9_2608.det.lc.gz
+2567,"12140    3.693111
+Name: chi_sub, dtype: float64",0,cassan_49_100_179.det.lc.gz
+2568,"12143    30.318257
+Name: chi_sub, dtype: float64",0,cassan_49_10_2789.det.lc.gz
+2570,"12146    15.491407
+Name: chi_sub, dtype: float64",0,cassan_49_112_1281.det.lc.gz
+2571,"12149    39.275421
+Name: chi_sub, dtype: float64",0,cassan_49_114_1290.det.lc.gz
+2572,"12153    35.659417
+Name: chi_sub, dtype: float64",0,cassan_49_124_1.det.lc.gz
+2574,"12155    21.13254
+Name: chi_sub, dtype: float64",0,cassan_49_126_1800.det.lc.gz
+2576,"12158    9.448065
+Name: chi_sub, dtype: float64",0,cassan_49_136_2343.det.lc.gz
+2577,"12160    29.132319
+Name: chi_sub, dtype: float64",0,cassan_49_137_526.det.lc.gz
+2578,"12161    15.020801
+Name: chi_sub, dtype: float64",0,cassan_49_138_951.det.lc.gz
+2580,"12165    38.500392
+Name: chi_sub, dtype: float64",0,cassan_49_150_1184.det.lc.gz
+2581,"12166    32.544979
+Name: chi_sub, dtype: float64",0,cassan_49_17_2995.det.lc.gz
+2583,"12168    31.305826
+Name: chi_sub, dtype: float64",0,cassan_49_17_977.det.lc.gz
+2584,"12169    39.549044
+Name: chi_sub, dtype: float64",0,cassan_49_18_1104.det.lc.gz
+2585,"12170    33.465118
+Name: chi_sub, dtype: float64",0,cassan_49_18_2437.det.lc.gz
+2586,"12171    10.593873
+Name: chi_sub, dtype: float64",0,cassan_49_18_2950.det.lc.gz
+2587,"12174    11.974297
+Name: chi_sub, dtype: float64",0,cassan_49_20_838.det.lc.gz
+2589,"12176    1.419329
+Name: chi_sub, dtype: float64",0,cassan_49_23_781.det.lc.gz
+2591,"12178    32.284046
+Name: chi_sub, dtype: float64",0,cassan_49_30_2011.det.lc.gz
+2594,"12183    20.044504
+Name: chi_sub, dtype: float64",0,cassan_49_35_721.det.lc.gz
+2595,"12187    7.374955
+Name: chi_sub, dtype: float64",0,cassan_49_43_3208.det.lc.gz
+2596,"12188    10.727529
+Name: chi_sub, dtype: float64",0,cassan_49_44_1279.det.lc.gz
+2598,"12191    18.311539
+Name: chi_sub, dtype: float64",0,cassan_49_45_220.det.lc.gz
+2599,"12192    37.884447
+Name: chi_sub, dtype: float64",0,cassan_49_47_2307.det.lc.gz
+2601,"12195    34.676639
+Name: chi_sub, dtype: float64",0,cassan_49_48_2257.det.lc.gz
+2603,"12198    15.262415
+Name: chi_sub, dtype: float64",0,cassan_49_48_514.det.lc.gz
+2604,"12201    8.763414
+Name: chi_sub, dtype: float64",0,cassan_49_4_629.det.lc.gz
+2607,"12207    1.423609
+Name: chi_sub, dtype: float64",0,cassan_49_5_1860.det.lc.gz
+2608,"12208    19.784394
+Name: chi_sub, dtype: float64",0,cassan_49_60_1195.det.lc.gz
+2613,"12215    36.066409
+Name: chi_sub, dtype: float64",0,cassan_49_6_1021.det.lc.gz
+2615,"12217    16.09463
+Name: chi_sub, dtype: float64",0,cassan_49_70_719.det.lc.gz
+2616,"12218    17.912291
+Name: chi_sub, dtype: float64",0,cassan_49_71_1540.det.lc.gz
+2617,"12219    36.130887
+Name: chi_sub, dtype: float64",0,cassan_49_71_847.det.lc.gz
+2618,"12221    39.8941
+Name: chi_sub, dtype: float64",0,cassan_49_74_1538.det.lc.gz
+2620,"12224    38.816311
+Name: chi_sub, dtype: float64",0,cassan_49_74_882.det.lc.gz
+2622,"12226    15.679332
+Name: chi_sub, dtype: float64",0,cassan_49_82_1895.det.lc.gz
+2624,"12231    34.931722
+Name: chi_sub, dtype: float64",0,cassan_49_84_3095.det.lc.gz
+2625,"12234    38.116905
+Name: chi_sub, dtype: float64",0,cassan_49_86_1649.det.lc.gz
+2626,"12235    12.92698
+Name: chi_sub, dtype: float64",0,cassan_49_86_3094.det.lc.gz
+2627,"12236    19.359398
+Name: chi_sub, dtype: float64",0,cassan_49_87_1380.det.lc.gz
+2628,"12238    8.18453
+Name: chi_sub, dtype: float64",0,cassan_49_96_425.det.lc.gz
+2629,"12239    20.330364
+Name: chi_sub, dtype: float64",0,cassan_49_97_838.det.lc.gz
+2630,"12241    20.270874
+Name: chi_sub, dtype: float64",0,cassan_49_99_1203.det.lc.gz
+2633,"12244    19.663486
+Name: chi_sub, dtype: float64",0,cassan_4_100_2179.det.lc.gz
+2634,"12246    27.246807
+Name: chi_sub, dtype: float64",0,cassan_4_101_2555.det.lc.gz
+2635,"12248    38.907137
+Name: chi_sub, dtype: float64",0,cassan_4_102_2545.det.lc.gz
+2636,"12251    37.162481
+Name: chi_sub, dtype: float64",0,cassan_4_110_2757.det.lc.gz
+2637,"12252    36.832748
+Name: chi_sub, dtype: float64",0,cassan_4_110_863.det.lc.gz
+2638,"12255    8.016722
+Name: chi_sub, dtype: float64",0,cassan_4_112_1179.det.lc.gz
+2641,"12258    34.786411
+Name: chi_sub, dtype: float64",0,cassan_4_115_1610.det.lc.gz
+2642,"12259    14.50953
+Name: chi_sub, dtype: float64",0,cassan_4_115_2279.det.lc.gz
+2645,"12262    6.836954
+Name: chi_sub, dtype: float64",0,cassan_4_124_3266.det.lc.gz
+2646,"12265    26.330301
+Name: chi_sub, dtype: float64",0,cassan_4_126_1403.det.lc.gz
+2647,"12266    8.869388
+Name: chi_sub, dtype: float64",0,cassan_4_126_2011.det.lc.gz
+2648,"12267    18.90218
+Name: chi_sub, dtype: float64",0,cassan_4_137_473.det.lc.gz
+2651,"12272    10.01606
+Name: chi_sub, dtype: float64",0,cassan_4_151_649.det.lc.gz
+2653,"12276    9.428717
+Name: chi_sub, dtype: float64",0,cassan_4_20_1346.det.lc.gz
+2654,"12277    6.111401
+Name: chi_sub, dtype: float64",0,cassan_4_20_895.det.lc.gz
+2655,"12279    21.957717
+Name: chi_sub, dtype: float64",0,cassan_4_21_1958.det.lc.gz
+2656,"12281    34.410143
+Name: chi_sub, dtype: float64",0,cassan_4_22_2363.det.lc.gz
+2657,"12282    31.905504
+Name: chi_sub, dtype: float64",0,cassan_4_22_903.det.lc.gz
+2659,"12287    12.709106
+Name: chi_sub, dtype: float64",0,cassan_4_35_1785.det.lc.gz
+2660,"12288    16.208275
+Name: chi_sub, dtype: float64",0,cassan_4_37_1558.det.lc.gz
+2661,"12289    17.881914
+Name: chi_sub, dtype: float64",0,cassan_4_37_3331.det.lc.gz
+2662,"12290    10.768589
+Name: chi_sub, dtype: float64",0,cassan_4_43_2591.det.lc.gz
+2664,"12296    28.946809
+Name: chi_sub, dtype: float64",0,cassan_4_57_2078.det.lc.gz
+2665,"12297    38.530887
+Name: chi_sub, dtype: float64",0,cassan_4_57_86.det.lc.gz
+2667,"12303    1.213274
+Name: chi_sub, dtype: float64",0,cassan_4_61_1848.det.lc.gz
+2668,"12305    38.308617
+Name: chi_sub, dtype: float64",0,cassan_4_61_418.det.lc.gz
+2669,"12306    23.556344
+Name: chi_sub, dtype: float64",0,cassan_4_62_1926.det.lc.gz
+2672,"12312    22.980053
+Name: chi_sub, dtype: float64",0,cassan_4_72_1023.det.lc.gz
+2673,"12314    20.235801
+Name: chi_sub, dtype: float64",0,cassan_4_76_326.det.lc.gz
+2675,"12320    4.042278
+Name: chi_sub, dtype: float64",0,cassan_4_88_1535.det.lc.gz
+2677,"12322    19.225578
+Name: chi_sub, dtype: float64",0,cassan_4_89_1022.det.lc.gz
+2680,"12329    31.909892
+Name: chi_sub, dtype: float64",0,cassan_4_9_2372.det.lc.gz
+2683,"12334    5.355698
+Name: chi_sub, dtype: float64",0,cassan_50_109_1671.det.lc.gz
+2684,"12337    7.410863
+Name: chi_sub, dtype: float64",0,cassan_50_110_3023.det.lc.gz
+2686,"12339    13.411808
+Name: chi_sub, dtype: float64",0,cassan_50_111_2445.det.lc.gz
+2687,"12340    39.676532
+Name: chi_sub, dtype: float64",0,cassan_50_112_1101.det.lc.gz
+2690,"12347    39.812693
+Name: chi_sub, dtype: float64",0,cassan_50_126_1082.det.lc.gz
+2691,"12350    4.004868
+Name: chi_sub, dtype: float64",0,cassan_50_127_387.det.lc.gz
+2692,"12351    28.487831
+Name: chi_sub, dtype: float64",0,cassan_50_136_2291.det.lc.gz
+2693,"12352    6.461219
+Name: chi_sub, dtype: float64",0,cassan_50_137_2528.det.lc.gz
+2694,"12355    35.824564
+Name: chi_sub, dtype: float64",0,cassan_50_139_26.det.lc.gz
+2695,"12356    16.275893
+Name: chi_sub, dtype: float64",0,cassan_50_139_664.det.lc.gz
+2696,"12357    37.10796
+Name: chi_sub, dtype: float64",0,cassan_50_150_562.det.lc.gz
+2697,"12360    11.278809
+Name: chi_sub, dtype: float64",0,cassan_50_17_1326.det.lc.gz
+2698,"12363    25.104497
+Name: chi_sub, dtype: float64",0,cassan_50_22_2722.det.lc.gz
+2699,"12364    0.485191
+Name: chi_sub, dtype: float64",0,cassan_50_23_64.det.lc.gz
+2700,"12365    15.134394
+Name: chi_sub, dtype: float64",0,cassan_50_30_1331.det.lc.gz
+2704,"12370    26.507535
+Name: chi_sub, dtype: float64",0,cassan_50_32_2317.det.lc.gz
+2708,"12377    6.440222
+Name: chi_sub, dtype: float64",0,cassan_50_43_1272.det.lc.gz
+2709,"12378    26.260588
+Name: chi_sub, dtype: float64",0,cassan_50_43_2288.det.lc.gz
+2710,"12380    14.015267
+Name: chi_sub, dtype: float64",0,cassan_50_45_382.det.lc.gz
+2711,"12383    39.987029
+Name: chi_sub, dtype: float64",0,cassan_50_46_778.det.lc.gz
+2712,"12384    38.336578
+Name: chi_sub, dtype: float64",0,cassan_50_47_2377.det.lc.gz
+2713,"12385    7.68803
+Name: chi_sub, dtype: float64",0,cassan_50_49_878.det.lc.gz
+2714,"12386    30.59394
+Name: chi_sub, dtype: float64",0,cassan_50_4_1210.det.lc.gz
+2715,"12387    16.327939
+Name: chi_sub, dtype: float64",0,cassan_50_4_1934.det.lc.gz
+2716,"12388    4.552484
+Name: chi_sub, dtype: float64",0,cassan_50_50_3021.det.lc.gz
+2717,"12392    7.029299
+Name: chi_sub, dtype: float64",0,cassan_50_56_2609.det.lc.gz
+2718,"12393    24.630289
+Name: chi_sub, dtype: float64",0,cassan_50_56_3181.det.lc.gz
+2719,"12394    26.448624
+Name: chi_sub, dtype: float64",0,cassan_50_57_2455.det.lc.gz
+2720,"12395    22.609114
+Name: chi_sub, dtype: float64",0,cassan_50_57_2794.det.lc.gz
+2721,"12398    6.918848
+Name: chi_sub, dtype: float64",0,cassan_50_59_1481.det.lc.gz
+2723,"12402    22.310053
+Name: chi_sub, dtype: float64",0,cassan_50_63_2417.det.lc.gz
+2724,"12404    5.863494
+Name: chi_sub, dtype: float64",0,cassan_50_69_501.det.lc.gz
+2725,"12407    20.493914
+Name: chi_sub, dtype: float64",0,cassan_50_73_972.det.lc.gz
+2726,"12408    14.589349
+Name: chi_sub, dtype: float64",0,cassan_50_74_720.det.lc.gz
+2727,"12409    6.167602
+Name: chi_sub, dtype: float64",0,cassan_50_75_2157.det.lc.gz
+2728,"12411    19.136529
+Name: chi_sub, dtype: float64",0,cassan_50_75_3022.det.lc.gz
+2730,"12415    19.496982
+Name: chi_sub, dtype: float64",0,cassan_50_7_242.det.lc.gz
+2732,"12420    9.261262
+Name: chi_sub, dtype: float64",0,cassan_50_84_1147.det.lc.gz
+2733,"12422    14.373708
+Name: chi_sub, dtype: float64",0,cassan_50_85_1092.det.lc.gz
+2734,"12424    22.452262
+Name: chi_sub, dtype: float64",0,cassan_50_86_3320.det.lc.gz
+2735,"12426    24.348389
+Name: chi_sub, dtype: float64",0,cassan_50_87_1439.det.lc.gz
+2736,"12427    35.912974
+Name: chi_sub, dtype: float64",0,cassan_50_87_1933.det.lc.gz
+2737,"12428    34.208896
+Name: chi_sub, dtype: float64",0,cassan_50_89_443.det.lc.gz
+2739,"12432    20.543469
+Name: chi_sub, dtype: float64",0,cassan_50_96_1503.det.lc.gz
+2740,"12435    9.390415
+Name: chi_sub, dtype: float64",0,cassan_50_98_1734.det.lc.gz
+2741,"12436    3.633992
+Name: chi_sub, dtype: float64",0,cassan_50_98_2293.det.lc.gz
+2743,"12440    15.720613
+Name: chi_sub, dtype: float64",0,cassan_51_17_2373.det.lc.gz
+2744,"12441    11.513833
+Name: chi_sub, dtype: float64",0,cassan_51_18_2219.det.lc.gz
+2746,"12444    10.108283
+Name: chi_sub, dtype: float64",0,cassan_51_20_86.det.lc.gz
+2747,"12445    17.711536
+Name: chi_sub, dtype: float64",0,cassan_51_23_50.det.lc.gz
+2748,"12447    26.735806
+Name: chi_sub, dtype: float64",0,cassan_51_24_1937.det.lc.gz
+2749,"12452    16.217975
+Name: chi_sub, dtype: float64",0,cassan_51_32_1651.det.lc.gz
+2750,"12460    19.029455
+Name: chi_sub, dtype: float64",0,cassan_51_45_2869.det.lc.gz
+2751,"12462    8.757743
+Name: chi_sub, dtype: float64",0,cassan_51_4_2281.det.lc.gz
+2752,"12466    19.991451
+Name: chi_sub, dtype: float64",0,cassan_51_58_981.det.lc.gz
+2753,"12467    8.92125
+Name: chi_sub, dtype: float64",0,cassan_51_5_1544.det.lc.gz
+2754,"12468    23.851176
+Name: chi_sub, dtype: float64",0,cassan_51_60_1027.det.lc.gz
+2755,"12469    18.615068
+Name: chi_sub, dtype: float64",0,cassan_51_60_995.det.lc.gz
+2756,"12470    14.737902
+Name: chi_sub, dtype: float64",0,cassan_51_61_2408.det.lc.gz
+2758,"12472    7.072859
+Name: chi_sub, dtype: float64",0,cassan_51_63_2045.det.lc.gz
+2759,"12474    18.670676
+Name: chi_sub, dtype: float64",0,cassan_51_63_3195.det.lc.gz
+2760,"12475    2.612719
+Name: chi_sub, dtype: float64",0,cassan_51_63_64.det.lc.gz
+2761,"12476    10.857487
+Name: chi_sub, dtype: float64",0,cassan_51_69_1500.det.lc.gz
+2764,"12481    8.182712
+Name: chi_sub, dtype: float64",0,cassan_51_71_1318.det.lc.gz
+2765,"12484    32.154954
+Name: chi_sub, dtype: float64",0,cassan_51_73_1071.det.lc.gz
+2766,"12485    37.446626
+Name: chi_sub, dtype: float64",0,cassan_51_73_1155.det.lc.gz
+2767,"12492    16.917809
+Name: chi_sub, dtype: float64",0,cassan_51_86_1858.det.lc.gz
+2768,"12493    31.599219
+Name: chi_sub, dtype: float64",0,cassan_51_86_3138.det.lc.gz
+2770,"12496    17.538872
+Name: chi_sub, dtype: float64",0,cassan_51_88_892.det.lc.gz
+2771,"12497    13.677746
+Name: chi_sub, dtype: float64",0,cassan_51_98_2681.det.lc.gz
+2774,"12500    11.029544
+Name: chi_sub, dtype: float64",0,cassan_5_100_890.det.lc.gz
+2775,"12501    37.37105
+Name: chi_sub, dtype: float64",0,cassan_5_101_2056.det.lc.gz
+2776,"12502    6.598269
+Name: chi_sub, dtype: float64",0,cassan_5_101_360.det.lc.gz
+2777,"12503    21.125097
+Name: chi_sub, dtype: float64",0,cassan_5_102_3124.det.lc.gz
+2778,"12504    17.016612
+Name: chi_sub, dtype: float64",0,cassan_5_102_696.det.lc.gz
+2779,"12505    6.002093
+Name: chi_sub, dtype: float64",0,cassan_5_109_1458.det.lc.gz
+2780,"12506    7.476541
+Name: chi_sub, dtype: float64",0,cassan_5_109_2695.det.lc.gz
+2781,"12507    21.281102
+Name: chi_sub, dtype: float64",0,cassan_5_110_1849.det.lc.gz
+2784,"12510    13.478153
+Name: chi_sub, dtype: float64",0,cassan_5_114_1998.det.lc.gz
+2785,"12512    16.556822
+Name: chi_sub, dtype: float64",0,cassan_5_123_1254.det.lc.gz
+2786,"12513    38.811607
+Name: chi_sub, dtype: float64",0,cassan_5_123_1507.det.lc.gz
+2787,"12515    17.226511
+Name: chi_sub, dtype: float64",0,cassan_5_123_699.det.lc.gz
+2788,"12519    22.844777
+Name: chi_sub, dtype: float64",0,cassan_5_125_804.det.lc.gz
+2789,"12521    18.776582
+Name: chi_sub, dtype: float64",0,cassan_5_126_223.det.lc.gz
+2793,"12530    5.574688
+Name: chi_sub, dtype: float64",0,cassan_5_138_2217.det.lc.gz
+2794,"12531    10.653946
+Name: chi_sub, dtype: float64",0,cassan_5_139_136.det.lc.gz
+2796,"12535    18.578358
+Name: chi_sub, dtype: float64",0,cassan_5_18_47.det.lc.gz
+2797,"12536    3.497111
+Name: chi_sub, dtype: float64",0,cassan_5_19_2390.det.lc.gz
+2798,"12537    38.225633
+Name: chi_sub, dtype: float64",0,cassan_5_19_2765.det.lc.gz
+2799,"12538    24.586786
+Name: chi_sub, dtype: float64",0,cassan_5_20_155.det.lc.gz
+2800,"12540    16.302434
+Name: chi_sub, dtype: float64",0,cassan_5_21_1566.det.lc.gz
+2801,"12541    11.82833
+Name: chi_sub, dtype: float64",0,cassan_5_21_2422.det.lc.gz
+2802,"12544    11.369772
+Name: chi_sub, dtype: float64",0,cassan_5_23_64.det.lc.gz
+2803,"12546    6.813956
+Name: chi_sub, dtype: float64",0,cassan_5_30_3237.det.lc.gz
+2804,"12549    27.83472
+Name: chi_sub, dtype: float64",0,cassan_5_33_935.det.lc.gz
+2805,"12551    38.324725
+Name: chi_sub, dtype: float64",0,cassan_5_36_1720.det.lc.gz
+2806,"12553    12.262388
+Name: chi_sub, dtype: float64",0,cassan_5_37_1843.det.lc.gz
+2807,"12555    18.490164
+Name: chi_sub, dtype: float64",0,cassan_5_44_1675.det.lc.gz
+2808,"12556    9.923939
+Name: chi_sub, dtype: float64",0,cassan_5_44_2351.det.lc.gz
+2809,"12557    15.209649
+Name: chi_sub, dtype: float64",0,cassan_5_44_3125.det.lc.gz
+2810,"12558    5.106572
+Name: chi_sub, dtype: float64",0,cassan_5_44_523.det.lc.gz
+2811,"12559    12.988927
+Name: chi_sub, dtype: float64",0,cassan_5_45_2868.det.lc.gz
+2812,"12562    16.825612
+Name: chi_sub, dtype: float64",0,cassan_5_48_1000.det.lc.gz
+2815,"12566    30.516905
+Name: chi_sub, dtype: float64",0,cassan_5_50_1040.det.lc.gz
+2816,"12569    26.870655
+Name: chi_sub, dtype: float64",0,cassan_5_57_2780.det.lc.gz
+2818,"12571    28.835865
+Name: chi_sub, dtype: float64",0,cassan_5_58_530.det.lc.gz
+2821,"12575    28.029255
+Name: chi_sub, dtype: float64",0,cassan_5_5_2957.det.lc.gz
+2823,"12577    9.099262
+Name: chi_sub, dtype: float64",0,cassan_5_60_2691.det.lc.gz
+2824,"12579    31.166525
+Name: chi_sub, dtype: float64",0,cassan_5_60_9.det.lc.gz
+2825,"12580    18.511555
+Name: chi_sub, dtype: float64",0,cassan_5_61_2147.det.lc.gz
+2826,"12583    37.059193
+Name: chi_sub, dtype: float64",0,cassan_5_61_842.det.lc.gz
+2828,"12586    12.733094
+Name: chi_sub, dtype: float64",0,cassan_5_71_143.det.lc.gz
+2829,"12587    12.805605
+Name: chi_sub, dtype: float64",0,cassan_5_71_595.det.lc.gz
+2831,"12589    24.364888
+Name: chi_sub, dtype: float64",0,cassan_5_73_1003.det.lc.gz
+2832,"12591    28.772223
+Name: chi_sub, dtype: float64",0,cassan_5_74_3205.det.lc.gz
+2835,"12598    15.808057
+Name: chi_sub, dtype: float64",0,cassan_5_89_3209.det.lc.gz
+2836,"12599    18.493559
+Name: chi_sub, dtype: float64",0,cassan_5_89_525.det.lc.gz
+2837,"12601    16.047163
+Name: chi_sub, dtype: float64",0,cassan_5_8_674.det.lc.gz
+2838,"12602    5.041969
+Name: chi_sub, dtype: float64",0,cassan_5_8_886.det.lc.gz
+2840,"12604    8.605111
+Name: chi_sub, dtype: float64",0,cassan_5_97_236.det.lc.gz
+2843,"12607    15.291686
+Name: chi_sub, dtype: float64",0,cassan_5_98_823.det.lc.gz
+2845,"12612    16.92049
+Name: chi_sub, dtype: float64",0,cassan_6_100_449.det.lc.gz
+2846,"12614    2.910945
+Name: chi_sub, dtype: float64",0,cassan_6_101_464.det.lc.gz
+2847,"12615    15.927274
+Name: chi_sub, dtype: float64",0,cassan_6_102_201.det.lc.gz
+2848,"12616    24.087604
+Name: chi_sub, dtype: float64",0,cassan_6_102_233.det.lc.gz
+2849,"12617    13.967086
+Name: chi_sub, dtype: float64",0,cassan_6_10_1904.det.lc.gz
+2850,"12619    20.390215
+Name: chi_sub, dtype: float64",0,cassan_6_110_208.det.lc.gz
+2852,"12622    14.108932
+Name: chi_sub, dtype: float64",0,cassan_6_123_1472.det.lc.gz
+2853,"12623    23.614791
+Name: chi_sub, dtype: float64",0,cassan_6_124_1462.det.lc.gz
+2854,"12624    15.077061
+Name: chi_sub, dtype: float64",0,cassan_6_124_21.det.lc.gz
+2855,"12627    5.996381
+Name: chi_sub, dtype: float64",0,cassan_6_126_703.det.lc.gz
+2858,"12634    24.989556
+Name: chi_sub, dtype: float64",0,cassan_6_140_711.det.lc.gz
+2860,"12637    16.310537
+Name: chi_sub, dtype: float64",0,cassan_6_17_920.det.lc.gz
+2861,"12639    36.773994
+Name: chi_sub, dtype: float64",0,cassan_6_18_2984.det.lc.gz
+2863,"12646    1.478327
+Name: chi_sub, dtype: float64",0,cassan_6_30_2665.det.lc.gz
+2864,"12648    29.546592
+Name: chi_sub, dtype: float64",0,cassan_6_31_1904.det.lc.gz
+2865,"12649    19.922946
+Name: chi_sub, dtype: float64",0,cassan_6_32_1091.det.lc.gz
+2866,"12651    36.124724
+Name: chi_sub, dtype: float64",0,cassan_6_36_808.det.lc.gz
+2867,"12652    31.207652
+Name: chi_sub, dtype: float64",0,cassan_6_37_1332.det.lc.gz
+2868,"12653    39.771437
+Name: chi_sub, dtype: float64",0,cassan_6_37_1782.det.lc.gz
+2870,"12658    13.861341
+Name: chi_sub, dtype: float64",0,cassan_6_45_1875.det.lc.gz
+2871,"12659    31.918272
+Name: chi_sub, dtype: float64",0,cassan_6_45_2373.det.lc.gz
+2873,"12661    33.067571
+Name: chi_sub, dtype: float64",0,cassan_6_46_2628.det.lc.gz
+2876,"12667    10.723723
+Name: chi_sub, dtype: float64",0,cassan_6_4_1231.det.lc.gz
+2877,"12668    18.557975
+Name: chi_sub, dtype: float64",0,cassan_6_4_1543.det.lc.gz
+2878,"12669    4.501604
+Name: chi_sub, dtype: float64",0,cassan_6_50_245.det.lc.gz
+2880,"12671    9.360145
+Name: chi_sub, dtype: float64",0,cassan_6_56_1428.det.lc.gz
+2881,"12672    10.715468
+Name: chi_sub, dtype: float64",0,cassan_6_56_257.det.lc.gz
+2882,"12673    37.22452
+Name: chi_sub, dtype: float64",0,cassan_6_56_868.det.lc.gz
+2883,"12675    28.457583
+Name: chi_sub, dtype: float64",0,cassan_6_58_811.det.lc.gz
+2884,"12677    0.000049
+Name: chi_sub, dtype: float64",0,cassan_6_59_2949.det.lc.gz
+2886,"12679    9.371352
+Name: chi_sub, dtype: float64",0,cassan_6_5_353.det.lc.gz
+2888,"12682    2.933618
+Name: chi_sub, dtype: float64",0,cassan_6_61_1450.det.lc.gz
+2889,"12684    34.425043
+Name: chi_sub, dtype: float64",0,cassan_6_61_2537.det.lc.gz
+2890,"12686    18.959732
+Name: chi_sub, dtype: float64",0,cassan_6_62_1162.det.lc.gz
+2891,"12687    32.076014
+Name: chi_sub, dtype: float64",0,cassan_6_62_2947.det.lc.gz
+2892,"12693    14.318319
+Name: chi_sub, dtype: float64",0,cassan_6_6_1509.det.lc.gz
+2896,"12704    24.690672
+Name: chi_sub, dtype: float64",0,cassan_6_88_346.det.lc.gz
+2898,"12706    22.98126
+Name: chi_sub, dtype: float64",0,cassan_6_89_288.det.lc.gz
+2900,"12709    36.731544
+Name: chi_sub, dtype: float64",0,cassan_6_98_2686.det.lc.gz
+2902,"12712    0.681439
+Name: chi_sub, dtype: float64",0,cassan_6_98_639.det.lc.gz
+2903,"12713    21.269213
+Name: chi_sub, dtype: float64",0,cassan_6_99_3250.det.lc.gz
+2904,"12715    5.328256
+Name: chi_sub, dtype: float64",0,cassan_7_101_2609.det.lc.gz
+2905,"12716    8.651038
+Name: chi_sub, dtype: float64",0,cassan_7_102_423.det.lc.gz
+2906,"12717    15.482669
+Name: chi_sub, dtype: float64",0,cassan_7_109_1112.det.lc.gz
+2907,"12718    37.578371
+Name: chi_sub, dtype: float64",0,cassan_7_10_543.det.lc.gz
+2908,"12722    7.193455
+Name: chi_sub, dtype: float64",0,cassan_7_111_2492.det.lc.gz
+2909,"12723    6.56678
+Name: chi_sub, dtype: float64",0,cassan_7_112_2965.det.lc.gz
+2910,"12727    5.343202
+Name: chi_sub, dtype: float64",0,cassan_7_114_3010.det.lc.gz
+2911,"12729    11.623281
+Name: chi_sub, dtype: float64",0,cassan_7_124_1337.det.lc.gz
+2912,"12730    13.596696
+Name: chi_sub, dtype: float64",0,cassan_7_124_1663.det.lc.gz
+2913,"12732    14.439318
+Name: chi_sub, dtype: float64",0,cassan_7_125_1259.det.lc.gz
+2914,"12734    11.768697
+Name: chi_sub, dtype: float64",0,cassan_7_127_117.det.lc.gz
+2916,"12740    17.028868
+Name: chi_sub, dtype: float64",0,cassan_7_138_2328.det.lc.gz
+2917,"12742    23.643707
+Name: chi_sub, dtype: float64",0,cassan_7_150_1038.det.lc.gz
+2918,"12744    4.78905
+Name: chi_sub, dtype: float64",0,cassan_7_151_2893.det.lc.gz
+2919,"12745    36.383467
+Name: chi_sub, dtype: float64",0,cassan_7_17_1594.det.lc.gz
+2920,"12747    19.009759
+Name: chi_sub, dtype: float64",0,cassan_7_18_906.det.lc.gz
+2921,"12748    35.511799
+Name: chi_sub, dtype: float64",0,cassan_7_20_405.det.lc.gz
+2923,"12752    18.047916
+Name: chi_sub, dtype: float64",0,cassan_7_31_546.det.lc.gz
+2924,"12753    17.861342
+Name: chi_sub, dtype: float64",0,cassan_7_31_915.det.lc.gz
+2925,"12755    12.765116
+Name: chi_sub, dtype: float64",0,cassan_7_34_1412.det.lc.gz
+2926,"12756    35.822253
+Name: chi_sub, dtype: float64",0,cassan_7_34_780.det.lc.gz
+2927,"12757    12.137914
+Name: chi_sub, dtype: float64",0,cassan_7_35_243.det.lc.gz
+2929,"12760    7.11128
+Name: chi_sub, dtype: float64",0,cassan_7_37_2794.det.lc.gz
+2932,"12767    20.510083
+Name: chi_sub, dtype: float64",0,cassan_7_48_1890.det.lc.gz
+2933,"12768    39.904832
+Name: chi_sub, dtype: float64",0,cassan_7_49_1770.det.lc.gz
+2934,"12769    22.97077
+Name: chi_sub, dtype: float64",0,cassan_7_49_734.det.lc.gz
+2935,"12770    24.416878
+Name: chi_sub, dtype: float64",0,cassan_7_4_1317.det.lc.gz
+2936,"12772    14.089123
+Name: chi_sub, dtype: float64",0,cassan_7_4_2741.det.lc.gz
+2938,"12775    18.695804
+Name: chi_sub, dtype: float64",0,cassan_7_50_503.det.lc.gz
+2940,"12777    5.15617
+Name: chi_sub, dtype: float64",0,cassan_7_56_1873.det.lc.gz
+2941,"12779    36.289801
+Name: chi_sub, dtype: float64",0,cassan_7_57_3024.det.lc.gz
+2942,"12780    0.450011
+Name: chi_sub, dtype: float64",0,cassan_7_58_210.det.lc.gz
+2943,"12781    28.018768
+Name: chi_sub, dtype: float64",0,cassan_7_58_2141.det.lc.gz
+2944,"12783    24.323376
+Name: chi_sub, dtype: float64",0,cassan_7_59_389.det.lc.gz
+2945,"12786    10.137443
+Name: chi_sub, dtype: float64",0,cassan_7_63_1153.det.lc.gz
+2948,"12792    31.998531
+Name: chi_sub, dtype: float64",0,cassan_7_73_1689.det.lc.gz
+2950,"12794    11.862354
+Name: chi_sub, dtype: float64",0,cassan_7_75_3092.det.lc.gz
+2951,"12796    27.85673
+Name: chi_sub, dtype: float64",0,cassan_7_76_2281.det.lc.gz
+2953,"12798    24.817597
+Name: chi_sub, dtype: float64",0,cassan_7_7_1039.det.lc.gz
+2954,"12799    6.226516
+Name: chi_sub, dtype: float64",0,cassan_7_7_2438.det.lc.gz
+2955,"12800    15.089146
+Name: chi_sub, dtype: float64",0,cassan_7_82_970.det.lc.gz
+2956,"12804    18.596454
+Name: chi_sub, dtype: float64",0,cassan_7_84_3195.det.lc.gz
+2957,"12806    18.592698
+Name: chi_sub, dtype: float64",0,cassan_7_85_91.det.lc.gz
+2959,"12809    3.889542
+Name: chi_sub, dtype: float64",0,cassan_7_99_3006.det.lc.gz
+2961,"12811    17.358957
+Name: chi_sub, dtype: float64",0,cassan_7_9_2446.det.lc.gz
+2962,"12812    14.261465
+Name: chi_sub, dtype: float64",0,cassan_7_9_465.det.lc.gz
+2963,"12813    39.445685
+Name: chi_sub, dtype: float64",0,cassan_8_100_2039.det.lc.gz
+2964,"12815    17.339044
+Name: chi_sub, dtype: float64",0,cassan_8_101_1733.det.lc.gz
+2965,"12816    13.98996
+Name: chi_sub, dtype: float64",0,cassan_8_102_2418.det.lc.gz
+2967,"12818    21.060685
+Name: chi_sub, dtype: float64",0,cassan_8_102_651.det.lc.gz
+2968,"12820    34.717281
+Name: chi_sub, dtype: float64",0,cassan_8_102_773.det.lc.gz
+2969,"12821    9.423491
+Name: chi_sub, dtype: float64",0,cassan_8_109_2079.det.lc.gz
+2970,"12822    12.260392
+Name: chi_sub, dtype: float64",0,cassan_8_110_159.det.lc.gz
+2972,"12824    0.785929
+Name: chi_sub, dtype: float64",0,cassan_8_113_2239.det.lc.gz
+2973,"12826    12.218857
+Name: chi_sub, dtype: float64",0,cassan_8_114_136.det.lc.gz
+2974,"12828    9.72036
+Name: chi_sub, dtype: float64",0,cassan_8_115_1452.det.lc.gz
+2976,"12835    2.060263
+Name: chi_sub, dtype: float64",0,cassan_8_125_2439.det.lc.gz
+2978,"12837    3.004833
+Name: chi_sub, dtype: float64",0,cassan_8_127_1277.det.lc.gz
+2979,"12838    28.923174
+Name: chi_sub, dtype: float64",0,cassan_8_136_1815.det.lc.gz
+2984,"12849    4.606391
+Name: chi_sub, dtype: float64",0,cassan_8_19_183.det.lc.gz
+2985,"12850    20.936733
+Name: chi_sub, dtype: float64",0,cassan_8_19_952.det.lc.gz
+2989,"12860    17.090605
+Name: chi_sub, dtype: float64",0,cassan_8_32_1906.det.lc.gz
+2992,"12866    8.022827
+Name: chi_sub, dtype: float64",0,cassan_8_46_1168.det.lc.gz
+2994,"12869    18.395333
+Name: chi_sub, dtype: float64",0,cassan_8_48_2212.det.lc.gz
+2995,"12870    31.977816
+Name: chi_sub, dtype: float64",0,cassan_8_48_2445.det.lc.gz
+2996,"12872    4.644274
+Name: chi_sub, dtype: float64",0,cassan_8_4_2963.det.lc.gz
+2999,"12876    11.289353
+Name: chi_sub, dtype: float64",0,cassan_8_57_2093.det.lc.gz
+3000,"12878    14.144023
+Name: chi_sub, dtype: float64",0,cassan_8_58_2598.det.lc.gz
+3001,"12879    29.541872
+Name: chi_sub, dtype: float64",0,cassan_8_5_2559.det.lc.gz
+3002,"12880    7.932753
+Name: chi_sub, dtype: float64",0,cassan_8_60_2824.det.lc.gz
+3003,"12883    15.785146
+Name: chi_sub, dtype: float64",0,cassan_8_61_167.det.lc.gz
+3005,"12885    7.163081
+Name: chi_sub, dtype: float64",0,cassan_8_69_35.det.lc.gz
+3006,"12886    12.394612
+Name: chi_sub, dtype: float64",0,cassan_8_6_2778.det.lc.gz
+3007,"12887    19.282984
+Name: chi_sub, dtype: float64",0,cassan_8_70_577.det.lc.gz
+3009,"12893    7.706641
+Name: chi_sub, dtype: float64",0,cassan_8_73_639.det.lc.gz
+3011,"12895    11.553349
+Name: chi_sub, dtype: float64",0,cassan_8_75_2814.det.lc.gz
+3013,"12897    11.159593
+Name: chi_sub, dtype: float64",0,cassan_8_76_2581.det.lc.gz
+3014,"12898    31.044002
+Name: chi_sub, dtype: float64",0,cassan_8_7_1783.det.lc.gz
+3016,"12902    38.054647
+Name: chi_sub, dtype: float64",0,cassan_8_84_3148.det.lc.gz
+3019,"12905    14.106858
+Name: chi_sub, dtype: float64",0,cassan_8_8_1683.det.lc.gz
+3020,"12906    14.303645
+Name: chi_sub, dtype: float64",0,cassan_8_8_2925.det.lc.gz
+3022,"12910    15.974793
+Name: chi_sub, dtype: float64",0,cassan_9_101_2201.det.lc.gz
+3024,"12915    38.967588
+Name: chi_sub, dtype: float64",0,cassan_9_109_2483.det.lc.gz
+3025,"12917    13.949089
+Name: chi_sub, dtype: float64",0,cassan_9_110_2557.det.lc.gz
+3027,"12919    19.143959
+Name: chi_sub, dtype: float64",0,cassan_9_111_1856.det.lc.gz
+3028,"12920    3.469001
+Name: chi_sub, dtype: float64",0,cassan_9_112_1552.det.lc.gz
+3030,"12923    1.402533
+Name: chi_sub, dtype: float64",0,cassan_9_113_3183.det.lc.gz
+3033,"12928    11.166015
+Name: chi_sub, dtype: float64",0,cassan_9_124_2700.det.lc.gz
+3034,"12930    37.042884
+Name: chi_sub, dtype: float64",0,cassan_9_126_2993.det.lc.gz
+3035,"12931    24.686602
+Name: chi_sub, dtype: float64",0,cassan_9_126_303.det.lc.gz
+3036,"12932    22.026077
+Name: chi_sub, dtype: float64",0,cassan_9_126_3297.det.lc.gz
+3037,"12933    21.885479
+Name: chi_sub, dtype: float64",0,cassan_9_136_1119.det.lc.gz
+3038,"12935    17.036132
+Name: chi_sub, dtype: float64",0,cassan_9_137_2184.det.lc.gz
+3039,"12937    10.038377
+Name: chi_sub, dtype: float64",0,cassan_9_139_652.det.lc.gz
+3042,"12942    15.188161
+Name: chi_sub, dtype: float64",0,cassan_9_151_148.det.lc.gz
+3043,"12945    10.282249
+Name: chi_sub, dtype: float64",0,cassan_9_18_2101.det.lc.gz
+3044,"12948    3.308101
+Name: chi_sub, dtype: float64",0,cassan_9_19_2917.det.lc.gz
+3045,"12950    2.329436
+Name: chi_sub, dtype: float64",0,cassan_9_21_1734.det.lc.gz
+3046,"12951    7.713988
+Name: chi_sub, dtype: float64",0,cassan_9_21_2684.det.lc.gz
+3048,"12958    15.132787
+Name: chi_sub, dtype: float64",0,cassan_9_34_700.det.lc.gz
+3049,"12961    17.044436
+Name: chi_sub, dtype: float64",0,cassan_9_37_2682.det.lc.gz
+3051,"12963    15.485606
+Name: chi_sub, dtype: float64",0,cassan_9_44_25.det.lc.gz
+3052,"12964    10.131868
+Name: chi_sub, dtype: float64",0,cassan_9_45_2126.det.lc.gz
+3053,"12965    33.822303
+Name: chi_sub, dtype: float64",0,cassan_9_45_2557.det.lc.gz
+3054,"12967    19.390821
+Name: chi_sub, dtype: float64",0,cassan_9_46_3014.det.lc.gz
+3056,"12970    37.80747
+Name: chi_sub, dtype: float64",0,cassan_9_4_1623.det.lc.gz
+3057,"12971    4.774872
+Name: chi_sub, dtype: float64",0,cassan_9_4_2846.det.lc.gz
+3058,"12973    11.134805
+Name: chi_sub, dtype: float64",0,cassan_9_50_2641.det.lc.gz
+3060,"12975    16.015743
+Name: chi_sub, dtype: float64",0,cassan_9_58_449.det.lc.gz
+3062,"12982    11.73026
+Name: chi_sub, dtype: float64",0,cassan_9_61_1547.det.lc.gz
+3063,"12983    14.065374
+Name: chi_sub, dtype: float64",0,cassan_9_61_53.det.lc.gz
+3064,"12984    6.284412
+Name: chi_sub, dtype: float64",0,cassan_9_63_1086.det.lc.gz
+3065,"12985    13.654811
+Name: chi_sub, dtype: float64",0,cassan_9_63_1485.det.lc.gz
+3067,"12989    15.714188
+Name: chi_sub, dtype: float64",0,cassan_9_70_1544.det.lc.gz
+3068,"12990    8.044576
+Name: chi_sub, dtype: float64",0,cassan_9_70_184.det.lc.gz
+3069,"12991    16.67683
+Name: chi_sub, dtype: float64",0,cassan_9_70_1888.det.lc.gz
+3072,"12998    13.984355
+Name: chi_sub, dtype: float64",0,cassan_9_86_2479.det.lc.gz
+3073,"13000    13.244507
+Name: chi_sub, dtype: float64",0,cassan_9_88_2518.det.lc.gz
+3075,"13006    16.138351
+Name: chi_sub, dtype: float64",0,cassan_9_99_2342.det.lc.gz
+3076,"13007    15.222167
+Name: chi_sub, dtype: float64",0,cassan_9_9_2104.det.lc.gz
+3077,"13009    8.823781
+Name: chi_sub, dtype: float64",0,cassan_9_9_2528.det.lc.gz
